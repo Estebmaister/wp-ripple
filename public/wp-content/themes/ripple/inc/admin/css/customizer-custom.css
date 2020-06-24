@@ -1,0 +1,164 @@
+/*User stick note*/
+.user_sticky_note {
+   padding: 10px 10px 15px;
+   background: #EEE;
+   border-bottom: 1px solid #EEE;
+}
+
+.upgrade-banner{
+    margin-top: 15px;
+    border: 5px solid #EEE;
+}
+
+/** Pro Promotion Banner Styles **/
+#customize-control-theme_info_theme .feat-list-img {
+    border: 1px solid #CBCBCB;
+}
+
+h3.sticky_title {
+   font-size: 22px !important;
+   margin-top: 12px;
+   margin-bottom: 11px;
+}
+
+span.sticky_info_row {
+   display: block;
+   line-height: 23px;
+}
+
+label.row-element {
+   font-weight: bold;
+}
+
+.upgrade-pro{
+    background-color: #e24545;
+    color: #FFF !important;
+    font-size: 12px;
+    padding: 5px;
+    line-height: 1;
+    display: block;
+    margin-top: 6px;
+    text-align: center;
+}
+
+.sticky_info_row .button{
+    width: 100%;
+    margin: 2px 0;
+    text-align: center;
+}
+
+#customize-control-theme_info_more_theme span,
+#customize-control-theme_info_pro_theme span,
+#customize-control-theme_info_useful_plugins span
+{width: 100%; display: block;
+    text-align: center;}
+
+.admin-pro-feature-list li{
+ 
+    border-bottom: 1px solid #DBDBDB;
+    margin: 0;
+    padding: 10px 0px;
+    line-height: 1;
+}
+.admin-pro-feature-list li:before{
+     content: "\f345";
+    font: 400 20px/1 dashicons;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 5px;
+ 
+ }
+.admin-pro-feature-list span{
+     display: inline-block;
+    width: 90%;
+    vertical-align: top;}
+.admin-pro-feature-list{
+    margin: 0 5px;
+}
+.buynow{
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;}
+
+/** Hel Info Customizer Custom Control **/
+.help-info {
+    border: 2px solid #d1d1d1;
+    margin-top: 21px;
+    padding: 10px;
+    position: relative;
+}
+
+.help-info > h4 {
+    background-color: #ffffff;
+    border: 2px solid #d1d1d1;
+    padding: 4px;
+    position: absolute;
+    text-align: center;
+    top: -33px;
+    width: 100px;
+}
+.help-info {
+    border: 2px solid #d1d1d1;
+    margin-top: 21px;
+    padding: 10px;
+    position: relative;
+}
+
+.help-info > h4 {
+    background-color: #ffffff;
+    border: 2px solid #d1d1d1;
+    padding: 4px;
+    position: absolute;
+    text-align: center;
+    top: -33px;
+    width: 100px;
+}
+
+/**
+ * Upgred To Pro
+*/
+.control-section-ripple-pro{
+  display: block !important;
+}
+#customize-theme-controls .control-section-ripple-pro h3.accordion-section-title {
+    background: #0073aa !important;
+    color: #FFF !important;
+    border: 0;
+}
+.control-section-ripple-pro .accordion-section-title .button {
+    margin-top: -4px;
+    margin-left: 8px;
+    border: none;
+    color: #fff;
+    background: #28c503;
+    box-shadow: none;
+}
+#customize-control-ripple_theme_info a {
+    background: #2e8ecb;
+    color: #fff;
+    display: block;
+    padding: 7px 0;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    text-decoration: none;
+}
+#customize-control-ripple_theme_info a:hover{
+    color: #fff;
+    background: #2380BA;
+}
+#customize-control-ripple_theme_info a.buynow {
+    padding: 0;
+}
+
+.upgrade-pro{
+   background-color: #e24545;
+   color: #FFF !important;
+   font-size: 12px;
+   padding: 5px;
+   line-height: 1;
+   display: block;
+   margin-top: 6px;
+   text-align: center;
+   text-decoration: none;
+}

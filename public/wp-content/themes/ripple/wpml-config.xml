@@ -1,0 +1,27 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_ripple">
+    <key name="ripple_footer_copy_right_text" />
+    <key name="ripple_feature_section_menu_title" />
+    <key name="ripple_feature_section_title" />
+    <key name="ripple_feature_section_descr" />
+    <key name="ripple_progress_section_menu_title" />
+    <key name="ripple_progress_section_title" />
+    <key name="ripple_progress_section_descr" />
+    <key name="ripple_portfolio_section_menu_title" />
+    <key name="ripple_portfolio_section_title" />
+    <key name="ripple_about_section_menu_title" />
+    <key name="ripple_about_section_title" />
+    <key name="ripple_about_section_descr" />
+    <key name="ripple_testimonial_section_menu_title" />
+    <key name="ripple_testimonial_section_title" />
+    <key name="ripple_blog_section_menu_title" />
+    <key name="ripple_blog_section_title" />
+    <key name="ripple_blog_section_descr" />
+    <key name="ripple_blog_section_view_all" />
+    <key name="ripple_cl_logo_section_menu_title" />
+    <key name="ripple_service_section_menu_title" />
+    <key name="ripple_contact_section_menu_title" />
+</key>
+</admin-texts>
+</wpml-config>

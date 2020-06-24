@@ -1,0 +1,5627 @@
+# Translation of Plugins - Jetpack by WordPress.com - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Jetpack by WordPress.com - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-04 10:04:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Jetpack by WordPress.com - Stable (latest release)\n"
+
+#: extensions/blocks/mailchimp/mailchimp.php:59 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Enter your email"
+msgstr "Εισάγετε την διεύθυνση Email σας"
+
+#: modules/widgets/simple-payments/form.php:98 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Remove image"
+msgstr "Αφαίρεση εικόνας"
+
+#: modules/widgets/simple-payments/form.php:92
+msgid "Product image"
+msgstr "Φωτογραφία προιόντος"
+
+#: modules/widgets/simple-payments/form.php:94
+msgid "Select an image"
+msgstr "Επιλέξτε φωτογραφία"
+
+#: modules/widgets/simple-payments/form.php:177
+msgid "Delete Product"
+msgstr "Διαγραφή προιόντος"
+
+#: modules/widgets/simple-payments.php:65 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Simple Payments"
+msgstr "Απλές Πληρωμές"
+
+#: modules/widgets/eu-cookie-law/form.php:269
+msgid "Top"
+msgstr "Κορυφή"
+
+#: modules/widgets/eu-cookie-law/form.php:247
+msgid "Position"
+msgstr "Θέση"
+
+#: _inc/lib/admin-pages/class.jetpack-admin-page.php:387
+msgctxt "Navigation item"
+msgid "Debug"
+msgstr "Αποσφαλμάτωση"
+
+#: modules/wordads/php/widgets.php:79
+msgid "Tag Dimensions:"
+msgstr "Διαστάσεις Ετικέτας:"
+
+#: modules/widgets/milestone/milestone.php:638
+msgid "Minutes"
+msgstr "Λεπτά"
+
+#: modules/widgets/milestone/milestone.php:635
+msgid "Hour"
+msgstr "Ώρα"
+
+#: modules/widgets/milestone/milestone.php:628 modules/widgets/search.php:938
+msgid "Year"
+msgstr "Έτος"
+
+#: modules/widgets/milestone/milestone.php:625
+msgid "Day"
+msgstr "Ημέρα"
+
+#: modules/widgets/milestone/milestone.php:616 modules/widgets/search.php:935
+msgid "Month"
+msgstr "Μήνας"
+
+#: modules/widgets/milestone/milestone.php:556
+msgid "The big day is here."
+msgstr "Η μεγάλη ημέρα είναι εδώ."
+
+#: modules/widgets/milestone/milestone.php:553
+msgid "The Big Day"
+msgstr "Η Μεγάλη Ημέρα"
+
+#: modules/widgets/eu-cookie-law/form.php:206
+msgid "days"
+msgstr "ημέρες"
+
+#: modules/widgets/google-translate.php:43
+msgid "Translate"
+msgstr "Μετάφραση"
+
+#: modules/widgets/authors.php:24 modules/widgets/authors.php:70
+msgid "Authors"
+msgstr "Εκδότες"
+
+#: modules/shortcodes/gravatar.php:149
+msgid "Bio:"
+msgstr "Βιογραφικό:"
+
+#: modules/theme-tools/content-options/author-bio.php:55
+msgid "View all posts by %s"
+msgstr "Προβολή όλων των δημοσιεύσεων από %s"
+
+#: modules/theme-tools/content-options/author-bio.php:49
+msgid "Published by %s"
+msgstr "Δημοσιεύτηκε από %s"
+
+#: modules/related-posts/class.related-posts-customize.php:246
+msgid "List"
+msgstr "Λίστα"
+
+#: modules/related-posts/class.related-posts-customize.php:245
+msgid "Grid"
+msgstr "Πλέγμα"
+
+#: modules/related-posts/class.related-posts-customize.php:225
+msgid "Show date"
+msgstr "Προβολή ημερομηνίας"
+
+#: modules/custom-css/custom-css-4.7.php:1112
+#: modules/custom-css/custom-css-4.7.php:1120
+msgid "(modified %s ago)"
+msgstr "(τροποποιήθηκε πριν από %s)"
+
+#: modules/custom-css/custom-css-4.7.php:1104
+msgid "Select a theme&hellip;"
+msgstr "Επιλέξτε ένα θέμα&hellip;"
+
+#: modules/custom-css/custom-css-4.7.php:385
+msgctxt "Toolbar button to get help with custom CSS"
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: modules/custom-css/custom-css-4.7.php:1125
+msgid "Switch"
+msgstr "Εναλλαγή"
+
+#: modules/custom-css/custom-css-4.7.php:384
+msgctxt "Toolbar button to see full CSS revision history"
+msgid "See full history"
+msgstr "Δείτε το πλήρες ιστορικό"
+
+#: modules/custom-css/custom-css-4.7.php:182
+#: modules/custom-css/custom-css-4.7.php:282
+#: modules/custom-css/custom-css-4.7.php:767
+msgid "Preprocessor"
+msgstr "Προεπεξεργαστής"
+
+#: modules/widgets/my-community.php:51
+msgid "Community"
+msgstr "Κοινότητα"
+
+#: modules/widgets/my-community.php:40
+msgid "My Community"
+msgstr "Η Κοινότητα Μου"
+
+#: modules/widgets/google-translate.php:35
+msgid "Google Translate"
+msgstr "Google Translate"
+
+#: modules/videopress/class.videopress-edit-attachment.php:222
+msgctxt "A header for the video sharing options area"
+msgid "Share"
+msgstr "Κοινοποίηση"
+
+#: modules/videopress/class.videopress-edit-attachment.php:204
+msgctxt "A header for the short description display"
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: modules/videopress/class.videopress-ajax.php:97
+msgid "Status updated"
+msgstr "Η κατάσταση ενημερώθηκε"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-install-endpoint.php:141
+msgid "This theme does not exist"
+msgstr "Αυτό το θέμα δεν υπάρχει"
+
+#: functions.global.php:169
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-install-endpoint.php:170
+msgid "Problem downloading theme"
+msgstr "Πρόβλημα κατά τη λήψη θέματος"
+
+#: modules/module-headings.php:146
+msgctxt "Module Name"
+msgid "SEO Tools"
+msgstr "Εργαλεία SEO"
+
+#: class.jetpack-idc.php:554
+msgid "Fix Jetpack's Connection"
+msgstr "Διόρθωση Σύνδεσης Jetpack"
+
+#: class.jetpack-idc.php:360
+msgid "Try Again"
+msgstr "Προσπαθήστε Ξανά"
+
+#: class.jetpack-idc.php:147 class.jetpack-idc.php:333
+msgid "Jetpack Safe Mode"
+msgstr "Ασφαλής Λειτουργεία Jetpack"
+
+#: class.jetpack-idc.php:355
+msgid "Something went wrong:"
+msgstr "Κάτι Πήγε Στραβά:"
+
+#: _inc/jetpack-strings.php:307
+msgid "Site Security"
+msgstr "Ασφάλεια Ιστότοπου"
+
+#. Translators: the plural variable is a comma-separated list. Example: dog,
+#. cat, bird.
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:931
+msgid "Invalid option: %s."
+msgid_plural "Invalid options: %s."
+msgstr[0] "Άκυρη επιλογή: %s."
+msgstr[1] "Άκυρες επιλογές: %s."
+
+#: _inc/jetpack-strings.php:731
+msgid "More Info"
+msgstr "Περισσότερες Πληροφορίες"
+
+#: _inc/jetpack-strings.php:343
+msgid "SEO Tools"
+msgstr "Εργαλεία SEO"
+
+#: _inc/jetpack-strings.php:346
+msgid "Activate SEO tools"
+msgstr "Ενεργοποίηση Εργαλείων SEO"
+
+#: _inc/jetpack-strings.php:509
+msgid "Your current IP: %(ip)s"
+msgstr "Η Τρέχουσα IP σας: %(ip)s"
+
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:841
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:1373
+msgid "Please install Akismet."
+msgstr "Παρακαλώ εγκαταστήστε το Akismet."
+
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:847
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:1377
+msgid "Please activate Akismet."
+msgstr "Παρακαλώ ενεργοποιήστε το Akismet."
+
+#: class.jetpack-modules-list-table.php:265
+msgid "Feature Info"
+msgstr "Πληροφορίες Χαρακτηριστικού"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:3494
+msgid "Plugin found."
+msgstr "Το πρόσθετο βρέθηκε."
+
+#: _inc/lib/class.core-rest-api-endpoints.php:3485
+msgid "Plugin %s is not installed."
+msgstr "Το πρόσθετο %s δεν είναι εγκαταστημένο.."
+
+#: _inc/lib/class.core-rest-api-endpoints.php:3479
+msgid "This site has no plugins."
+msgstr "Αυτός ο ιστότοπος δεν έχει πρόσθετα."
+
+#. Translators: first variable is a list followed by the last item, which is
+#. the second variable. Example: dog, cat and bird.
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:264
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:278
+msgid "%1$s and %2$s"
+msgstr "%1$s και %2$s"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:3274
+msgid "%s plugin need updating."
+msgid_plural "%s plugins need updating."
+msgstr[0] "Το πρόσθετο %s χρειάζεται ενημέρωση."
+msgstr[1] "Τα πρόσθετα %s χρειάζονται ενημέρωση."
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2920
+msgid "%s must be a Twitter username."
+msgstr "Το %s θα πρέπει να είναι όνομα χρήστη στο Twitter."
+
+#: class.jetpack-network-sites-list-table.php:63
+#: modules/masterbar/masterbar.php:1325 _inc/jetpack-strings.php:788
+#: _inc/lib/admin-pages/class.jetpack-react-page.php:71
+#: _inc/lib/admin-pages/class.jetpack-admin-page.php:328
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:40
+msgid "You have JavaScript disabled"
+msgstr "Έχετε απενεργοποιήσει την JavaScript"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:1424
+#: _inc/lib/class.core-rest-api-endpoints.php:1518
+#: _inc/lib/class.core-rest-api-endpoints.php:1593
+#: _inc/lib/class.core-rest-api-endpoints.php:1872
+#: _inc/lib/class.core-rest-api-endpoints.php:1911
+msgid "Invalid Parameter"
+msgstr "Άκυρη παράμετρος"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2062
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2061
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2336
+msgid "Google Search Console"
+msgstr "Google Search Console"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2481
+msgid "Version."
+msgstr "Έκδοση."
+
+#: _inc/jetpack-strings.php:848 _inc/jetpack-strings.php:851
+msgctxt "Navigation item."
+msgid "At a Glance"
+msgstr "Με Μια Ματιά"
+
+#: _inc/jetpack-strings.php:834
+msgid "Subscriber"
+msgstr "Συνδρομητής"
+
+#: _inc/blocks/editor.js:14 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:14 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:14
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:14
+#: _inc/blocks/editor-beta.js:18
+msgid "Background Color"
+msgstr "Χρώμα Φόντου"
+
+#: _inc/jetpack-strings.php:599 _inc/jetpack-strings.php:638
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-beta.js:18
+msgctxt "verb"
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#: _inc/jetpack-strings.php:721
+msgctxt "Shorthand for Privacy Policy."
+msgid "Privacy"
+msgstr "Ιδιωτικότητα"
+
+#: _inc/jetpack-strings.php:719
+msgctxt "Shorthand for Terms of Service."
+msgid "Terms"
+msgstr "Όροι"
+
+#: _inc/jetpack-strings.php:718
+#: _inc/lib/admin-pages/class.jetpack-admin-page.php:367
+msgid "WordPress.com Terms of Service"
+msgstr "WordPress.com Όροι Χρήσης"
+
+#: _inc/jetpack-strings.php:691
+msgid "Months"
+msgstr "Μήνες"
+
+#: _inc/jetpack-strings.php:690
+msgid "Weeks"
+msgstr "Εβδομάδες"
+
+#: _inc/jetpack-strings.php:689
+msgid "Days"
+msgstr "Ημέρες"
+
+#. translators: Referring to a number of page views
+#: _inc/jetpack-strings.php:666
+msgid "Views today"
+msgstr "Προβολές σήμερα"
+
+#: _inc/jetpack-strings.php:723
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: _inc/jetpack-strings.php:198 _inc/jetpack-strings.php:208
+#: _inc/jetpack-strings.php:261 _inc/jetpack-strings.php:275
+#: _inc/jetpack-strings.php:828 _inc/blocks/editor.js:14
+#: _inc/blocks/editor-experimental.js:14
+#: _inc/blocks/editor-no-post-editor.js:14 _inc/blocks/editor-beta.js:14
+msgid "Upgrade"
+msgstr "Αναβάθμιση"
+
+#: _inc/jetpack-strings.php:442
+msgid "ACTIVE"
+msgstr "ΕΝΕΡΓΌ"
+
+#: _inc/jetpack-strings.php:722
+msgid "Saving…"
+msgstr "Αποθήκευση..."
+
+#: _inc/jetpack-strings.php:300
+msgid "Site Backups"
+msgstr "Αντίγραφα Ασφαλείας Ιστότοπου"
+
+#: _inc/jetpack-strings.php:699
+msgid "Link to WordPress.com"
+msgstr "Σύνδεση στο WordPress.com"
+
+#: _inc/jetpack-strings.php:698
+msgid "Unlink me from WordPress.com"
+msgstr "Αποσύνδεσέ με από το WordPress.com"
+
+#: _inc/jetpack-strings.php:241
+msgid "Plugin Updates"
+msgstr "Αναβαθμίσεις Πρόσθετων"
+
+#: modules/masterbar/masterbar.php:699 _inc/jetpack-strings.php:174
+#: _inc/jetpack-strings.php:227 _inc/jetpack-strings.php:484
+msgid "Security"
+msgstr "Ασφάλεια"
+
+#: _inc/jetpack-strings.php:200 _inc/jetpack-strings.php:210
+#: _inc/jetpack-strings.php:243 _inc/jetpack-strings.php:257
+#: _inc/jetpack-strings.php:259 _inc/jetpack-strings.php:271
+#: _inc/jetpack-strings.php:273 _inc/jetpack-strings.php:397
+msgid "Loading…"
+msgstr "Φόρτωση..."
+
+#: _inc/jetpack-strings.php:4 _inc/jetpack-strings.php:16
+msgctxt "Navigation item."
+msgid "At A Glance"
+msgstr "Με Μια Ματιά"
+
+#: _inc/jetpack-strings.php:7 _inc/jetpack-strings.php:8
+#: _inc/jetpack-strings.php:850
+msgctxt "Navigation item."
+msgid "Plans"
+msgstr "Σχέδια"
+
+#: modules/widgets/contact-info.php:267
+msgid "Google Maps API Key"
+msgstr "Κλειδί Google Maps API"
+
+#. Translators: placeholder is a Dailymotion username, linking to a Dailymotion
+#. profile page.
+#: modules/shortcodes/dailymotion.php:229
+msgid "Uploaded by %s"
+msgstr "Ανέβηκε από %s"
+
+#: modules/masterbar/masterbar.php:652
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: modules/widgets/twitter-timeline.php:361
+msgid "Maximum Width (px; 220 to 1200):"
+msgstr "Μέγιστο Πλάτος (220 έως 1200 px):"
+
+#: modules/widgets/twitter-timeline.php:374
+msgid "Height (px; at least 200):"
+msgstr "Ύψος (τουλάχιστον 200 px):"
+
+#: modules/videopress/utility-functions.php:138
+msgid "Invalid image URL"
+msgstr "Μη έγκυρη διεύθυνση URL εικόνας"
+
+#: modules/videopress/class.videopress-cli.php:26
+msgid "An error has been encountered."
+msgstr "Προέκυψε ένα σφάλμα."
+
+#: modules/widgets/rsslinks-widget.php:121
+msgctxt "Noun"
+msgid "Format:"
+msgstr "Μορφή:"
+
+#: views/admin/network-settings.php:14
+msgctxt "Affects all sites in a Multisite network."
+msgid "Global"
+msgstr "Καθολικές"
+
+#: class.jetpack-connection-banner.php:231 class-jetpack-wizard-banner.php:231
+msgid "Dismiss this notice"
+msgstr "Απόρριψη της ειδοποίησης"
+
+#: modules/shortcodes/recipe.php:552
+msgctxt "recipe"
+msgid "Directions"
+msgstr "Κατευθύνσεις"
+
+#: modules/sso.php:486
+msgid "Log in as <span>%s</span>"
+msgstr "Σύνδεση ως <span>%s</span>"
+
+#: modules/sso.php:501
+msgid "Log in as a different WordPress.com user"
+msgstr "Συνδεθείτε ως διαφορετικό χρήστης του WordPress.com"
+
+#: modules/sso.php:529
+msgid "Or"
+msgstr "ή"
+
+#: modules/sso.php:534
+msgid "Log in with username and password"
+msgstr "Συνδεθείτε με ψευδώνυμο και συνθηματικό"
+
+#: modules/shortcodes/recipe.php:267
+msgctxt "recipe"
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: modules/shortcodes/twitter-timeline.php:29
+msgid "Must specify Twitter Timeline id or username."
+msgstr "Πρέπει να οριστεί όνομα χρήστη ή αναγνωριστικό χρονολογίου Twitter."
+
+#: class.jetpack.php:5249 class.jetpack.php:5254
+msgid "WordPress reports no SSL support"
+msgstr "Το WordPress αναφέρει μη υποστήριξη SSL"
+
+#: class.jetpack.php:5257
+msgid "Response was not OK: "
+msgstr "Η απάντηση δεν ήταν ΟΚ:"
+
+#: class.jetpack.php:5286 class.jetpack.php:5316
+msgid "Try again"
+msgstr "Προσπαθήστε ξανά"
+
+#: class.jetpack.php:5307
+msgid "Checking"
+msgstr "Έλεγχος"
+
+#: modules/sharedaddy/sharing-sources.php:1671
+msgid "Telegram"
+msgstr "Telegram"
+
+#: modules/sharedaddy/sharing-sources.php:1682
+msgctxt "share to"
+msgid "Telegram"
+msgstr "Telegram"
+
+#: modules/sharedaddy/sharing-sources.php:1698
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: modules/sharedaddy/sharing-sources.php:1702
+msgctxt "share to"
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: modules/shortcodes/recipe.php:208
+msgctxt "recipe"
+msgid "Servings"
+msgstr "Μερίδες"
+
+#: modules/shortcodes/recipe.php:603
+msgctxt "recipe"
+msgid "Time"
+msgstr "Χρόνος"
+
+#: modules/shortcodes/recipe.php:224
+msgctxt "recipe"
+msgid "Difficulty"
+msgstr "Δυσκολία"
+
+#: modules/shortcodes/recipe.php:386
+msgctxt "recipe"
+msgid "Ingredients"
+msgstr "Υλικά"
+
+#: modules/sharedaddy/sharing-sources.php:1682
+msgid "Click to share on Telegram"
+msgstr "Πατήστε για να μοιραστείτε στο Telegram"
+
+#: modules/sharedaddy/sharing-sources.php:1702
+msgid "Click to share on WhatsApp"
+msgstr "Πατήστε για να μοιραστείτε στο WhatsApp"
+
+#: class.jetpack-network-sites-list-table.php:87
+msgid "Jetpack is not active on this site."
+msgstr "Το jectpack δεν είναι ενεργό στον ιστότοπο."
+
+#: class.jetpack-network-sites-list-table.php:89
+#: modules/calypsoify/class.jetpack-calypsoify.php:243
+msgid "Manage Plugins"
+msgstr "Διαχείριση προσθέτων"
+
+#: modules/widgets/top-posts.php:311
+msgid "There are no posts to display. <a href=\"%s\" target=\"_blank\">Want more traffic?</a>"
+msgstr "Δεν υπάρχουν άρθρα προς εμφάνιση. <a href=\"%s\" target=\"_blank\">Θέλεις περισσότερη κίνηση;</a>"
+
+#: modules/videopress/editor-media-view.php:42
+#: modules/widgets/eu-cookie-law/form.php:178
+msgid "seconds"
+msgstr "δευτερόλεπτα"
+
+#: modules/videopress/editor-media-view.php:39
+msgid "pixels"
+msgstr "pixels"
+
+#: modules/videopress/editor-media-view.php:38
+msgid "Video Width"
+msgstr "Πλάτος Video"
+
+#: modules/videopress/editor-media-view.php:37
+msgid "Video ID"
+msgstr "Video ID"
+
+#: modules/videopress/editor-media-view.php:43
+msgid "High definition on by default"
+msgstr "Προεπιλογμένη η Υψηλή Ανάλυση (HD)"
+
+#: modules/videopress/utility-functions.php:32
+msgid "Invalid Video GUID!"
+msgstr "Μη Έγκυρο GUID Βίντεο!"
+
+#: modules/shortcodes/wufoo.php:103
+msgid "Fill out my Wufoo form!"
+msgstr "Συμπληρώστε τη Wufoo φόρμα μου!"
+
+#: modules/widgets/top-posts.php:108
+msgid "Views"
+msgstr "Προβολές"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:313
+msgid "Detailed information"
+msgstr "Λεπτομερείς πληροφορίες"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:243
+msgid "You must specify a valid blog URL!"
+msgstr "Πρέπει να ορίσετε ένα έγκυρο URL ιστολογίου!"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:107
+msgid "Cannot load blog information at this time."
+msgstr "Δε μπορούμε να φορτώσουμε τις πληροφορίες ιστολογίου αυτή τη στιγμή. "
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:460
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:476
+msgid "Invalid remote response."
+msgstr "Μη έγκυρη απομακρυσμένη απάντηση."
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:430
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:441
+msgid "An error occurred fetching the remote data."
+msgstr "Ένα σφάλμα προέκυψε κατά τη λήψη των απομακρυσμένων δεδομένων."
+
+#: modules/widgets/facebook-likebox.php:38
+msgid "Facebook Page Plugin"
+msgstr "Πρόσθετο Σελίδας Facebook"
+
+#: modules/widgets/facebook-likebox.php:41
+msgid "Use the Facebook Page Plugin to connect visitors to your Facebook Page"
+msgstr "Χρησιμοποιήστε το Πρόσθετο Σελίδας του Facebook για να συνδέσετε επισκέπτες με τη σελίδα σας στο Facebook"
+
+#: modules/sitemaps/sitemap-stylist.php:67
+msgid "XML Sitemap"
+msgstr "Χάρτης Ιστοτόπου XML"
+
+#: modules/sharedaddy/sharing-sources.php:1743
+msgid "Skype"
+msgstr "Skype"
+
+#: modules/sharedaddy/sharing-sources.php:1046
+msgid "Click to share on Facebook"
+msgstr "Πατήστε για κοινοποίηση στο Facebook"
+
+#: modules/sharedaddy/sharing-sources.php:1761
+msgctxt "share to"
+msgid "Skype"
+msgstr "Skype"
+
+#: modules/module-headings.php:166
+msgctxt "Module Name"
+msgid "Sitemaps"
+msgstr "Χάρτες Ιστοτόπου"
+
+#: modules/module-headings.php:319
+msgctxt "Module Tag"
+msgid "Traffic"
+msgstr "Κίνηση"
+
+#. translators: %s is the name of a form field
+#: modules/contact-form/grunion-contact-form.php:3204
+msgid "%s requires at least one selection"
+msgstr "Το %s απαιτεί τουλάχιστον μία επιλογή"
+
+#. translators: %s is the name of a theme
+#: _inc/lib/debugger/class-jetpack-debugger.php:129
+msgid "If your problem isn't known or caused by a plugin, try activating %s (the default WordPress theme)."
+msgstr "Αν το πρόβλημα είναι άγνωστο ή προκαλείται από κάποιο πρόσθετο, δοκιμάστε να ενεργοποιήσετε το %s (το προκαθορισμένο θέμα WordPress)."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:131
+msgid "If your problem isn't known or caused by a plugin, try activating the default WordPress theme."
+msgstr "Αν το πρόβλημα είναι άγνωστο ή προκαλείται από κάποιο πρόσθετο, δοκιμάστε να ενεργοποιήσετε το προκαθορισμένο θέμα WordPress."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:134
+msgid "If this solves the problem, something in your theme is probably broken – let the theme's author know."
+msgstr "Αν αυτό επιλύει το πρόβλημα, κάτι στο θέμα σας μάλλον είναι χαλασμένο - ειδοποιήστε το συγγραφέα του θέματος. "
+
+#: json-endpoints/jetpack/class.wpcom-json-api-get-option-endpoint.php:23
+msgid "You must specify an option_name"
+msgstr "Πρέπει να ορίσετε ένα option_name"
+
+#: json-endpoints/jetpack/class.wpcom-json-api-update-option-endpoint.php:19
+msgid "You must specify an option_value"
+msgstr "Πρέπει να ορίσετε ένα option_value"
+
+#. translators: %1$s is link to author posts, %2$s is author display name
+#: modules/custom-post-types/portfolios.php:895
+msgid "<span>Author:</span> <a href=\"%1$s\">%2$s</a>"
+msgstr "<span>Συγγραφέας:</span> <a href=\"%1$s\">%2$s</a>"
+
+#: modules/widget-visibility/widget-conditions.php:172
+msgid "All pages"
+msgstr "Όλες οι σελίδες"
+
+#: modules/protect.php:623
+msgid "Your IP (%1$s) has been flagged for potential security violations."
+msgstr "Η διεύθυνση IP σας (%1$s) έχει επισημανθεί για πιθανές παραβιάσεις ασφαλείας."
+
+#: modules/comments/comments.php:507
+msgid "Comments are not allowed."
+msgstr "Δεν επιτρέπεται σχολιασμός"
+
+#. translators: %s is a social network name, e.g. Facebook.
+#: modules/widgets/social-media-icons.php:263
+msgid "%s username:"
+msgstr "%s όνομα χρήστη:"
+
+#: modules/search/class-jetpack-search-customize.php:64
+msgid "Theme"
+msgstr "Θέμα"
+
+#: modules/related-posts/class.related-posts-customize.php:241
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: modules/subscriptions/views.php:164 modules/subscriptions/views.php:170
+#: modules/subscriptions/views.php:184 modules/subscriptions/views.php:200
+msgid "Manage your email preferences."
+msgstr "Επεξεργασία ρυθμίσεων email."
+
+#: modules/subscriptions/views.php:162
+msgid "The email address has opted out of subscription emails. <br /> You can manage your preferences at <a href=\"%1$s\" title=\"%2$s\" target=\"_blank\">subscribe.wordpress.com</a>"
+msgstr "Η διεύθυνση email διαγράφηκε από την λίστα αποστολής emails. <br /> Δείτε όλες τις ρυθμίσεις και επιλογές στο <a href=\"%1$s\" title=\"%2$s\" target=\"_blank\">subscribe.wordpress.com</a>"
+
+#: modules/custom-post-types/comics.php:234
+msgid "Comics list"
+msgstr "Λίστα κόμικ"
+
+#: modules/custom-css/custom-css.php:1310
+msgid "Show all"
+msgstr "Προβολή όλων"
+
+#: class.jetpack-network.php:392
+msgid "Site successfully connected."
+msgstr "Το site συνδέθηκε επιτυχώς."
+
+#: modules/plugin-search.php:219
+msgid "Activated"
+msgstr "Ενεργό"
+
+#: views/admin/network-settings.php:31
+msgid "Allow individual site administrators to manage their own connections (connect and disconnect) to <a href=\"//wordpress.com\">WordPress.com</a>"
+msgstr "Επιτρέψτε στους διαχειριστές ιστότοπων να ρυθμίσουν τις συνδέσεις στο <a href=\"//wordpress.com\">WordPress.com</a> όπως εκείνοι επιθυμούν."
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic."
+
+#. Description of the plugin
+msgid "Bring the power of the WordPress.com cloud to your self-hosted WordPress. Jetpack enables you to connect your blog to a WordPress.com account to use the powerful features normally only available to WordPress.com users."
+msgstr "Εκμεταλλευτείτε τα προηγμένα χαρακτηριστικά του WordPress.com στο πακέτο φιλοξενίας που ήδη χρησιμοποιείτε. Το Jetpack συνδέει το ιστολόγιο σας με το WordPress.com και τις μοναδικές δυνατότητες της πλατφόρμας."
+
+#: _inc/jetpack-strings.php:147
+msgid "Disconnecting Jetpack"
+msgstr "Γίνεται αποσύνδεση Jetpack"
+
+#: views/admin/must-connect-main-blog.php:6
+msgid "Get started managing your Multisite install of Jetpack by connecting."
+msgstr "Ξεκινήστε την διαχείριση πολλαπλών ιστότοπων με σύνδεση στο Jetpack."
+
+#: views/admin/must-connect-main-blog.php:4
+msgid "Get started with Jetpack Multisite"
+msgstr "Ξεκινήστε με το Jetpack για πολλαπλούς ιστότοπους"
+
+#: views/admin/network-settings.php:4
+msgid "Jetpack Network Settings Updated!"
+msgstr "Η ανανέωση των ρυθμίσεων σύνδεσης του Jetpack ολοκληρώθηκε!"
+
+#: views/admin/network-activated-notice.php:3
+msgid "Jetpack is network activated and notices can not be dismissed."
+msgstr "Το Jetpack απαιτεί σύνδεση και για τον λόγο αυτό δεν είναι δυνατή η απόκρυψη των μηνυμάτων."
+
+#: modules/plugin-search.php:529 _inc/jetpack-strings.php:652
+#: _inc/jetpack-strings.php:854 _inc/jetpack-strings.php:855
+#: _inc/jetpack-strings.php:863 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Learn more"
+msgstr "Μάθετε περισσότερα"
+
+#: views/admin/network-settings.php:12
+msgid "Network Settings"
+msgstr "Ρυθμίσεις δικτύου / σύνδεσης"
+
+#: views/admin/network-settings.php:36
+msgid "Protect whitelist"
+msgstr "Προστάτευση λευκής λίστας"
+
+#: views/admin/network-settings.php:28
+msgid "Sub-site override"
+msgstr "Παράκαμψη υπο-site"
+
+#: views/admin/network-settings.php:15
+msgid "These settings affect all sites on the network."
+msgstr "Οι παρακάτω ρυθμίσεις επηρεάζουν όλους τους ιστότοπους σε αυτό το δίκτυο."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://jetpack.com"
+msgstr "https://jetpack.com"
+
+#. Translators: Placeholder is the name of a widget.
+#: modules/module-extras.php:85
+msgid "%s (Jetpack)"
+msgstr "%s (Jetpack)"
+
+#: modules/widgets/gravatar-profile.php:227
+msgctxt "1: User Name, 2: Service Name (Facebook, Twitter, ...)"
+msgid "%1$s on %2$s"
+msgstr "%1$s στο %2$s"
+
+#: modules/widgets/contact-info.php:75
+msgid ""
+"3999 Mission Boulevard,\n"
+"San Diego CA 92109"
+msgstr ""
+"3999 Mission Boulevard\n"
+"\n"
+"San Diego CA 92109"
+
+#: modules/widgets/social-media-icons.php:50
+msgid "A simple widget that displays social media icons."
+msgstr "Widget για την προβολή εικονιδίων social media."
+
+#: modules/widgets/contact-info.php:254
+msgid "Address:"
+msgstr "Διεύθυνση:"
+
+#: modules/widgets/image-widget.php:232
+msgid "Alternate text:"
+msgstr "Συμπληρωματικό κείμενο:"
+
+#: modules/widgets/gallery.php:378 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Attachment Page"
+msgstr "Σελίδα συνημμένων"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:229
+msgid "Blog URL:"
+msgstr "Διεύθυνση ιστολογίου:"
+
+#: modules/widgets/rsslinks-widget.php:158
+msgid "Blue"
+msgstr "Μπλε"
+
+#: modules/widgets/twitter-timeline.php:470
+msgid "Border Color (hex):"
+msgstr "Χρώμα περιγράμματος (hex):"
+
+#: modules/widgets/image-widget.php:238
+msgid "Caption:"
+msgstr "Επικεφαλίδα:"
+
+#: modules/widgets/gallery.php:377 _inc/jetpack-strings.php:68
+msgid "Carousel"
+msgstr "Καρουζέλ"
+
+#: modules/widget-visibility/widget-conditions.php:290
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: modules/widgets/image-widget.php:245
+msgid "Center"
+msgstr "Κέντρο"
+
+#: modules/widgets/gallery/templates/form.php:39
+msgid "Choose Images"
+msgstr "Επιλογή Φωτογραφιών"
+
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Contact Info"
+msgstr "Στοιχεία επικοινωνίας"
+
+#: modules/widgets/goodreads.php:35
+msgid "Currently Reading"
+msgstr "Διαβάζω αυτή την περίοδο"
+
+#: modules/widgets/gravatar-profile.php:289
+msgid "Custom"
+msgstr "Προσαρμογή"
+
+#: modules/widgets/gravatar-profile.php:301
+msgid "Custom Email Address"
+msgstr "Προσαρμοσμένη διεύθυνση email"
+
+#: modules/widget-visibility/widget-conditions.php:342
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:31
+msgid "Display WordPress Posts"
+msgstr "Προβολή περιεχομένου WordPress"
+
+#: modules/widgets/gravatar-profile.php:25
+msgid "Display a mini version of your Gravatar Profile"
+msgstr "Προβολή μικρογραφίας του προφίλ σας από το Gravatar"
+
+#: modules/widgets/gallery.php:22
+msgid "Display a photo gallery or slideshow"
+msgstr "Προβολή συλλογής φωτογραφιών ή σλάιντ"
+
+#: modules/widgets/image-widget.php:31
+msgid "Display an image in your sidebar"
+msgstr "Προβολή φωτογραφίας στην πλευρική στήλη"
+
+#: modules/widgets/twitter-timeline.php:34
+msgid "Display an official Twitter Embedded Timeline widget."
+msgstr "Χρησιμοποιήστε το επίσημο Twitter widget"
+
+#: modules/widgets/top-posts.php:138
+msgid "Display as:"
+msgstr "Προβολή ως:"
+
+#: modules/widgets/goodreads.php:28
+msgid "Display your books from Goodreads"
+msgstr "Εμφάνιση των βιβλίων σας από το Goodreads"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:33
+msgid "Displays a list of recent posts from another WordPress.com or Jetpack-enabled blog."
+msgstr "Προβολή πρόσφατου περιεχομένου από ιστολόγια WordPress.com ή ιστολόγια με Jetpack τρίτων"
+
+#: modules/widgets/gravatar-profile.php:324
+msgid "Edit Your Profile"
+msgstr "Επεξεργασία προφίλ"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:232
+msgid "Enter a WordPress.com or Jetpack WordPress site URL."
+msgstr "Παρακαλώ εισάγετε την διεύθυνση του ιστότοπου WordPress.com ή Jetpack WordPress."
+
+#: modules/widgets/gravatar-profile.php:141
+msgid "Error loading profile"
+msgstr "Σφάλμα κατά την φόρτωση του προφίλ"
+
+#: modules/widgets/contact-info.php:76
+msgctxt "Example of a phone number"
+msgid "1-202-555-1212"
+msgstr "1-202-555-1212"
+
+#: modules/widget-visibility/widget-conditions.php:300
+msgctxt "Example: The user is looking at a page, not a post."
+msgid "Page"
+msgstr "Σελίδα"
+
+#: modules/widgets/facebook-likebox.php:174
+msgid "Facebook Page URL"
+msgstr "Διεύθυνση URL σελίδας στο Facebook"
+
+#: modules/widgets/rsslinks-widget.php:105
+msgid "Feed(s) to Display:"
+msgstr "Προβολή ροών:"
+
+#: modules/widgets/twitter-timeline.php:326
+msgid "Follow me on Twitter"
+msgstr "Ακολουθήστε με στο Twitter"
+
+#: modules/widgets/goodreads.php:25 modules/widgets/goodreads.php:79
+msgid "Goodreads"
+msgstr "Goodreads"
+
+#: modules/widgets/goodreads.php:141
+msgid "Goodreads numeric user ID <a href=\"%s\" target=\"_blank\">(instructions)</a>:"
+msgstr "Αριθμητικό, αναγνωριστικό ID χρήστη από το Goodreads <a href=\"%s\" target=\"_blank\">(οδηγίες)</a>:"
+
+#: modules/widgets/gravatar-profile.php:22
+msgid "Gravatar Profile"
+msgstr "Προφίλ Gravatar"
+
+#: modules/widgets/rsslinks-widget.php:157
+msgid "Green"
+msgstr "Πράσινο"
+
+#: modules/widgets/contact-info.php:74
+msgid "Hours & Info"
+msgstr "Ώρες & Πληροφορίες"
+
+#: modules/widgets/contact-info.php:319
+msgid "Hours:"
+msgstr "Ώρες:"
+
+#: modules/widgets/image-widget.php:265
+msgid "If empty, we will attempt to determine the image size."
+msgstr "Εάν είναι κενό, θα προσπαθήσουμε να υπολογίσουμε το μέγεθος της φωτογραφίας."
+
+#: modules/widgets/image-widget.php:28
+msgid "Image"
+msgstr "Εικόνα "
+
+#: modules/widgets/image-widget.php:248
+msgid "Image Alignment:"
+msgstr "Στοίχηση εικόνας:"
+
+#: modules/widgets/rsslinks-widget.php:163
+msgid "Image Color:"
+msgstr "Χρώμα Εικόνας:"
+
+#: modules/widgets/top-posts.php:142
+msgid "Image Grid"
+msgstr "Κατάλογος Εικόνων"
+
+#: modules/widgets/rsslinks-widget.php:118
+msgid "Image Link"
+msgstr "Σύνδεσμος Εικόνας"
+
+#: modules/widgets/top-posts.php:141
+msgid "Image List"
+msgstr "Λίστα Εικόνων"
+
+#: modules/widgets/rsslinks-widget.php:136
+msgid "Image Settings:"
+msgstr "Ρυθμίσεις εικόνας:"
+
+#: modules/widgets/rsslinks-widget.php:143
+msgid "Image Size:"
+msgstr "Μέγεθος εικόνας:"
+
+#: modules/widgets/image-widget.php:229
+msgid "Image URL:"
+msgstr "Διεύθυνση URL φωτογραφίας:"
+
+#: modules/widgets/image-widget.php:235
+msgid "Image title:"
+msgstr "Τίτλος εικόνας:"
+
+#: modules/widgets/gallery/templates/form.php:10
+msgid "Images:"
+msgstr "Εικόνες:"
+
+#: modules/widgets/goodreads.php:143
+msgid "Invalid User ID, please verify and re-enter your Goodreads numeric user ID."
+msgstr "Σφάλμα. Μη έγκυρο αναγνωριστικό ID χρήστη. Εισάγετε ξανά το αριθμητικό, αναγνωριστικό ID χρήστη από το Goodreads."
+
+#: modules/widgets/facebook-likebox.php:68
+msgid "It looks like your Facebook URL is incorrectly configured. Please check it in your <a href=\"%s\">widget settings</a>."
+msgstr "Η διεύθυνση URL για την σελίδα του Facebook δεν είναι σωστή. Δείτε τις <a href=\"%s\">ρυθμίσεις μονάδας</a>."
+
+#: modules/widgets/rsslinks-widget.php:141 modules/widgets/flickr/form.php:99
+#: modules/widgets/social-icons.php:247
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: modules/widgets/twitter-timeline.php:414
+msgid "Layout Options:"
+msgstr "Επιλογές εμφάνισης:"
+
+#: modules/widgets/image-widget.php:244
+msgid "Left"
+msgstr "Αριστερά"
+
+#: modules/widgets/gallery/templates/form.php:43
+msgid "Link To:"
+msgstr "Σύνδεση με:"
+
+#: modules/widgets/image-widget.php:266
+msgid "Link URL (when the image is clicked):"
+msgstr "Σύνδεσμος URL (για όταν γίνει κλικ στην φωτογραφία):"
+
+#: modules/widgets/gravatar-profile.php:320
+msgid "Links to services that you use across the web."
+msgstr "Σύνδεσμοι σε υπηρεσίες που χρησιμοποιείτε."
+
+#: modules/widgets/rsslinks-widget.php:14
+msgid "Links to your blog's RSS feeds"
+msgstr "Σύνδεσμοι στις ροές RSS του ιστολόγιου σας"
+
+#: modules/widgets/gravatar-profile.php:311
+msgid "Links to your websites, blogs, or any other sites that help describe who you are."
+msgstr "Σύνδεσμοι στον προσωπικό σας ιστότοπο και ιστολόγιο ή άλλους ιστότοπους που περιγράφουν ποιος/α είστε."
+
+#: modules/widgets/contact-info.php:77
+msgid ""
+"Lunch: 11am - 2pm \n"
+"Dinner: M-Th 5pm - 11pm, Fri-Sat:5pm - 1am"
+msgstr ""
+"Μεσημεριανό: 11am - 2pm\n"
+"\n"
+"Βραδινό: Δ-Πεμ 5pm - 11pm, Παρ-Σαβ:5pm - 1am"
+
+#: modules/widgets/top-posts.php:99
+msgid "Maximum number of posts to show (no more than 10):"
+msgstr "Μέγιστος αριθμός δημοσιεύσεων (όχι περισσότερα από 10):"
+
+#: modules/widgets/gallery.php:379 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Media File"
+msgstr "Αρχείο εικόνας και ήχου"
+
+#: modules/widgets/rsslinks-widget.php:140 modules/widgets/flickr/form.php:88
+#: modules/widgets/social-icons.php:246
+msgid "Medium"
+msgstr "Μέσο"
+
+#: modules/widgets/twitter-timeline.php:160
+msgid "My Tweets"
+msgstr "Τα tweets μου"
+
+#: modules/widgets/twitter-timeline.php:444
+msgid "No Borders"
+msgstr "Χωρίς περίγραμμα"
+
+#: modules/widgets/twitter-timeline.php:434
+msgid "No Footer"
+msgstr "Χωρίς υποσέλιδο"
+
+#: modules/widgets/twitter-timeline.php:424
+msgid "No Header"
+msgstr "Χωρίς κεφαλίδα"
+
+#: modules/widgets/twitter-timeline.php:454
+msgid "No Scrollbar"
+msgstr "Χωρίς πλευρική μπάρα κύλισης"
+
+#: modules/widget-visibility/widget-conditions.php:294
+msgctxt "Noun"
+msgid "User"
+msgstr "Χρήστης"
+
+#: modules/widget-visibility/widget-conditions.php:291
+msgctxt "Noun, as in: \"The author of this post is...\""
+msgid "Author"
+msgstr "Συντάκτης"
+
+#: modules/widget-visibility/widget-conditions.php:295
+msgctxt "Noun, as in: \"The user role of that can access this widget is...\""
+msgid "Role"
+msgstr "Ρόλος"
+
+#: modules/widget-visibility/widget-conditions.php:299
+msgctxt "Noun, as in: \"This page is a date archive.\""
+msgid "Date"
+msgstr "χρονολογικό"
+
+#: modules/widget-visibility/widget-conditions.php:298
+msgctxt "Noun, as in: \"This post has one tag.\""
+msgid "Tag"
+msgstr "Ετικέτα"
+
+#: modules/widget-visibility/widget-conditions.php:302
+msgctxt "Noun, as in: \"This post has one taxonomy.\""
+msgid "Taxonomy"
+msgstr "ταξινομία"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:249
+msgid "Number of Posts to Display:"
+msgstr "Αριθμός άρθρων προς προβολή:"
+
+#: modules/widgets/image-widget.php:271
+msgid "Open link in a new window/tab"
+msgstr "Άνοιγμα συνδέσμου σε νέο παράθυρο/καρτέλα"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:259
+msgid "Open links in new window/tab:"
+msgstr "Άνοιγμα συνδέσμων σε νέο παράθυρο/καρτέλα"
+
+#: modules/widgets/gravatar-profile.php:324
+msgid "Opens in new window"
+msgstr "Ανοίγει σε νέο παράθυρο."
+
+#: modules/widgets/rsslinks-widget.php:156
+msgid "Orange"
+msgstr "Πορτοκαλί"
+
+#: modules/widgets/gravatar-profile.php:168
+msgid "Personal Links"
+msgstr "Προσωπικοί σύνδεσμοι"
+
+#: modules/widgets/contact-info.php:309
+msgid "Phone:"
+msgstr "Τηλέφωνο:"
+
+#: modules/widgets/rsslinks-widget.php:160
+msgid "Pink"
+msgstr "Ροζ"
+
+#: modules/widgets/rsslinks-widget.php:101
+#: modules/widgets/rsslinks-widget.php:177 _inc/jetpack-strings.php:547
+msgid "Posts"
+msgstr "Άρθρα"
+
+#: modules/widgets/rsslinks-widget.php:103
+msgid "Posts & Comments"
+msgstr "Δημοσιεύσεις & Σχόλια"
+
+#: modules/widgets/rsslinks-widget.php:159
+msgid "Purple"
+msgstr "Μωβ"
+
+#: modules/widgets/rsslinks-widget.php:20
+msgid "RSS Links"
+msgstr "Σύνδεσμοι RSS"
+
+#: modules/widgets/gallery/templates/form.php:58
+msgid "Random Order:"
+msgstr "Τυχαία Σειρά:"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:202
+msgid "Recent Posts"
+msgstr "Πρόσφατα άρθρα"
+
+#: modules/widgets/rsslinks-widget.php:155
+msgid "Red"
+msgstr "Κόκκινο"
+
+#: modules/widgets/image-widget.php:246
+msgid "Right"
+msgstr "Δεξιά"
+
+#: modules/widgets/gravatar-profile.php:283
+msgid "Select a user or pick \"custom\" and enter a custom email address."
+msgstr "Επιλέξτε χρήστη ή την επιλογή \"προσαρμογή\" για νέα διεύθυνση email."
+
+#: modules/widgets/goodreads.php:148
+msgid "Shelf:"
+msgstr "Ράφι:"
+
+#: modules/widgets/gravatar-profile.php:318
+msgid "Show Account Links"
+msgstr "Προβολή συνδέσμων λογαριασμού"
+
+#: modules/widgets/facebook-likebox.php:218
+msgid "Show Cover Photo"
+msgstr "Εμφάνιση Φωτογραφίας Εξωφύλλου"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:267
+msgid "Show Excerpts:"
+msgstr "Προβολή αποσπάσματος:"
+
+#: modules/widgets/facebook-likebox.php:200
+msgid "Show Faces"
+msgstr "Προβολή προσώπων"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:263
+msgid "Show Featured Image:"
+msgstr "Προβολή επισημασμένης φωτογραφίας:"
+
+#: modules/widgets/facebook-likebox.php:211
+msgid "Show Page Posts."
+msgstr "Προβολή Άρθρων Σελίδας."
+
+#: modules/widgets/gravatar-profile.php:309
+msgid "Show Personal Links"
+msgstr "Προβολή προσωπικών συνδέσμων"
+
+#: modules/widgets/contact-info.php:260
+msgid "Show map"
+msgstr "Προβολή χάρτη"
+
+#: modules/widgets/facebook-likebox.php:202
+msgid "Show profile photos in the plugin."
+msgstr "Προβολή φωτογραφιών προφίλ στο πρόσθετο."
+
+#: modules/widget-visibility/widget-conditions.php:336
+msgctxt "Shown between widget visibility conditions."
+msgid "or"
+msgstr "ή"
+
+#: modules/widgets/top-posts.php:40
+msgid "Shows your most viewed posts and pages."
+msgstr "Προβολή των δημοφιλέστερων άρθρων, σελίδων."
+
+#: modules/widgets/rsslinks-widget.php:161
+msgid "Silver"
+msgstr "Ασημί"
+
+#: modules/widgets/rsslinks-widget.php:139 modules/widgets/social-icons.php:245
+msgid "Small"
+msgstr "Μικρό"
+
+#: modules/widgets/social-media-icons.php:55
+msgid "Social"
+msgstr "Social"
+
+#: modules/widgets/gallery/templates/form.php:69
+msgid "Style:"
+msgstr "Στυλ:"
+
+#: modules/widgets/rsslinks-widget.php:184
+msgid "Subscribe to %s"
+msgstr "Παρακολούθηση του %s"
+
+#: modules/widgets/rsslinks-widget.php:119
+msgid "Text & Image Links"
+msgstr "Σύνδεσμοι Κειμένου & Εικόνας"
+
+#: modules/widgets/rsslinks-widget.php:117
+msgid "Text Link"
+msgstr "Σύνδεσμος Κειμένου"
+
+#: modules/widgets/top-posts.php:140
+msgid "Text List"
+msgstr "Λίστα Κειμένου"
+
+#: modules/widgets/facebook-likebox.php:177
+msgid "The widget only works with Facebook Pages."
+msgstr "Το widget λειτουργεί μόνο με Facebook Pages."
+
+#: modules/widgets/gallery.php:370
+msgid "Tiles"
+msgstr "Εικόνες"
+
+#: modules/widgets/twitter-timeline.php:483
+msgid "Timeline Theme:"
+msgstr "Χρονολόγιο Θεμάτων"
+
+#: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:224
+#: modules/widgets/rsslinks-widget.php:96 modules/widgets/goodreads.php:137
+#: modules/widgets/top-posts.php:94 modules/widgets/my-community.php:88
+#: modules/widgets/social-media-icons.php:246
+#: modules/widgets/twitter-timeline.php:348
+#: modules/widgets/google-translate.php:173
+#: modules/widgets/upcoming-events.php:42 modules/widgets/search.php:946
+#: modules/widgets/flickr/form.php:3 modules/widgets/blog-stats.php:93
+#: modules/widgets/social-icons.php:253
+#: modules/widgets/gallery/templates/form.php:2 modules/widgets/authors.php:223
+#: modules/widgets/contact-info.php:249
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: modules/widgets/top-posts.php:38 modules/widgets/top-posts.php:45
+#: modules/widgets/top-posts.php:498
+msgid "Top Posts &amp; Pages"
+msgstr "Δημοφιλή άρθρα &amp; σελίδες"
+
+#: modules/widgets/top-posts.php:170
+msgid "Top Posts &amp; Pages by views are calculated from 24-48 hours of stats. They take a while to change."
+msgstr "Τα δημοφιλή άρθρα και σελίδες υπολογίζονται κάθε 24-48 ώρες σύμφωνα με τον αριθμό των προβολών τους."
+
+#: modules/widgets/twitter-timeline.php:464
+msgid "Transparent Background"
+msgstr "Διάφανο φόντο"
+
+#: modules/widgets/twitter-timeline.php:31
+#: modules/widgets/twitter-timeline.php:97
+msgid "Twitter Timeline"
+msgstr "Ροή Twitter"
+
+#: modules/widgets/top-posts.php:114
+msgid "Types of pages to display:"
+msgstr "Είδη σελιδών για προβολή:"
+
+#: modules/widget-visibility/widget-conditions.php:289
+msgctxt "Used as the default option in a dropdown list"
+msgid "-- Select --"
+msgstr "Επιλέξτε"
+
+#: modules/widget-visibility/widget-conditions.php:270
+msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: modules/widget-visibility/widget-conditions.php:270
+msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: modules/widgets/gravatar-profile.php:210
+msgid "Verified Services"
+msgstr "Πιστοποιημένες υπηρεσίες"
+
+#: modules/widgets/social-media-icons.php:134
+msgid "View %1$s&#8217;s profile on %2$s"
+msgstr "Προβολή του προφίλ %1$s στο %2$s"
+
+#: modules/widgets/gravatar-profile.php:132
+msgid "View Full Profile &rarr;"
+msgstr "Προβολή πλήρους προφίλ &rarr;"
+
+#: modules/widget-visibility/widget-conditions.php:267 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Visibility"
+msgstr "Ορατότητα"
+
+#: modules/widgets/gravatar-profile.php:324
+msgid "What's a Gravatar?"
+msgstr "Τί είναι το Gravatar;"
+
+#: modules/widget-visibility/widget-conditions.php:306
+msgctxt "Widget Visibility: {Rule Major [Page]} is {Rule Minor [Search results]}"
+msgid "is"
+msgstr "είναι"
+
+#: modules/widgets/gravatar-profile.php:70
+msgid "You need to select what to show in this <a href=\"%s\">Gravatar Profile widget</a>."
+msgstr "Πρέπει να επιλέξετε το περιεχόμενου της <a href=\"%s\">μονάδας για το προφίλ Gravatar</a>."
+
+#: modules/widgets/goodreads.php:36
+msgctxt "my list of books to read"
+msgid "To Read"
+msgstr "Θέλω να διαβάσω"
+
+#: modules/widgets/goodreads.php:34
+msgctxt "past participle: books I have read"
+msgid "Read"
+msgstr "Διάβασα"
+
+#: modules/widget-visibility/widget-conditions.php:270
+msgctxt "placeholder: dropdown menu to select widget visibility; hide if or show if"
+msgid "%s if:"
+msgstr "%s αν:"
+
+#: _inc/jetpack-strings.php:895
+msgid "Skip"
+msgstr "Παράλειψη"
+
+#: modules/widgets/twitter-timeline.php:400
+msgid "Twitter Username:"
+msgstr "Ψευδώνυμο Twitter:"
+
+#: modules/widgets/goodreads.php:60
+msgid "You need to enter your numeric user ID for the <a href=\"%1$s\">Goodreads Widget</a> to work correctly. <a href=\"%2$s\" target=\"_blank\">Full instructions</a>."
+msgstr "Πρέπει να εισάγετε τον αριθμητικό κωδικό ID ώστε το <a href=\"%1$s\">Goodreads Widget</a> να λειτουργήσει. <a href=\"%2$s\" target=\"_blank\">Πλήρεις οδηγίες</a>."
+
+#: modules/widgets/contact-info.php:32
+msgid "Display a map with your location, hours, and contact information."
+msgstr "Προβολή ενός χάρτη με την τοποθεσία σας, τις ώρες σας και τα στοιχεία επικοινωνίας σας."
+
+#: modules/calypsoify/class.jetpack-calypsoify.php:83
+msgid "Automatic Update"
+msgstr "Αυτόματες Ενημερώσεις"
+
+#. Translators: Stats dashboard widget postviews list: "$post_title $views
+#. Views".
+#: modules/stats.php:1328
+msgid "%1$s %2$s Views"
+msgstr "%1$s %2$s Προβολές"
+
+#: modules/videopress/class.videopress-player.php:215
+msgid "%s Error"
+msgstr "%s Σφάλμα"
+
+#: modules/theme-tools/social-links.php:216
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Επιλογή &mdash;"
+
+#: modules/widget-visibility/widget-conditions.php:112
+msgid "404 error page"
+msgstr "Σφάλμα 404. Δεν βρέθηκε"
+
+#: modules/videopress/class.videopress-video.php:359
+msgid "<strong>%s</strong> is not an allowed embed site."
+msgstr "Δεν επιτρέπεται η ενσωμάτωση από τον ιστότοπο <strong>%s</strong>"
+
+#: modules/subscriptions/views.php:33
+msgid "Add an email signup form to allow people to subscribe to your blog."
+msgstr "Προσφέρετε την δυνατότητα εγγραφής και παρακολούθησης του ιστολόγιου σας με την προσθήκη φόρμας εγγραφής email."
+
+#: modules/theme-tools/site-logo/inc/class-site-logo-control.php:19
+msgid "Add logo"
+msgstr "Προσθήκη λογότυπου"
+
+#: modules/widget-visibility/widget-conditions.php:64
+msgid "All author pages"
+msgstr "Πλήρης λίστα συντακτών"
+
+#: modules/widget-visibility/widget-conditions.php:44
+msgid "All category pages"
+msgstr "Πλήρης λίστα κατηγοριών"
+
+#: modules/widget-visibility/widget-conditions.php:103
+msgid "All date archives"
+msgstr "Πλήρης λίστα αρχείου"
+
+#: modules/widget-visibility/widget-conditions.php:87
+msgid "All tag pages"
+msgstr "Πλήρης λίστα ετικετών"
+
+#: modules/widget-visibility/widget-conditions.php:142
+msgid "All taxonomy pages"
+msgstr "Προβολή όλων των κατηγοριών και ετικετών"
+
+#: modules/widget-visibility/widget-conditions.php:111
+msgid "Archive page"
+msgstr "Αρχείο"
+
+#: modules/subscriptions.php:344
+msgid "Blog follow email text"
+msgstr "Περιγραφή εγγραφής ειδοποιήσεων email για ιστολόγιο"
+
+#: modules/theme-tools/site-logo/inc/class-site-logo-control.php:22
+msgid "Change logo"
+msgstr "Αλλαγή λογότυπου"
+
+#: modules/subscriptions.php:365
+msgid "Change whether your visitors can subscribe to your posts or comments or both."
+msgstr "Επιλέξτε αν οι επισκέπτες του ιστότοπου σας μπορούν να εγγραφούν και να ακολουθούν νέα άρθρα, σχόλια ή και τα δύο."
+
+#: modules/stats.php:1045
+msgid "Chart stats by"
+msgstr "Στατιστικά γραφήματα από"
+
+#: modules/theme-tools/site-logo/inc/class-site-logo-control.php:21
+msgid "Choose logo"
+msgstr "Επιλογή λογότυπου"
+
+#: modules/tiled-gallery/tiled-gallery.php:259 modules/widgets/gallery.php:372
+msgid "Circles"
+msgstr "Κύκλοι"
+
+#: modules/subscriptions.php:352
+msgid "Comment follow email text"
+msgstr "Περιγραφή εγγραφής ειδοποιήσεων email για νέα σχόλια"
+
+#: modules/videopress/class.videopress-ajax.php:61
+#: modules/videopress/class.videopress-ajax.php:68
+msgid "Could not obtain a VideoPress upload token. Please try again later."
+msgstr "Δεν ήταν δυνατή η μεταφορά του αρχείο στο VideoPress. Παρακαλώ προσπαθήστε ξανά."
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2450
+msgid "Count the page views of registered users who are logged in."
+msgstr "Καταμέτρηση των προβολών σελίδων εγγεγραμένων χρηστών που παραμένουν συνδεδεμένοι."
+
+#: modules/widget-visibility/widget-conditions.php:104
+msgid "Daily archives"
+msgstr "Ημερήσιο αρχείο"
+
+#: modules/theme-tools/site-logo/inc/class-site-logo.php:98
+msgid "Display Header Text"
+msgstr "Προβολή κειμένου κεφαλίδας"
+
+#: modules/tiled-gallery/tiled-gallery.php:294
+#: _inc/lib/class.core-rest-api-endpoints.php:2044
+msgid "Display all your gallery pictures in a cool mosaic."
+msgstr "Προβολή συλλογής φωτογραφίες σε μωσαϊκό στυλ."
+
+#: modules/videopress/class.videopress-edit-attachment.php:355
+msgid "Display share menu and allow viewers to embed or download this video"
+msgstr "Προβολή μενού κοινοποίησης και επιλογή για κατέβασμα του βίντεο"
+
+#: modules/theme-tools/featured-content.php:496
+msgid "Easily feature all posts with the <a href=\"%1$s\">\"featured\" tag</a> or a tag of your choice. Your theme supports up to %2$s posts in its featured content area."
+msgstr "Χρησιμοποιήστε την ετικέτα <a href=\"%1$s\">\"featured\"</a> για τις προβεβλημένες δημοσιεύσεις σας. Το Θέμα που χρησιμοποιείτε επιτρέπει μέχρι %2$s προβεβλημένες δημοσιεύσεις."
+
+#: modules/widgets/contact-info.php:314 modules/subscriptions/views.php:453
+msgid "Email Address:"
+msgstr "Διεύθυνση Email:"
+
+#: modules/subscriptions/views.php:638
+msgid "Enter your email address to subscribe to this blog and receive notifications of new posts by email."
+msgstr "Εισάγετε το email σας για εγγραφή στην υπηρεσία αποστολής ειδοποιήσεων μέσω email για νέες δημοσιεύσεις. "
+
+#: modules/theme-tools/featured-content.php:480
+#: modules/theme-tools/featured-content.php:495
+msgid "Featured Content"
+msgstr "Προβεβλημένο Περιεχόμενο"
+
+#: modules/subscriptions.php:277 modules/subscriptions/views.php:40
+msgid "Follow Blog"
+msgstr "Ακολουθήστε αυτό το Ιστολόγιο"
+
+#: modules/subscriptions.php:292
+msgid "Follow Comments"
+msgstr "Ακολουθήστε τα Σχόλια"
+
+#: modules/subscriptions.php:337
+msgid "Follower Settings"
+msgstr "Ρυθμίσεις Παρακολούθησης Περιεχομένου"
+
+#: modules/widget-visibility/widget-conditions.php:109
+#: _inc/jetpack-strings.php:546
+msgid "Front page"
+msgstr "Πρώτη σελίδα"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2474
+msgid "Hide the stats smiley face image."
+msgstr "Απόκρυψη της εικόνας καταμέτρησης στατιστικών smiley"
+
+#: modules/subscriptions.php:503
+msgid ""
+"Howdy.\n"
+"\n"
+"You recently followed one of my posts. This means you will receive an email when new comments are posted.\n"
+"\n"
+"To activate, click confirm below. If you believe this is an error, ignore this message and we'll never bother you again."
+msgstr ""
+"Γεια χαρά,\n"
+"\n"
+"Επιλέξατε να ακολουθείτε τις εξελίξεις σε αυτή την δημοσίευση. Θα λαμβάνετε email για κάθε νέο σχόλιο.\n"
+"\n"
+"Για να ενεργοποιήσετε την υπηρεσία κάνετε κλικ στον παρακάτω σύνδεσμο. Αν έχετε λάβει αυτό το μήνυμα κατά λάθος απλά αγνοήστε το."
+
+#: modules/subscriptions.php:502
+msgid ""
+"Howdy.\n"
+"\n"
+"You recently followed this blog's posts. This means you will receive each new post by email.\n"
+"\n"
+"To activate, click confirm below. If you believe this is an error, ignore this message and we'll never bother you again."
+msgstr ""
+"Γεια χαρά,\n"
+"\n"
+"Επιλέξατε να ακολουθείτε τις νέες δημοσιεύσεις σε αυτό το ιστολόγιο. Θα λαμβάνετε email για κάθε νέο άρθρο που δημοσιεύεται.\n"
+"\n"
+"Για να ενεργοποιήσετε την υπηρεσία κάνετε κλικ στον παρακάτω σύνδεσμο. Αν έχετε λάβει αυτό το μήνυμα κατά λάθος απλά αγνοήστε το."
+
+#: modules/subscriptions.php:497
+msgid "Introduction text sent when someone follows a post on your blog. (Site and confirmation details will be automatically added for you.)"
+msgstr "Κείμενο καλωσόρισματος για όσους ακολουθούν για πρώτη φορά νέα δημοσίευση στο ιστολόγιο σας."
+
+#: modules/subscriptions.php:491
+msgid "Introduction text sent when someone follows your blog. (Site and confirmation details will be automatically added for you.)"
+msgstr "Κείμενο καλωσόρισματος για όσους ακολουθούν για πρώτη φορά το ιστολόγιο σας μέσω της υπηρεσίας."
+
+#: modules/subscriptions.php:268
+msgid "Jetpack Subscriptions Settings"
+msgstr "Ρυθμίσεις Συνδρομής Jetpack"
+
+#. translators: %s: number of folks following the blog
+#: modules/subscriptions/views.php:442 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Join %s other subscriber"
+msgid_plural "Join %s other subscribers"
+msgstr[0] "Προστεθείτε στον %s εγγεγραμμένο."
+msgstr[1] "Προστεθείτε στους %s εγγεγραμμένους."
+
+#: modules/videopress/class.videopress-player.php:859
+msgid "Loading video..."
+msgstr "Το βίντεο φορτώνει..."
+
+#: modules/stats.php:585
+msgid "Loading&hellip;"
+msgstr "Φόρτωση…"
+
+#: modules/videopress/class.videopress-edit-attachment.php:198
+msgid "Location of the Ogg video file."
+msgstr "Τοποθεσία αρχείου βίντεο Ogg."
+
+#: modules/widget-visibility/widget-conditions.php:60
+msgid "Logged In"
+msgstr "Συνδεδεμένος/η"
+
+#: modules/widget-visibility/widget-conditions.php:61
+msgid "Logged Out"
+msgstr "Αποσύνδεση"
+
+#: modules/theme-tools/site-logo/inc/class-site-logo.php:129
+msgid "Logo"
+msgstr "Λογότυπο"
+
+#: modules/widget-visibility/widget-conditions.php:105
+msgid "Monthly archives"
+msgstr "Μηνιαία αρχεία"
+
+#: modules/videopress/class.videopress-video.php:361
+msgid "No data found for VideoPress identifier: <strong>%s</strong>."
+msgstr "Δεν βρέθηκαν δεδομένα για το αναγνωριστικό του VideoPress: <strong>%s</strong>."
+
+#: modules/theme-tools/site-logo/inc/class-site-logo-control.php:24
+msgid "No logo set"
+msgstr "Δεν έχει επιλεγεί λογότυπο"
+
+#: modules/subscriptions.php:725
+msgid "Notify me of follow-up comments by email."
+msgstr "Επιθυμώ να λαμβάνω ειδοποιήσεις για νέα σχόλια μέσω email."
+
+#: modules/subscriptions.php:744
+msgid "Notify me of new posts by email."
+msgstr "Επιθυμώ να λαμβάνω ειδοποιήσεις για νέα άρθρα μέσω email."
+
+#: modules/videopress/class.videopress-edit-attachment.php:195
+msgid "Ogg File URL"
+msgstr "Διεύθυνση URL αρχείου Ogg"
+
+#: modules/subscriptions/views.php:749
+msgid "Optional text to display to your readers:"
+msgstr "Προεραιτικό κείμενο για τους επισκέπτες:"
+
+#: modules/videopress/class.videopress-player.php:593
+msgctxt "Play as in playback or view a movie"
+msgid "JavaScript required to play %s."
+msgstr "Απαιτείται η χρήση JavaScript για την αναπαραγωγή του %s."
+
+#: modules/videopress/class.videopress-player.php:252
+msgid "Please verify your birthday."
+msgstr "Επιβεβαιώστε τα γεννέθλια σας."
+
+#: modules/widget-visibility/widget-conditions.php:125
+msgid "Post type:"
+msgstr "Είδος περιεχομένου:"
+
+#: modules/widget-visibility/widget-conditions.php:110
+msgid "Posts page"
+msgstr "Άρθρα"
+
+#: modules/videopress/class.videopress-video.php:359
+msgid "Publisher limits playback of video embeds."
+msgstr "Ο δημιουργός του βίντεο απαγορεύει την αναπαραγωγή βίντεο που έχουν ενσωματωθεί σε άρθρα."
+
+#: modules/theme-tools/site-logo/inc/class-site-logo-control.php:23
+msgid "Remove logo"
+msgstr "Αφαίρεση λογότυπου"
+
+#: modules/widget-visibility/widget-conditions.php:113
+msgid "Search results"
+msgstr "Αποτελέσματα αναζήτησης"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2439
+msgid "Select the roles that will be able to view stats reports."
+msgstr "Επιλέξτε ποιοι ρόλοι χρηστών έχουν πρόσβαση στα στατιστικά."
+
+#: modules/theme-tools/site-logo/inc/class-site-logo-control.php:20
+msgid "Set as logo"
+msgstr "Επιλογή ως λογότυπο"
+
+#: modules/subscriptions.php:380
+#: _inc/lib/class.core-rest-api-endpoints.php:2272
+msgid "Show a <em>'follow blog'</em> option in the comment form"
+msgstr "Προβολή της επιλογής <em>'παρακολούθηση ιστολόγιου'</em> στην φόρμα σχολιασμού"
+
+#: modules/subscriptions.php:395
+#: _inc/lib/class.core-rest-api-endpoints.php:2279
+msgid "Show a <em>'follow comments'</em> option in the comment form"
+msgstr "Προβολή της επιλογής <em>'παρακολούθηση σχόλιων'</em> στην φόρμα σχολιασμού"
+
+#: modules/stats.php:1058
+msgid "Show top posts over"
+msgstr "Προβολή δημοφιλέστερων άρθρων"
+
+#: modules/stats.php:1071
+msgid "Show top search terms over"
+msgstr "Προβολή δημοφιλέστερων λέξεων αναζήτησης"
+
+#: modules/subscriptions/views.php:784
+msgid "Show total number of subscribers? (%s subscriber)"
+msgid_plural "Show total number of subscribers? (%s subscribers)"
+msgstr[0] "Προβολή αριθμού συνδρομητών; (%s συνδρομητής)"
+msgstr[1] "Προβολή αριθμού συνδρομητών; (%s συνδρομητές)"
+
+#: modules/theme-tools/site-logo/inc/class-site-logo.php:271
+msgid "Site Logo"
+msgstr "Λογότυπο Ιστότοπου"
+
+#: modules/stats.php:1357 modules/stats.php:1382
+msgid "Sorry, nothing to report."
+msgstr "Δεν υπάρχουν δεδομένα για την δημιουργία αναφοράς."
+
+#: modules/tiled-gallery/tiled-gallery.php:258 modules/widgets/gallery.php:371
+msgid "Square Tiles"
+msgstr "Τετράγωνα"
+
+#: modules/widget-visibility/widget-conditions.php:139
+msgid "Static page:"
+msgstr "Στατική σελίδα:"
+
+#: modules/masterbar/masterbar.php:899 modules/stats.php:878
+#: modules/stats.php:1700
+msgid "Stats"
+msgstr "Στατιστικά"
+
+#: modules/videopress/class.videopress-player.php:305
+#: modules/contact-form/grunion-editor-view.php:92
+#: modules/contact-form/grunion-contact-form.php:1851 modules/stats.php:1097
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: extensions/blocks/revue/revue.php:148 modules/subscriptions/views.php:640
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Subscribe"
+msgstr "Εγγραφή"
+
+#: modules/subscriptions/views.php:765
+msgid "Subscribe Button:"
+msgstr "Κουμπί Εγγραφής:"
+
+#: modules/subscriptions/views.php:757
+msgid "Subscribe Placeholder:"
+msgstr "Εγγραφή:"
+
+#: modules/subscriptions/views.php:637
+msgid "Subscribe to Blog via Email"
+msgstr "Εγγραφή στο Ιστολόγιο μέσω Email"
+
+#: modules/subscriptions/views.php:773
+msgid "Success Message Text:"
+msgstr "Κείμενο Επιτυχούς Μηνύματος:"
+
+#: modules/theme-tools/featured-content.php:536
+msgid "Tag name"
+msgstr "Όνομα ετικέτας"
+
+#: modules/videopress/class.videopress-video.php:357
+msgid "The VideoPress plugin could not communicate with the VideoPress servers. This error is most likely caused by a misconfigured plugin. Please reinstall or upgrade."
+msgstr "Δεν ήταν δυνατή η επικοινωνία με τους διακομιστές του VideoPress. Ελέγξτε τις ρυθμίσεις του VideoPress, αναβαθμίστε το πρόσθετο ή προχωρήστε σε επανεγκατάσταση. "
+
+#: modules/subscriptions/views.php:159
+msgid "The email you entered was invalid. Please check and try again."
+msgstr "Η διεύθυνση email που καταχωρήσατε δεν είναι έγκυρη. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/theme-tools/featured-content.php:575
+msgid "The settings for Featured Content have <a href=\"%s\">moved to Appearance &rarr; Customize</a>."
+msgstr "Οι ρυθμίσεις για τις Προβεβλημένες Δημοσιεύσεις είναι διαθέσιμες στο μενού <a href=\"%s\">Εμφάνιση &rarr; Προσαρμογή</a>."
+
+#: modules/subscriptions/views.php:210
+msgid "There was an error when subscribing. Please try again."
+msgstr "Προέκυψε σφάλμα κατά την εγγραφή στην συνδρομή. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/subscriptions.php:484
+msgid "These settings change emails sent from your blog to followers."
+msgstr "Οι παρακάτω ρυθμίσεις αφορούν στα μηνύματα email από το ιστολόγιο σας προς όσους ακολουθούν και ενημερώνονται μέσω email για νέες δημοσιεύσεις σας."
+
+#: modules/videopress/class.videopress-player.php:252
+msgid "This video is intended for mature audiences."
+msgstr "Βίντεο κατάλληλο μόνο για ενηλίκες."
+
+#: modules/tiled-gallery/tiled-gallery.php:260
+msgid "Tiled Columns"
+msgstr "Στοιχισμένες Στήλες"
+
+#: modules/tiled-gallery/tiled-gallery.php:257
+msgid "Tiled Mosaic"
+msgstr "Μωσαϊκό"
+
+#: modules/stats.php:1353
+msgid "Top Posts"
+msgstr "Δημοφιλή άρθρα"
+
+#: modules/stats.php:1378
+msgid "Top Searches"
+msgstr "Δημοφιλείς αναζητήσεις"
+
+#: _inc/jetpack-strings.php:141
+msgid "VideoPress"
+msgstr "VideoPress"
+
+#: modules/stats.php:598
+msgid "View stats on WordPress.com right now"
+msgstr "Προβολή στατιστικών στο WordPress.com"
+
+#: modules/stats.php:880
+msgid "Views over 48 hours. Click for more Site Stats."
+msgstr "Προβολές τις τελευταίες 48 ώρες. Κλικ για περισσότερα στατιστικά στοιχεία."
+
+#: modules/stats.php:1428
+msgid "We were unable to get your stats just now. Please reload this page to try again."
+msgstr "Δεν ήταν δυνατή η φόρτωση των στατιστικών σας. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/verification-tools/blog-verification-tools.php:78
+msgid "Website Verification Services"
+msgstr "Υπηρεσίες Πιστοποίησης Ιστότοπου"
+
+#: modules/widgets/image-widget.php:226 modules/subscriptions/views.php:741
+msgid "Widget title:"
+msgstr "Τίτλος widget:"
+
+#: modules/widget-visibility/widget-conditions.php:106
+msgid "Yearly archives"
+msgstr "Ετήσιο αρχείο"
+
+#: modules/stats.php:1013
+msgid "day"
+msgstr "μέρα"
+
+#: modules/stats.php:1015
+msgid "month"
+msgstr "μήνας"
+
+#: modules/stats.php:1018
+msgid "the past day"
+msgstr "εχθές"
+
+#: modules/stats.php:1020
+msgid "the past month"
+msgstr "Τον προηγούμενο μήνα"
+
+#: modules/stats.php:1021
+msgid "the past quarter"
+msgstr "το προηγούμενο τρίμηνο"
+
+#: modules/stats.php:1019
+msgid "the past week"
+msgstr "Την προηγούμενη εβδομάδα"
+
+#: modules/stats.php:1022
+msgid "the past year"
+msgstr "Πέρσι"
+
+#: modules/videopress/class.videopress-player.php:560
+#: modules/videopress/class.videopress-player.php:585
+msgid "this video"
+msgstr "αυτό το βίντεο"
+
+#: modules/videopress/class.videopress-player.php:448
+msgctxt "watch a video title"
+msgid "Watch: %s"
+msgstr "Προβολή: %s"
+
+#: modules/stats.php:1014
+msgid "week"
+msgstr "εβδομάδα"
+
+#: modules/subscriptions.php:147
+msgid "Jetpack Subscriptions:"
+msgstr "Συνδρομές Jetpack:"
+
+#: modules/subscriptions/views.php:39
+msgid "Blog Subscriptions"
+msgstr "Συνδρομές Blog"
+
+#: modules/stats.php:600
+msgid "View Site Stats without JavaScript"
+msgstr "Προβολή Στατιστικών Ιστοτόπου χωρίς Javascript"
+
+#: modules/stats.php:599
+msgid "Your Site Stats work better with JavaScript enabled."
+msgstr "Τα στατιστικά του ιστοτόπου σας λειτουργούν καλύτερα με την Javascript ενεργοποιημένη."
+
+#: modules/stats.php:1435
+msgid "We were unable to get your stats just now. Please reload this page to try again. If this error persists, please <a href=\"%1$s\" target=\"_blank\">contact support</a>. In your report please include the information below."
+msgstr "Δεν ήταν δυνατή η φόρτωση των στατιστικών σας. Παρακαλώ προσπαθήστε ξανά. Αν συνεχίσετε να εμφανίζεται αυτό το μήνυμα λάθος <a href=\"%1$s\">επικοινωνήστε με την υποστήριξη</a>. Σας παρακαλούμε να αναφέρετε τις παρακάτω λεπτομέρειες όπως εμφανίζονται."
+
+#: modules/subscriptions/views.php:641
+msgid "Success! An email was just sent to confirm your subscription. Please find the email now and click 'Confirm Follow' to start subscribing."
+msgstr "Επιτυχία! Ένα email στάλθηκε για επιβεβαίωση της συνδρομής σας. Παρακαλούμε βρείτε το email τώρα και  πατήστε ενεργοποίηση για να ξεκινήσει η συνδρομή."
+
+#: _inc/jetpack-strings.php:331
+msgid "Upload videos"
+msgstr "Φόρτωση Βίντεο"
+
+#: modules/sharedaddy/sharing-sources.php:99
+msgid " (Opens in new window)"
+msgstr "(Ανοίγει σε νέο παράθυρο)"
+
+#. translators: included in email when post is shared via email. First item is
+#. sender's name. Second is sender's email address.
+#: modules/sharedaddy/sharedaddy.php:105
+msgid "%1$s (%2$s) thinks you may be interested in the following post:"
+msgstr "ο/η %1$s (%2$s) θεωρεί ότι θα σας ενδιαφέρει η ακόλουθη δημοσίευση:"
+
+#: modules/sharedaddy/sharing.php:257
+msgid "Add a new service"
+msgstr "Προσθήκη νέας υπηρεσίας"
+
+#: modules/sharedaddy/sharing.php:249
+msgid "Add sharing buttons to your blog and allow your visitors to share posts with their friends."
+msgstr "Προσθέστε κουμπιά κοινοποίησης στο ιστολόγιο σας και δώστε την δυνατότητα στους επισκέπτες να μοιράζονται το περιεχόμενο σας."
+
+#: modules/sharedaddy/sharedaddy.php:248
+msgid "Advanced.  If this option is checked, you must include these files in your theme manually for the sharing links to work."
+msgstr "Για προχωρημένους. Αν ενεργοποιήσετε αυτή την λειτουργία θα πρέπει να ενσωματώσετε χειροκίνητα τα παρακάτω αρχεία στο Θέμα σας."
+
+#: modules/sharedaddy/sharing.php:530
+msgid "An error occurred creating your new sharing service - please check you gave valid details."
+msgstr "Σφάμα. Δεν ήταν δυνατή η δημιουργία της υπηρεσίας κοινοποίησης. Ελέγξτε τα στοιχεία σας."
+
+#: modules/sharedaddy/sharing.php:255
+msgid "Available Services"
+msgstr "Διαθέσιμες υπηρεσίες"
+
+#: modules/sharedaddy/sharing.php:387
+msgid "Button style"
+msgstr "Στυλ κουμπιού"
+
+#: modules/sso.php:427
+msgid "Cannot deal with cookie redirects, as headers are already sent."
+msgstr "Σφάλμα στην αποστολή και λήψη cookies με redirects."
+
+#: modules/sharedaddy/sharing-sources.php:1180
+msgid "Click to Press This!"
+msgstr "Κλικ για Press This!"
+
+#: modules/shortcodes/presentations.php:266
+msgid "Click to autoplay the presentation!"
+msgstr "Κλικ για αυτόματη αναπαραγωγή της παρουσίασης!"
+
+#: modules/sharedaddy/sharing-sources.php:564
+msgid "Click to email this to a friend"
+msgstr "Κλικ για αποστολή μέσω email"
+
+#: modules/sharedaddy/sharing-sources.php:1112
+msgid "Click to print"
+msgstr "Κλικ για εκτύπωση"
+
+#: modules/shortcodes/slideshow.php:182
+msgid "Click to view slideshow."
+msgstr "Κλικ για να δείτε το σλάιντ"
+
+#: modules/sharedaddy/sharing-sources.php:541
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: modules/sharedaddy/sharing.php:500
+msgid "Create Share Button"
+msgstr "Δημιουργία κουμπιού κοινοποίησης"
+
+#: modules/sharedaddy/sharedaddy.php:246
+#: _inc/lib/class.core-rest-api-endpoints.php:2228
+msgid "Disable CSS and JS"
+msgstr "Απενεργοποίηση CSS και JS"
+
+#: modules/sharedaddy/sharing.php:289
+msgid "Drag and drop available services here."
+msgstr "Σύρετε εδώ τις διαθέσιμες υπηρεσίες που επιθυμείτε να χρησιμοποιήσετε."
+
+#: modules/sharedaddy/sharing.php:256
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr "Σύρετε στον χώρο κάτω από αυτό το μήνυμα, τις υπηρεσίες που θέλετε να ενεργοποιήσετε."
+
+#: modules/sharedaddy/sharing-sources.php:617
+msgid "Email check failed, please try again"
+msgstr "Ο έλεγχος του email απέτυχε, παρακαλώ προσπαθήστε ξανά"
+
+#: modules/sharedaddy/sharing.php:283
+msgid "Enabled Services"
+msgstr "Ενεργοποιημένες υπηρεσίες"
+
+#: modules/sharedaddy/sharing.php:494
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr "Καταχωρήστε την διεύθυνση URL για το εικονίδιο με διαστάσεις 16x16px για αυτή την υπηρεσία."
+
+#: modules/sharedaddy/sharing-sources.php:979
+msgid "Facebook"
+msgstr "Facebook"
+
+#: _inc/jetpack-strings.php:919 _inc/jetpack-strings.php:922
+#: _inc/jetpack-strings.php:927
+msgid "Google"
+msgstr "Google"
+
+#: modules/sharedaddy/sharing-sources.php:1297
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: modules/sharedaddy/sharing.php:390
+#: _inc/lib/class.core-rest-api-endpoints.php:2193
+msgid "Icon + text"
+msgstr "Εικονίδιο + κείμενο"
+
+#: modules/sharedaddy/sharing.php:491
+msgid "Icon URL"
+msgstr "Διεύθυνση URL εικονιδίου"
+
+#: modules/sharedaddy/sharing.php:391
+#: _inc/lib/class.core-rest-api-endpoints.php:2194
+msgid "Icon only"
+msgstr "Εικονίδιο μόνο"
+
+#: modules/sharedaddy/recaptcha.php:62
+msgid "Invalid JSON"
+msgstr "Εσφαλμένο JSON"
+
+#: modules/sharedaddy/sharing-sources.php:897
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: modules/sharedaddy/sharing.php:315
+msgid "Live Preview"
+msgstr "Προεπισκόπηση σε πραγματικό χρόνο"
+
+#: modules/sso.php:540 modules/sso.php:896
+msgid "Log in with WordPress.com"
+msgstr "Σύνδεση με WordPress.com"
+
+#: modules/sso.php:282 _inc/lib/class.core-rest-api-endpoints.php:2263
+msgid "Match by Email"
+msgstr "Πιστοποίηση μέσω email"
+
+#: modules/sharedaddy/sharing.php:330 modules/sharedaddy/sharing.php:366
+#: modules/sharedaddy/sharing-service.php:856
+msgid "More"
+msgstr "Περισσότερα"
+
+#: modules/sharedaddy/sharing.php:393
+#: _inc/lib/class.core-rest-api-endpoints.php:2196
+msgid "Official buttons"
+msgstr "Επίσημα κουμπιά"
+
+#: modules/sharedaddy/sharing-sources.php:1462 _inc/jetpack-strings.php:611
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: modules/sharedaddy/sharing.php:271
+msgid "Please note that your services have been restricted because your site is private."
+msgstr "Οι υπηρεσίες που έχετε επιλέξει δεν λειτουργούν επειδή ο ιστότοπος σας είναι προσωπικός."
+
+#: modules/sharedaddy/sharing-sources.php:1615
+#: modules/sharedaddy/sharing-sources.php:1633
+msgid "Pocket"
+msgstr "Pocket"
+
+#: modules/sharedaddy/sharing-sources.php:613
+msgid "Post was not sent - check your email addresses!"
+msgstr "Δεν ήταν δυνατή η αποστολή της δημοσίευσης - ελέγξτε την διεύθυνση email!"
+
+#: modules/sharedaddy/sharing-sources.php:1130
+msgid "Press This"
+msgstr "Press This"
+
+#: modules/sharedaddy/sharing-sources.php:1108
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: modules/sharedaddy/sharing-sources.php:860
+msgid "Reddit"
+msgstr "Reddit"
+
+#: modules/sharedaddy/sharing-sources.php:1305
+msgid "Remove Service"
+msgstr "Διαγραφή υπηρεσίας"
+
+#: modules/sso.php:252 _inc/lib/class.core-rest-api-endpoints.php:2256
+msgid "Require Two-Step Authentication"
+msgstr "Υποχρεωτική χρήση επαλήθευσης κωδικού σε δύο βήματα"
+
+#: modules/sharedaddy/sharing-sources.php:609
+msgid "Send Email"
+msgstr "Αποστολή email"
+
+#: modules/sharedaddy/sharing-sources.php:577
+msgid "Send to Email Address"
+msgstr "Αποστολή σε διεύθυνση email"
+
+#: modules/sharedaddy/sharing.php:476
+msgid "Service name"
+msgstr "Όνομα υπηρεσίας"
+
+#: modules/sharedaddy/sharing.php:286
+msgid "Services dragged here will appear individually."
+msgstr "Οι υπηρεσίες που θα σύρετε στην περιοχή αυτή θα εμφανιστούν ξεχωριστά."
+
+#: modules/sharedaddy/sharing.php:300
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "Οι υπηρεσίες που θα σύρετε στην περιοχή αυτή θα παραμείνουν κρυφές μέσα στο κεντρικό κουμπί κοινοποίησης."
+
+#: modules/sharedaddy/sharing-service.php:858
+msgid "Share"
+msgstr "Μοιραστείτε το"
+
+#: modules/sharedaddy/sharing.php:226 modules/sharedaddy/sharing-service.php:24
+msgid "Share this:"
+msgstr "Κοινοποιήστε:"
+
+#: modules/sharedaddy/sharedaddy.php:63
+msgid "Shared Post"
+msgstr "Διαμοιρασμένη δημοσίευση"
+
+#: modules/sharedaddy/sharing.php:482
+msgid "Sharing URL"
+msgstr "Διευθυνση κοινοποίησης URL"
+
+#: modules/sharedaddy/sharing.php:318
+msgid "Sharing is off. Add services above to enable."
+msgstr "Η κοινοποίηση περιεχομένου είναι ανενεργή. Προσθέστε υπηρεσίες για να την ενεργοποιήσετε."
+
+#: modules/sharedaddy/sharing.php:398
+msgid "Sharing label"
+msgstr "Τίτλος κοινοποίησης"
+
+#: modules/related-posts/jetpack-related-posts.php:619
+#: _inc/jetpack-strings.php:566
+msgid "Show related content after posts"
+msgstr "Προβολή σχετικών θεμάτων στις δημοσιεύσεις"
+
+#: modules/related-posts/jetpack-related-posts.php:1598
+msgid "Similar post"
+msgstr "Παρόμοια θέματα"
+
+#: modules/shortcodes/slideshow.php:74 modules/widgets/gallery.php:373
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Slideshow"
+msgstr "Σλάιντ"
+
+#: modules/sharedaddy/sharing-sources.php:621
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "Το ιστολόγιο σας δεν μπορεί να κοινοποιεί δημοσιεύσεις μέσω email."
+
+#: modules/shortcodes/crowdsignal.php:191
+#: modules/shortcodes/crowdsignal.php:501
+msgid "Take Our Survey"
+msgstr "Λάβετε μέρος στην έρευνα"
+
+#: modules/sharedaddy/sharing.php:392
+#: _inc/lib/class.core-rest-api-endpoints.php:2195
+msgid "Text only"
+msgstr "Κείμενο μόνο"
+
+#: modules/sharedaddy/recaptcha.php:61
+msgid "The response parameter is invalid or malformed"
+msgstr "Εσφαλμένη παράμετρος απάντησης"
+
+#: modules/sharedaddy/recaptcha.php:60
+msgid "The response parameter is missing"
+msgstr "Η παράμετρος απάντησης λέιπει"
+
+#: modules/sharedaddy/recaptcha.php:59
+msgid "The secret parameter is invalid or malformed"
+msgstr "Εσφαλμένη μυστική παράμετρος"
+
+#: modules/sharedaddy/recaptcha.php:58
+msgid "The secret parameter is missing"
+msgstr "Η μυστική παράμετρος λέιπει"
+
+#: modules/sharedaddy/sharing-sources.php:539
+msgid "This post has been shared!"
+msgstr "Η δημοσίευση σας κοινοποιήθηκε!"
+
+#: modules/shortcodes/presentations.php:250
+msgid "This slideshow could not be started. Try refreshing the page or viewing it in another browser."
+msgstr "Δεν ήταν δυνατή η προβολή του σλάιντ. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/shortcodes/slideshow.php:228
+msgid "This slideshow requires JavaScript."
+msgstr "Το σλάιντ απαιτεί την χρήση JavaScript."
+
+#: modules/widgets/milestone/milestone.php:633 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Time"
+msgstr "Ώρα"
+
+#: modules/sharedaddy/sharing-sources.php:1392
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#. Translators: placeholder is a Twitter username.
+#: modules/shortcodes/twitter-timeline.php:56
+msgid "Tweets by @%s"
+msgstr "Tweets από @%s"
+
+#: modules/sharedaddy/sharing-sources.php:646
+msgid "Twitter"
+msgstr "Twitter"
+
+#: modules/sitemaps/sitemap-stylist.php:68
+#: modules/sharedaddy/sharing-sources.php:1292
+msgid "URL"
+msgstr "URL"
+
+#: modules/sharedaddy/recaptcha.php:63
+msgid "Unexpected response"
+msgstr "Μη αναμενόμενη απάντηση"
+
+#: modules/related-posts/jetpack-related-posts.php:1258
+msgid "Untitled Post"
+msgstr "Χωρίς τίτλο"
+
+#: modules/shortcodes/instagram.php:116 modules/shortcodes/instagram.php:124
+msgid "View on Instagram"
+msgstr "Προβολή στο Instagram"
+
+#: modules/sharedaddy/sharing.php:217
+msgid "Warning! Multibyte support missing!"
+msgstr "Προσοχή! Δεν υπάρχει υποστήριξη multibyte! "
+
+#: modules/related-posts/jetpack-related-posts.php:1593
+msgid "With 1 comment"
+msgid_plural "With %s comments"
+msgstr[0] "με 1 σχόλιο"
+msgstr[1] "με %s σχόλια"
+
+#: modules/sharedaddy/sharing.php:486
+msgid "You can add the following variables to your service sharing URL:"
+msgstr "Προσθέστε τις παρακάτω μεταβλητές στις διευθύνσεις κοινοποίησης URL:"
+
+#: modules/sharedaddy/sharing-sources.php:540
+msgid "You have shared this post with %s"
+msgstr "Μοιραστήκατε αυτή την δημοσίευση με %s"
+
+#: modules/sharedaddy/sharing-sources.php:588
+msgid "Your Email Address"
+msgstr "Διεύθυνση email"
+
+#: modules/sharedaddy/sharing-sources.php:585
+msgid "Your Name"
+msgstr "Όνομα"
+
+#: modules/shortcodes/archives.php:74
+msgid "Your blog does not currently have any published posts."
+msgstr "Δεν υπάρχουν δημοσιευμένα άρθρα σε αυτό το ιστολόγιο."
+
+#: modules/sharedaddy/sharing-sources.php:459
+msgctxt "as sharing source"
+msgid "Email"
+msgstr "Email"
+
+#: modules/related-posts/jetpack-related-posts.php:1549
+#: modules/related-posts/jetpack-related-posts.php:1572
+msgctxt "in {category/tag name}"
+msgid "In \"%s\""
+msgstr "σε \"%s\""
+
+#: modules/sharedaddy/sharing-sources.php:564
+msgctxt "share to"
+msgid "Email"
+msgstr "Email"
+
+#: modules/sharedaddy/sharing-sources.php:1046
+msgctxt "share to"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/sharedaddy/sharing-sources.php:911
+msgctxt "share to"
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: modules/sharedaddy/sharing-sources.php:1525
+msgctxt "share to"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: modules/sharedaddy/sharing-sources.php:1638
+msgctxt "share to"
+msgid "Pocket"
+msgstr "Pocket"
+
+#: modules/sharedaddy/sharing-sources.php:1180
+msgctxt "share to"
+msgid "Press This"
+msgstr "Press This"
+
+#: modules/sharedaddy/sharing-sources.php:1112
+msgctxt "share to"
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: modules/sharedaddy/sharing-sources.php:867
+msgctxt "share to"
+msgid "Reddit"
+msgstr "Reddit"
+
+#: modules/sharedaddy/sharing-sources.php:1425
+msgctxt "share to"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: modules/sharedaddy/sharing-sources.php:778
+msgctxt "share to"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: modules/sharedaddy/sharing-sources.php:1421
+msgid "Share on Tumblr"
+msgstr "Κοινοποίηση στο Tumblr"
+
+#: modules/sharedaddy/sharing-sources.php:778
+msgid "Click to share on Twitter"
+msgstr "Κλικ για κοινοποίηση στο Twitter"
+
+#: modules/sharedaddy/sharing-sources.php:911
+msgid "Click to share on LinkedIn"
+msgstr "Κλικ για κοινοποίηση στο LinkedIn"
+
+#: modules/sharedaddy/sharing-sources.php:1525
+msgid "Click to share on Pinterest"
+msgstr "Κλικ για κοινοποίηση στο Pinterest"
+
+#: modules/sharedaddy/sharing-sources.php:1638
+msgid "Click to share on Pocket"
+msgstr "Κλικ για κοινοποίηση στο Pocket"
+
+#: modules/sharedaddy/sharing-sources.php:867
+msgid "Click to share on Reddit"
+msgstr "Κλικ για κοινοποίηση στο Reddit"
+
+#: modules/sharedaddy/sharing-sources.php:1232
+msgid "Click to share on %s"
+msgstr "Κλικ για κοινοποίηση στο %s"
+
+#: modules/sharedaddy/sharing-sources.php:1425
+msgid "Click to share on Tumblr"
+msgstr "Κλικ για κοινοποίηση στο Tumblr"
+
+#: modules/publicize/publicize-jetpack.php:200
+msgid "An invalid request was made. This normally means that something intercepted or corrupted the request from your server to the Jetpack Server. Try again and see if it works this time."
+msgstr "Σφάλμα επικοινωνίας με τους διακομιστές Jetpack. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/publicize/ui.php:300 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18 _inc/blocks/editor-beta.js:18
+msgid "Before you hit Publish, please refresh the following connection(s) to make sure we can Publicize your post:"
+msgstr "Πριν την δημοσίευση του νέου περιεχομένου, ανανεώστε την παρακάτω σύνδεση ώστε η υπηρεσία Publicize να κοινοποιήσει το άρθρο σας:"
+
+#: modules/protect/shared-functions.php:98
+msgid "Cannot use global flag on non-multisites"
+msgstr "Δεν είναι δυνατή η χρήση global flag σε μη multisites sites"
+
+#: class.jetpack-network-sites-list-table.php:116
+#: class.jetpack-network-sites-list-table.php:121
+#: modules/theme-tools/social-links.php:125 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Connect"
+msgstr "Σύνδεση"
+
+#: modules/publicize/ui.php:647
+msgid "Connect and share your posts on %s"
+msgstr "Συνδεθείτε και μοιραστείτε τις δημοσιεύσεις στο %s"
+
+#: modules/publicize/ui.php:642
+msgid "Connect to"
+msgstr "Σύνδεση σε"
+
+#: modules/protect/math-fallback.php:85
+msgid "Continue &rarr;"
+msgstr "Συνέχεια &rarr;"
+
+#: modules/custom-css/custom-css-4.7.php:265 _inc/jetpack-strings.php:78
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένο CSS"
+
+#: modules/publicize/ui.php:622
+msgid "Custom Message:"
+msgstr "Προσαρμοσμένο μήνυμα:"
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:121
+msgid "Disable Post By Email"
+msgstr "Απενεργοποίηση δημοσίευσης μέσω email"
+
+#: class.jetpack-network-sites-list-table.php:105
+#: class.jetpack-network-sites-list-table.php:122 _inc/jetpack-strings.php:761
+msgid "Disconnect"
+msgstr "Αποσύνδεση"
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:101
+#: modules/subscriptions/views.php:639
+#: _inc/lib/class.core-rest-api-endpoints.php:2135 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Email Address"
+msgstr "Διεύθυνση email"
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:113
+msgid "Enable Post By Email"
+msgstr "Ενεργοποίηση δημοσίευσης μέσω email"
+
+#: modules/publicize/publicize-jetpack.php:230
+msgid "Error code: %s"
+msgstr "Σφάλμα: %s"
+
+#: modules/protect.php:261
+msgid "Error connecting to WordPress.com. Code: %1$s, %2$s"
+msgstr "Σφάλμα σύνδεσης στο WordPress.com. Κωδικός: %1$s, %2$s"
+
+#: modules/protect/shared-functions.php:95
+msgid "Expecting an array"
+msgstr "Αναμενόμενη χρήση πίνακα"
+
+#: modules/related-posts/jetpack-related-posts.php:617
+msgid "Hide related content after posts"
+msgstr "Απόκρυψη σχετικών θεμάτων στις δημοσιεύσεις"
+
+#: modules/publicize/publicize-jetpack.php:83
+#: modules/post-by-email/class-jetpack-post-by-email.php:138
+msgid "If you don't have a WordPress.com account yet, you can sign up for free in just a few seconds."
+msgstr "Αν δεν έχετε λογαριασμό στο WordPress.com μπορείτε να δημιουργήσετε έναν, εύκολα, γρήγορα και δωρεάν."
+
+#: modules/sitemaps/sitemap-stylist.php:69
+#: modules/sitemaps/sitemap-stylist.php:181
+#: modules/sitemaps/sitemap-stylist.php:308
+#: modules/sitemaps/sitemap-stylist.php:448
+msgid "Last Modified"
+msgstr "Τροποποιήθηκε"
+
+#: modules/publicize/publicize-jetpack.php:89
+#: modules/post-by-email/class-jetpack-post-by-email.php:141
+msgid "Link account with WordPress.com"
+msgstr "Σύνδεση λογαριασμού με το WordPress.com"
+
+#: modules/protect.php:626
+msgid "Login Blocked by Jetpack"
+msgstr "Η σύνδεση αποκλείστηκε από το Jetpack"
+
+#: _inc/jetpack-strings.php:396 _inc/jetpack-strings.php:658
+msgid "Media"
+msgstr "Εικόνες και Βίντεο"
+
+#: modules/videopress/class.videopress-player.php:308
+#: modules/post-by-email/class-jetpack-post-by-email.php:117
+msgid "More information"
+msgstr "Περισσότερες πληροφορίες"
+
+#: modules/protect.php:699
+msgid "No API key"
+msgstr "Χωρίς κλειδί API"
+
+#: modules/publicize/publicize-jetpack.php:206
+msgid "No blog_id was included in your request. Please try disconnecting Jetpack from WordPress.com and then reconnecting it. Once you have done that, try connecting Publicize again."
+msgstr "Δεν βρέθηκε αναγνωριστικό blog_id στην σύνδεση σας. Απενεργοποιήστε το Jetpack από το WordPress.com και ενεργοποιήστε το ξανά. Δοκιμάστε να ενεργοποιήστε την υπηρεσία Publicize αμέσως μετά."
+
+#: modules/protect.php:270
+msgid "No reply from Jetpack servers"
+msgstr "Καμία απάντηση από τους διακομιστές Jetpack"
+
+#: modules/publicize/publicize-jetpack.php:209
+msgid "No user information was included in your request. Please make sure that your user account has connected to Jetpack. Connect your user account by going to the <a href=\"%s\">Jetpack page</a> within wp-admin."
+msgstr "Δεν βρέθηκαν στοιχεία χρήστη στην σύνδεση σας. Βεβαιωθείτε ότι ο λογαριασμός σας είναι συνδεδεμένος με το Jetpack. Μπορείτε να συνδέσετε τον λογαριασμό σας από το <a href=\"%s\">μενού Jetpack</a> στο διαχειριστικό περιβάλλον."
+
+#: modules/publicize/ui.php:524
+msgid "Not Connected"
+msgstr "Χωρίς σύνδεση"
+
+#: modules/protect/shared-functions.php:143 views/admin/network-settings.php:8
+msgid "One of your IP addresses was not valid."
+msgstr "Μία από τις διευθύνσεις IP δεν είναι έγκυρη."
+
+#: modules/protect/shared-functions.php:101
+msgid "Only super admins can edit the global whitelist"
+msgstr "Οι αλλαγές στην καθολική whitelist γίνονται μόνο από super admins"
+
+#: modules/protect/math-fallback.php:77
+msgid "Please solve this math problem to prove that you are not a bot.  Once you solve it, you will need to log in again."
+msgstr "Απαντήστε στην ερώτηση για να βεβαιωθούμε ότι δεν είστε ρομπότ. Μόλις απαντήσετε σωστά θα πρέπει να συνδεθείτε ξανά."
+
+#: modules/masterbar/masterbar.php:1261
+#: modules/calypsoify/class.jetpack-calypsoify.php:294
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:98
+msgid "Post by Email"
+msgstr "Δημοσίευση μέσω email"
+
+#: modules/related-posts/jetpack-related-posts.php:590
+msgid "Preview:"
+msgstr "Προεπισκόπηση:"
+
+#: modules/publicize/ui.php:471
+msgid "Publicize:"
+msgstr "Publicize:"
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2126
+msgid "Receive Monitor Email Notifications."
+msgstr "Λήψη ειδοποιήσεων για την κατάσταση του ιστότοπου μέσω email."
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:120
+msgid "Regenerate Address"
+msgstr "Επαναδημιουργία διεύθυνσης"
+
+#: modules/related-posts/class.related-posts-customize.php:178
+#: modules/related-posts/jetpack-related-posts.php:476
+#: modules/related-posts/jetpack-related-posts.php:536
+#: modules/related-posts/jetpack-related-posts.php:645
+#: _inc/jetpack-strings.php:570
+msgid "Related"
+msgstr "Σχετικά"
+
+#: modules/related-posts/class.related-posts-customize.php:50
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Related Posts"
+msgstr "Σχετικές δημοσιεύσεις"
+
+#: modules/related-posts/jetpack-related-posts.php:103
+#: _inc/jetpack-strings.php:110
+msgid "Related posts"
+msgstr "Σχετικές δημοσιεύσεις"
+
+#: modules/sharedaddy/sharing-sources.php:1304
+#: modules/widgets/simple-payments/form.php:181 _inc/jetpack-strings.php:920
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: modules/publicize/publicize-jetpack.php:212
+msgid "Something which should never happen, happened. Sorry about that. If you try again, maybe it will work."
+msgstr "Σφάλμα. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/publicize/publicize-jetpack.php:239
+msgid "That connection has been removed."
+msgstr "Η σύνδεση έχει διαγραφεί."
+
+#: modules/masterbar/masterbar.php:1177
+msgid "Themes"
+msgstr "Θέματα"
+
+#: modules/publicize/publicize-jetpack.php:194
+msgid "There was a problem connecting to %s to create an authorized connection. Please try again in a moment."
+msgstr "Πρόβλημα κατά την σύνδεση στο %s . Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/publicize/publicize-jetpack.php:216
+msgid "There was a problem connecting with Publicize. Please try again in a moment."
+msgstr "Πρόβλημα κατά την σύνδεση με την υπηρεσία Publicize. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/protect.php:703
+msgid "There was an error contacting Jetpack servers."
+msgstr "Σφάλμα κατά την σύνδεση με τους διακομιστές Jetpack."
+
+#: modules/publicize/publicize.php:493
+msgid "This connection is working correctly."
+msgstr "Η σύνδεση λειτουργεί κανονικά"
+
+#: modules/tiled-gallery/tiled-gallery.php:287 _inc/jetpack-strings.php:140
+msgid "Tiled Galleries"
+msgstr "Στοιχισμένες συλλογές φωτογραφιών"
+
+#: modules/sitemaps/sitemap-stylist.php:307
+#: modules/sitemaps/sitemap-stylist.php:447
+#: modules/sitemaps/sitemap-stylist.php:588
+#: modules/widgets/milestone/milestone.php:604
+#: modules/widgets/gravatar-profile.php:277
+#: modules/widgets/facebook-likebox.php:167
+msgid "Title"
+msgstr "Τίτλος"
+
+#. translators: Placeholder is the site's name from WordPress settings.
+#: modules/post-by-email/class-jetpack-post-by-email.php:133
+msgid "To use Post By Email, you need to link your %s account to your WordPress.com account."
+msgstr "Για την χρήση της υπηρεσίας Δημοσίευση μέσω email πρέπει να συνδέσετε τον λογαριασμό σας %s με τον λογαριασμό σας στο WordPress.com."
+
+#. translators: %s is the name of the blog
+#: modules/publicize/publicize-jetpack.php:80
+msgid "To use Publicize, you'll need to link your %s account to your WordPress.com account using the link below."
+msgstr "Για να χρησιμοποιήσετε την υπηρεσία Publicize πρέπει να συνδέσετε τον λογαριασμό σας %s στον λογαριασμό σας στο WordPress.com χρησιμοποιώντας τον παρακάτω σύνδεσμο."
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:217
+msgid "Unable to create your Post By Email address. Please try again later."
+msgstr "Δεν ήταν δυνατή η δημιουργία διεύθυνσης για την υπηρεσία Δημοσίευση μέσω email. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:241
+msgid "Unable to disable your Post By Email address. Please try again later."
+msgstr "Δεν ήταν δυνατή η απενεργοποίηση της υπηρεσίας Δημοσίευση μέσω email. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/post-by-email/class-jetpack-post-by-email.php:229
+msgid "Unable to regenerate your Post By Email address. Please try again later."
+msgstr "Δεν ήταν δυνατή η επαναδημιουργία διεύθυνσης για την υπηρεσία Δημοσίευση μέσω email. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/publicize/enhanced-open-graph.php:118
+msgid "Video on %s"
+msgstr "Βίντεο στο %s"
+
+#: modules/protect.php:186
+msgid "View Network Admin"
+msgstr "Προβολή διαχείρισης δικτύου "
+
+#: modules/publicize/publicize-jetpack.php:203
+msgid "We could not verify that your server is making an authorized request. Please try again, and make sure there is nothing interfering with requests from your server to the Jetpack Server."
+msgstr "Δεν ήταν η πιστοποίηση της σύνδεσης μεταξύ του διακομιστή σας και του διακομιστή Jetpack. Παρακαλώ ελέγξτε τις ρυθμίσεις του διακομιστή σας."
+
+#: modules/protect.php:695
+msgid "Your API key is invalid"
+msgstr "Μη έγκυρο κλειδί API"
+
+#: modules/protect/math-fallback.php:79
+msgid "Your answer was incorrect, please try again."
+msgstr "Λάθος απάντηση. Προσπαθήστε ξανά."
+
+#: views/admin/network-settings.php:38
+msgid "Your current IP: %s"
+msgstr "Τρέχουσα διεύθυνση IP: %s"
+
+#: modules/protect.php:231
+msgid "Your main blog is not connected to WordPress.com. Please connect to get an API key."
+msgstr "Το κύριο blog σας δεν είναι συνδεδεμένο στο WordPress.com. Συνδεθείτε για να λάβετε κλειδί API."
+
+#: modules/protect/math-fallback.php:60
+msgid "<strong>You failed to correctly answer the math problem.</strong>  This is used to combat spam when the Protect API is unavailable.  Please use your browser's back button to return to the login form, press the \"refresh\" button to generate a new math problem, and try to log in again."
+msgstr "<strong>Δεν απαντήσατε σωστά στην ερώτηση.</strong> Ο έλεγχος γίνεται για την καταπολέμηση του spam όταν το Protect API δεν είναι διαθέσιμο. Επιστρέψτε στην προηγούμενη σελίδα, ανανεώστε τη και απαντήστε στην νέα ερώτηση."
+
+#: modules/publicize/publicize-jetpack.php:367
+msgctxt "Refresh connection with {social media service}"
+msgid "Refresh connection with %s"
+msgstr "Ανανέωση σύνδεσης με %s"
+
+#: modules/protect/math-fallback.php:145
+msgid "Prove your humanity"
+msgstr "Δείξτε την ανθρώπινη πλευρά σας:"
+
+#: modules/module-headings.php:62
+msgctxt "Module Description"
+msgid "Enable pop-up business cards over commenters’ Gravatars."
+msgstr "Ενεργοποιήστε το χαρακτηριστικό business cards στις φωτογραφίες προφίλ Gravatar όσων σχολιάζουν."
+
+#: modules/module-headings.php:76
+msgctxt "Module Name"
+msgid "Beautiful Math"
+msgstr "Μαθηματικές Εξισώσεις"
+
+#: modules/module-headings.php:31
+msgctxt "Module Name"
+msgid "Contact Form"
+msgstr "Φόρμα επικοινωνίας"
+
+#: modules/module-headings.php:46
+msgctxt "Module Name"
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένα Αρχεία CSS"
+
+#: modules/module-headings.php:41
+msgctxt "Module Name"
+msgid "Custom content types"
+msgstr "Προσαρμοσμένοι Τύποι Περιεχομένου"
+
+#: modules/module-headings.php:51
+msgctxt "Module Name"
+msgid "Enhanced Distribution"
+msgstr "Enhanced Distribution"
+
+#: modules/module-headings.php:211
+msgctxt "Module Name"
+msgid "Extra Sidebar Widgets"
+msgstr "Επιπλέον Μονάδες (widgets) στις πλευρικές στήλες"
+
+#: modules/module-headings.php:61
+msgctxt "Module Name"
+msgid "Gravatar Hovercards"
+msgstr "Gravatar Hovercards"
+
+#: modules/module-headings.php:66
+msgctxt "Module Name"
+msgid "Infinite Scroll"
+msgstr "Αυτόματη φόρτωση περιεχομένου"
+
+#: modules/module-headings.php:71
+msgctxt "Module Name"
+msgid "JSON API"
+msgstr "JSON API"
+
+#: modules/module-headings.php:86
+msgctxt "Module Name"
+msgid "Likes"
+msgstr "Likes"
+
+#: modules/module-headings.php:91
+msgctxt "Module Name"
+msgid "Markdown"
+msgstr "Παραμετροποίηση Κειμένου"
+
+#: modules/module-headings.php:101
+msgctxt "Module Name"
+msgid "Monitor"
+msgstr "Παρακολούθηση"
+
+#: modules/module-headings.php:106
+msgctxt "Module Name"
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+#: modules/module-headings.php:121
+msgctxt "Module Name"
+msgid "Post by email"
+msgstr "Δημοσίευση μέσω Email"
+
+#: modules/module-headings.php:126
+msgctxt "Module Name"
+msgid "Protect"
+msgstr "Προστασία"
+
+#: modules/module-headings.php:131
+msgctxt "Module Name"
+msgid "Publicize"
+msgstr "Publicize"
+
+#: modules/module-headings.php:151
+msgctxt "Module Name"
+msgid "Sharing"
+msgstr "Κοινοποιήσεις"
+
+#: modules/module-headings.php:156
+msgctxt "Module Name"
+msgid "Shortcode Embeds"
+msgstr "Συντομεύσεις κώδικα"
+
+#: modules/module-headings.php:196
+msgctxt "Module Name"
+msgid "Site verification"
+msgstr "Πιστοποίηση Ιστότοπου"
+
+#: modules/module-headings.php:181
+msgctxt "Module Name"
+msgid "Subscriptions"
+msgstr "Συνδρομές"
+
+#: modules/module-headings.php:186
+msgctxt "Module Name"
+msgid "Tiled Galleries"
+msgstr "Στοιχισμένες Συλλογές Φωτογραφιών"
+
+#: modules/module-headings.php:201
+msgctxt "Module Name"
+msgid "VideoPress"
+msgstr "VideoPress"
+
+#: modules/module-headings.php:161
+msgctxt "Module Name"
+msgid "WP.me Shortlinks"
+msgstr "WP.me Shortlinks"
+
+#: modules/module-headings.php:206
+msgctxt "Module Name"
+msgid "Widget Visibility"
+msgstr "Εμφάνιση Widget"
+
+#: modules/module-headings.php:291
+msgctxt "Module Tag"
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: modules/module-headings.php:296
+msgctxt "Module Tag"
+msgid "Developers"
+msgstr "Δημιουργοί"
+
+#: modules/module-headings.php:243
+msgctxt "Module Tag"
+msgid "Other"
+msgstr "Λοιπά"
+
+#: modules/module-headings.php:252
+msgctxt "Module Tag"
+msgid "Photos and Videos"
+msgstr "Φωτογραφίες και Βίντεο"
+
+#: modules/module-headings.php:310
+msgctxt "Module Tag"
+msgid "Recommended"
+msgstr "Προτεινόμενο"
+
+#: modules/module-headings.php:266
+msgctxt "Module Tag"
+msgid "Social"
+msgstr "Κοινωνικό"
+
+#: modules/module-headings.php:277
+msgctxt "Module Tag"
+msgid "Writing"
+msgstr "Σύνταξη"
+
+#: modules/notes.php:197 modules/masterbar/masterbar.php:411
+#: modules/masterbar/masterbar.php:417 modules/masterbar/masterbar.php:711
+#: _inc/jetpack-strings.php:102 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+#: modules/publicize/ui.php:97 _inc/jetpack-strings.php:108
+#: _inc/lib/core-api/class.jetpack-core-api-site-endpoints.php:261
+msgid "Publicize"
+msgstr "Publicize."
+
+#: _inc/jetpack-strings.php:124
+msgid "Shortcode Embeds"
+msgstr "Συντομεύσεις κώδικα προς ενσωμάτωση"
+
+#: modules/stats.php:425 modules/stats.php:568 modules/stats.php:977
+#: _inc/jetpack-strings.php:132 _inc/jetpack-strings.php:692
+#: _inc/jetpack-strings.php:693
+#: _inc/lib/core-api/class.jetpack-core-api-site-endpoints.php:158
+msgid "Site Stats"
+msgstr "Στατιστικά"
+
+#: _inc/jetpack-strings.php:126
+msgid "WP.me Shortlinks"
+msgstr "Σύνδεσμοι μικρού μήκους WP.me"
+
+#: modules/module-headings.php:26
+msgctxt "Module Name"
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: modules/module-headings.php:52
+msgctxt "Module Description"
+msgid "Increase reach and traffic."
+msgstr "Αυξάνει την επισκεψιμότητα."
+
+#: modules/module-headings.php:176
+msgctxt "Module Name"
+msgid "Site Stats"
+msgstr "Στατιστικά Site"
+
+#: modules/module-headings.php:323
+msgctxt "Module Tag"
+msgid "Site Stats"
+msgstr "Στατιστικά Site"
+
+#: modules/module-info.php:255
+msgid ""
+"Jetpack will automatically take your great published content and share it instantly with third-party services\n"
+"\t\tlike search engines, increasing your reach and traffic."
+msgstr "Το Jetpack θα ενημερώσει αυτόματα τις μηχανές αναζήτησης για κάθε νέα δημοσίευση σας ώστε να αποκτήσετε μεγαλύτερη έκθεση και περισσότερους επισκέπτες."
+
+#: modules/module-headings.php:187
+msgctxt "Module Description"
+msgid "Display image galleries in a variety of elegant arrangements."
+msgstr "Προβάλετε τις συλλογές φωτογραφιών σας χρησιμοποιώντας πολλά και διαφορετικά, όμορφα θέματα"
+
+#: modules/module-headings.php:177
+msgctxt "Module Description"
+msgid "Collect valuable traffic stats and insights."
+msgstr "Συλλέγει χρήσιμα στατιστικά επισκεψιμότητας και πληροφορίες."
+
+#: modules/module-headings.php:87
+msgctxt "Module Description"
+msgid "Give visitors an easy way to show they appreciate your content."
+msgstr "Επιτρέψτε στους επισκέπτες σας να δείξουν την εκτίμηση τους για τις δημοσιεύσεις σας."
+
+#. translators: Date and time
+#: _inc/lib/icalendar-reader.php:824
+msgid "%1$s at %2$s"
+msgstr "%1$s στις %2$s"
+
+#. translators: The value of %d is not available at the time of output
+#: modules/likes/jetpack-likes-master-iframe.php:33
+msgid "<span>%d</span> bloggers like this:"
+msgstr "Αρέσει σε <span>%d</span> bloggers:"
+
+#: modules/likes/jetpack-likes-settings.php:533
+msgid "Comment Likes are"
+msgstr "Τα Likes είναι"
+
+#: modules/custom-post-types/testimonial.php:445
+msgid "Customize"
+msgstr "Προσαρμογή"
+
+#: modules/likes/jetpack-likes-settings.php:524
+msgid "Don't show the Reblog button on posts"
+msgstr "Απόκρυψη κουμπιού Reblog στις δημοσιεύσεις"
+
+#: modules/subscriptions.php:315 modules/likes.php:194
+msgid "Email me whenever"
+msgstr "Αποστολή email κάθε φορά που"
+
+#: modules/theme-tools/content-options/customizer.php:291
+msgid "Featured Images"
+msgstr "Προβεβλημένες εικόνες."
+
+#: modules/sharedaddy/sharing.php:421
+#: modules/likes/jetpack-likes-settings.php:678
+msgid "Front Page, Archive Pages, and Search Results"
+msgstr "Αρχική σελίδα, σελίδες αρχείου και αποτελέσματα αναζήτησης"
+
+#: modules/widgets/gallery.php:31
+msgid "Gallery"
+msgstr "Γκαλερί"
+
+#: modules/gravatar-hovercards.php:48 _inc/jetpack-strings.php:86
+msgid "Gravatar Hovercards"
+msgstr "Καρτέλες Gravatar"
+
+#: modules/markdown/easy-markdown.php:276
+#: modules/markdown/easy-markdown.php:291
+msgid "Learn more about Markdown."
+msgstr "Μάθετε περισότερα για την μορφοποίηση κειμένου."
+
+#: modules/likes.php:473
+msgid "Like"
+msgstr "Like"
+
+#: modules/likes/jetpack-likes-settings.php:46
+#: modules/widgets/top-posts.php:107 modules/likes.php:431
+#: _inc/jetpack-strings.php:94
+msgid "Likes"
+msgstr "Likes"
+
+#: modules/likes.php:193
+msgid "Likes Notifications"
+msgstr "Ειδοποιήσεις για likes"
+
+#: modules/likes/jetpack-likes-settings.php:14
+msgid "Likes and Shares"
+msgstr "Κοινοποιήσεις και likes"
+
+#: class.jetpack-connection-banner.php:196 modules/comment-likes.php:192
+#: modules/likes.php:473
+msgid "Loading..."
+msgstr "Φόρτωση..."
+
+#: modules/markdown/easy-markdown.php:250
+#: modules/markdown/easy-markdown.php:252 _inc/jetpack-strings.php:96
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Markdown"
+msgstr "Μορφοποίηση κειμένου"
+
+#: modules/markdown/easy-markdown.php:644
+msgid "Markdown content"
+msgstr "Περιεχόμενο"
+
+#: modules/masterbar/masterbar.php:1339
+msgid "Menu"
+msgstr "Μενού"
+
+#: modules/module-headings.php:16
+msgctxt "Module Name"
+msgid "Carousel"
+msgstr "Carousel"
+
+#: _inc/jetpack-strings.php:894 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "No"
+msgstr "Όχι"
+
+#: modules/infinite-scroll/infinity.php:815
+msgid "Older posts"
+msgstr "Παλαιότερες δημοσιεύσεις"
+
+#: modules/likes/jetpack-likes-settings.php:539
+msgid "On for all comments"
+msgstr "ενεργοποιημένα για όλα τα σχόλια"
+
+#: modules/likes/jetpack-likes-settings.php:498
+#: _inc/lib/class.core-rest-api-endpoints.php:2094
+msgid "On for all posts"
+msgstr "ενεργοποιημένα για όλες τις δημοσιεύσεις"
+
+#: modules/infinite-scroll/infinity.php:1597
+msgid "Proudly powered by WordPress"
+msgstr "Proudly powered by WordPress"
+
+#: modules/gravatar-hovercards.php:87
+msgid "Put your mouse over your Gravatar to check out your profile."
+msgstr "Τοποθετήστε τον δείκτη του ποντικού πάνω στην προσωπική σας φωτογραφία Gravatar για να δείτε το προφίλ σας."
+
+#: modules/sharedaddy/sharing.php:465
+#: modules/likes/jetpack-likes-settings.php:227
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: modules/infinite-scroll/infinity.php:867
+msgid "Scroll back to top"
+msgstr "Επιστροφή στην κορυφή"
+
+#: modules/sharedaddy/sharing.php:222
+#: modules/likes/jetpack-likes-settings.php:207
+msgid "Settings have been saved"
+msgstr "Οι ρυθμίσεις σας αποθηκεύθηκαν"
+
+#: modules/sharedaddy/sharedaddy.php:143 modules/sharedaddy/sharing.php:100
+#: modules/publicize/ui.php:56 modules/masterbar/masterbar.php:1223
+#: modules/likes/jetpack-likes-settings.php:181 _inc/jetpack-strings.php:122
+#: _inc/jetpack-strings.php:521
+#: _inc/lib/core-api/class.jetpack-core-api-site-endpoints.php:272
+msgid "Sharing"
+msgstr "Κοινοποίηση"
+
+#: modules/sharedaddy/sharing.php:248
+#: modules/likes/jetpack-likes-settings.php:215
+msgid "Sharing Buttons"
+msgstr "Κουμπιά κοινοποίησης"
+
+#: modules/sharedaddy/sharing.php:99 modules/sharedaddy/sharing.php:232
+#: modules/publicize/ui.php:55 modules/publicize/ui.php:73
+#: modules/likes/jetpack-likes-settings.php:181
+#: modules/likes/jetpack-likes-settings.php:193
+msgid "Sharing Settings"
+msgstr "Ρυθμίσεις κοινοποιήσεων"
+
+#: modules/sharedaddy/sharing.php:415
+#: modules/likes/jetpack-likes-settings.php:669
+msgid "Show buttons on"
+msgstr "Χρήση κουμπιών σε"
+
+#: modules/likes/jetpack-likes-settings.php:80 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18 _inc/blocks/editor-beta.js:18
+msgid "Show likes."
+msgstr "Προβολή likes."
+
+#: modules/sharedaddy/sharedaddy.php:169
+#: modules/likes/jetpack-likes-settings.php:170 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18 _inc/blocks/editor-beta.js:18
+msgid "Show sharing buttons."
+msgstr "Προβολή κουμπιών κοινοποίησης."
+
+#: modules/likes/jetpack-likes-settings.php:518
+msgid "Show the Reblog button on posts"
+msgstr "Χρήση κουμπιού Reblog στις δημοσιεύσεις"
+
+#: modules/likes.php:233
+msgid "Someone likes one of my posts"
+msgstr "κάποιος κάνει like σε μία από τις δημοσιεύσεις μου"
+
+#. translators: %1$s is the name of a theme
+#: modules/infinite-scroll/infinity.php:1601
+msgid "Theme: %1$s."
+msgstr "Θέμα: %1$s."
+
+#: _inc/lib/class.core-rest-api-endpoints.php:2070
+msgid "To infinity and beyond"
+msgstr "Στο άπειρο και ξανά πίσω"
+
+#: modules/likes/jetpack-likes-settings.php:504
+#: _inc/lib/class.core-rest-api-endpoints.php:2095
+msgid "Turned on per post"
+msgstr "Ενεργοποίηση ανα δημοσίευση"
+
+#: modules/infinite-scroll.php:76
+#: _inc/lib/class.core-rest-api-endpoints.php:2077
+msgid "Use Google Analytics with Infinite Scroll"
+msgstr "Χρήση του Google Analytics με την αυτόματη φόρτωση περιεχομένου"
+
+#: modules/markdown/easy-markdown.php:290
+#: _inc/lib/class.core-rest-api-endpoints.php:2110
+msgid "Use Markdown for comments."
+msgstr "Χρήση μορφοποίησης κειμένου στα σχόλια."
+
+#: modules/markdown/easy-markdown.php:275
+msgid "Use Markdown for posts and pages."
+msgstr "Χρησιμοποιήστε την μορφοποίηση κειμένο σε άρθρα και σελίδες."
+
+#: modules/gravatar-hovercards.php:60
+#: _inc/lib/class.core-rest-api-endpoints.php:2052
+msgid "View people's profiles when you mouse over their Gravatars"
+msgstr "Προβολή πληροφοριών προφίλ κατά την στάση του δείκτη ποντικιού πάνω από φωτογραφίες Gravatars"
+
+#: modules/infinite-scroll/infinity.php:409
+msgid "We&rsquo;ve changed this option to a click-to-scroll version for you since you have footer widgets in Appearance &rarr; Widgets, or your theme uses click-to-scroll as the default behavior."
+msgstr "Αλλάξαμε την ρύθμιση στην επιλογή κλικ-για-συνέχεια γιατί εντοπίσαμε ότι χρησιμοποιείτε widgets στο υποσέλιδο σας (Μενού Εμφάνιση &rarr; Widgets) ή το ενεργό Θέμα χρησιμοποιεί την επιλογή κλικ-για-συνέχεια και φόρτωση επιπλέον δημοσιεύσεων."
+
+#: modules/likes/jetpack-likes-settings.php:492
+#: _inc/lib/class.core-rest-api-endpoints.php:2086
+msgid "WordPress.com Likes are"
+msgstr "Τα likes του WordPress.com Likes είναι"
+
+#: modules/likes/jetpack-likes-settings.php:512
+msgid "WordPress.com Reblog Button"
+msgstr "Κουμπί WordPress.com Reblog"
+
+#: modules/custom-post-types/testimonial.php:649
+msgid "Your Testimonial Archive currently has no entries. You can start creating them on your dashboard."
+msgstr "Το αρχείο Testimonial είναι κενό. Δημιουργήστε νέο Testimonial από τον Πίνακα Ελέγχου."
+
+#: modules/likes.php:467 modules/likes.php:468
+msgid "Like this:"
+msgstr "Μου αρέσει αυτό:"
+
+#: modules/custom-post-types/testimonial.php:496
+msgid "Testimonial Archive Featured Image"
+msgstr "Προβεβλημένη φωτογραφίας σελίδας απόψεων"
+
+#: modules/custom-post-types/nova.php:330
+#: modules/custom-post-types/nova.php:335
+msgid "%1$d Food Menu Item"
+msgid_plural "%1$d Food Menu Items"
+msgstr[0] "%1$d στοιχείο μενού"
+msgstr[1] "%1$d στοιχεία μενού"
+
+#: modules/custom-css/custom-css.php:1051
+msgid "%s px"
+msgstr "%s px"
+
+#: modules/custom-post-types/nova.php:421
+#: modules/custom-post-types/nova.php:422
+#: modules/custom-post-types/nova.php:937
+msgid "Add Many Items"
+msgstr "Προσθήκη πολλαπλών αντικειμένων"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:217
+msgid "Add Menu Item"
+msgstr "Προσθήκη στοιχείου μενού"
+
+#: modules/widgets/simple-payments/form.php:46
+#: modules/custom-post-types/comics.php:224
+#: modules/custom-post-types/testimonial.php:299
+#: modules/custom-post-types/portfolios.php:269
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: modules/custom-post-types/comics.php:225
+msgid "Add New Comic"
+msgstr "Προσθήκη κόμικ"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:143
+msgid "Add New Menu Item Label"
+msgstr "Προσθήκη νέου μενού ετικέτας"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:179
+msgid "Add New Menu Section"
+msgstr "Προσθήκη νέου τμήματος μενού"
+
+#: modules/custom-post-types/portfolios.php:270
+msgid "Add New Project"
+msgstr "Προσθήκη δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:347
+msgid "Add New Project Tag"
+msgstr "Προσθήκη νέας ετικέτας σχέδιου"
+
+#: modules/custom-post-types/portfolios.php:320
+msgid "Add New Project Type"
+msgstr "Προσθήκη νέου τύπου δουλειάς"
+
+#: modules/custom-post-types/testimonial.php:300
+msgid "Add New Testimonial"
+msgstr "Πείτε μας την γνώμη σας"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:215
+msgid "Add One Item"
+msgstr "Προσθήκη"
+
+#: modules/custom-post-types/nova.php:986
+msgid "Add These New Menu Items"
+msgstr "Προσθήκη νέων στο μενού"
+
+#: modules/custom-post-types/nova.php:147
+msgid "Add or remove Labels"
+msgstr "Προσθήκη ή διαγραφή ετικέτας"
+
+#: modules/custom-post-types/portfolios.php:352
+msgid "Add or remove tags"
+msgstr "Προσθαφαίρεση ετικετών"
+
+#: modules/custom-post-types/nova.php:942
+msgid "Add to section:"
+msgstr "Προσθήκη:"
+
+#: modules/custom-css/custom-css.php:1196
+msgid "Add-on"
+msgstr "Πρόσθετο"
+
+#: modules/custom-css/custom-css.php:1203
+msgid "Add-on CSS <b>(Recommended)</b>"
+msgstr "Πρόσθετο CSS <b>(Προτείνεται)</b>"
+
+#: modules/custom-post-types/comics.php:223
+msgid "All Comics"
+msgstr "Όλα τα κόμικ"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:135
+msgid "All Menu Item Labels"
+msgstr "Όλες οι ετικέτες"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:167
+msgid "All Menu Sections"
+msgstr "Όλα τα τμήματα μενού"
+
+#: modules/custom-post-types/portfolios.php:343
+msgid "All Project Tags"
+msgstr "Όλες οι ετικέτες δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:316
+msgid "All Project Types"
+msgstr "Όλες οι δουλειές"
+
+#: modules/custom-post-types/portfolios.php:268
+msgid "All Projects"
+msgstr "Όλες οι δουλειές μου"
+
+#: modules/custom-post-types/testimonial.php:298
+msgid "All Testimonials"
+msgstr "Όλα τα σχόλια"
+
+#: modules/custom-css/custom-css.php:908
+#: modules/custom-css/custom-css-4.7.php:138
+#: modules/custom-css/custom-css-4.7.php:141
+#: modules/custom-css/custom-css-4.7.php:181
+#: modules/custom-css/custom-css-4.7.php:279
+msgid "CSS"
+msgstr "CSS"
+
+#: modules/custom-css/custom-css.php:977
+msgid "CSS Revisions"
+msgstr "Παλαιότερες εκδόσεις CSS"
+
+#: modules/custom-css/custom-css.php:992
+msgid "CSS Stylesheet Editor"
+msgstr "Επεξεργασία CSS Stylesheet"
+
+#: modules/sharedaddy/sharing-sources.php:610
+#: modules/contact-form/grunion-editor-view.php:290
+#: modules/custom-css/custom-css.php:1092
+#: modules/custom-css/custom-css.php:1183
+#: modules/custom-css/custom-css.php:1224
+#: modules/widgets/simple-payments/form.php:182 _inc/jetpack-strings.php:767
+#: _inc/jetpack-strings.php:921 views/admin/deactivation-dialog.php:53
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: modules/custom-post-types/nova.php:148
+msgid "Choose from the most used Labels"
+msgstr "Επιλογή από τις δημοφιλέστερες ετικέτες"
+
+#: modules/custom-post-types/portfolios.php:353
+msgid "Choose from the most used tags"
+msgstr "Επιλέξτε από τις κοινότερες ετικέτες"
+
+#: modules/custom-post-types/comics.php:221
+msgid "Comic"
+msgstr "Κόμικς"
+
+#. translators: Publish box date format, see https://php.net/date
+#: modules/custom-post-types/comics.php:316
+msgid "Comic draft updated. <a target=\"_blank\" href=\"%s\">Preview comic</a>"
+msgstr "Το πρόχειρο άρθρο κόμικ ενημερώθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/comics.php:310
+msgid "Comic published. <a href=\"%s\">View comic</a>"
+msgstr "Το κόμικ δημοσιεύθηκε. <a href=\"%s\">Δείτε το</a>"
+
+#. translators: %s: date and time of the revision
+#: modules/custom-post-types/comics.php:309
+msgid "Comic restored to revision from %s"
+msgstr "Το κόμικ ανακτήθηκε από την παλαιότερη έκδοση %s"
+
+#: modules/custom-post-types/comics.php:311
+msgid "Comic saved."
+msgstr "Το κόμικ αποθηκεύθηκε."
+
+#: modules/custom-post-types/comics.php:313
+msgid "Comic scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview comic</a>"
+msgstr "Το κόμικ έχει προγραμματιστεί για τις: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/comics.php:312
+msgid "Comic submitted. <a target=\"_blank\" href=\"%s\">Preview comic</a>"
+msgstr "Το κόμικ φορτώθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/comics.php:307
+msgid "Comic updated."
+msgstr "Το κόμικ ενημερώθηκε."
+
+#: modules/custom-post-types/comics.php:304
+msgid "Comic updated. <a href=\"%s\">View comic</a>"
+msgstr "Το κόμικ ενημερώθηκε. <a href=\"%s\">Δείτε το</a>"
+
+#: modules/custom-post-types/comics.php:218
+#: modules/custom-post-types/comics.php:220
+#: modules/custom-post-types/comics.php:222
+msgid "Comics"
+msgstr "Κόμικ"
+
+#: modules/custom-post-types/comics.php:90
+msgid "Convert to Comic"
+msgstr "Μετατροπή σε κόμικ"
+
+#: modules/custom-post-types/comics.php:96
+msgid "Convert to Post"
+msgstr "Μετατροπή σε άρθρο"
+
+#: modules/custom-css/custom-css.php:928
+msgid "Custom CSS Stylesheet"
+msgstr "Προσαρμοσμένο CSS Stylesheet"
+
+#: modules/custom-post-types/comics.php:306
+#: modules/custom-post-types/nova.php:270
+#: modules/custom-post-types/testimonial.php:347
+#: modules/custom-post-types/portfolios.php:378
+msgid "Custom field deleted."
+msgstr "Το προσαρμοσμένο πεδίο διαγράφηκε."
+
+#: modules/custom-post-types/comics.php:305
+#: modules/custom-post-types/nova.php:269
+#: modules/custom-post-types/testimonial.php:346
+#: modules/custom-post-types/portfolios.php:377
+msgid "Custom field updated."
+msgstr "Το προσαρμοσμένο πεδίο ενημερώθηκε."
+
+#: modules/custom-post-types/testimonial.php:378
+msgid "Customer Name"
+msgstr "Όνομα πελάτη"
+
+#: modules/custom-post-types/testimonial.php:293
+msgid "Customer Testimonials"
+msgstr "Σχόλια πελατών"
+
+#: modules/custom-post-types/testimonial.php:444
+msgid "Customize Testimonials Archive"
+msgstr "Προσαρμογή αρχείου απόψεων"
+
+#: modules/custom-post-types/nova.php:847
+msgid "DOWN"
+msgstr "ΚΑΤΩ"
+
+#: modules/theme-tools/content-options/customizer.php:74
+#: modules/custom-css/custom-css.php:1051
+#: modules/widgets/eu-cookie-law/form.php:19
+#: modules/widgets/eu-cookie-law/form.php:56
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: modules/sitemaps/sitemap-stylist.php:449
+#: modules/widgets/milestone/milestone.php:609
+#: modules/widgets/simple-payments/form.php:103
+#: modules/custom-post-types/nova.php:956 _inc/lib/icalendar-reader.php:775
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: modules/custom-post-types/comics.php:188
+msgid "Drop images to upload"
+msgstr "Σύρετε εδώ φωτογραφίες για φόρτωση"
+
+#: modules/custom-css/custom-css.php:895
+#: modules/custom-css/custom-css-4.7.php:138
+#: modules/custom-css/custom-css-4.7.php:141
+msgid "Edit CSS"
+msgstr "Επεξεργασία CSS"
+
+#: modules/custom-post-types/comics.php:226
+msgid "Edit Comic"
+msgstr "Επεξεργασία κόμικ"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:219
+msgid "Edit Menu Item"
+msgstr "Επεξεργασία στοιχείου μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:137
+msgid "Edit Menu Item Label"
+msgstr "Επεξεργασία ετικέτας"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:173
+msgid "Edit Menu Section"
+msgstr "Επεξεργασία τμήματος μενού"
+
+#: modules/custom-post-types/portfolios.php:271
+msgid "Edit Project"
+msgstr "Επεξεργασία δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:344
+msgid "Edit Project Tag"
+msgstr "Επεξεργασία ετικέτας δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:317
+msgid "Edit Project Type"
+msgstr "Επεξεργασία τύπου δουλειάς"
+
+#: modules/custom-post-types/testimonial.php:301
+msgid "Edit Testimonial"
+msgstr "Αλλαγή σχόλιου"
+
+#: modules/custom-post-types/portfolios.php:139
+msgid "Enable Portfolio Projects for this site."
+msgstr "Ενεργοποίηση Πορτφόλιου."
+
+#: modules/custom-post-types/testimonial.php:154
+msgid "Enable Testimonials for this site."
+msgstr "Ενεργοποίηση Απόψεων"
+
+#: modules/custom-post-types/testimonial.php:368
+msgid "Enter the customer's name here"
+msgstr "Εισαγωγή ονόματος πελάτη"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:314
+msgid "Enter the menu item's name here"
+msgstr "Δώστε το όνομα του στοιχείου μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:211
+msgid "Food Menus"
+msgstr "Μενού φαγητού"
+
+#: modules/custom-post-types/nova.php:146
+msgid "For example, spicy, favorite, etc. <br /> Separate Labels with commas"
+msgstr "Για παράδειγμα, καυτερό, αγαπημένο κλπ. <br /> Ξεχωρίστε τις λέξεις με κόμμα"
+
+#: modules/custom-post-types/comics.php:403
+msgid "Invalid or expired nonce."
+msgstr "Μη έγκυρο ή παλιό nonce."
+
+#: modules/custom-post-types/nova.php:203
+msgid "Items on your restaurant's menu"
+msgstr "Το μενού του εστιατορίου σας"
+
+#: modules/custom-post-types/nova.php:504
+msgid "Labels"
+msgstr "Ετικέτες"
+
+#: modules/custom-post-types/nova.php:955
+msgid "Labels: <small>spicy, favorite, etc. <em>Separate Labels with commas</em></small>"
+msgstr "Ετικέτες: <small>καυτερό, αγαπημένο κλπ. <em>Διαχωρίστε τις λέξεις με κόμμα</em></small>"
+
+#. translators: Publish box date format, see https://php.net/date
+#: modules/custom-post-types/comics.php:315
+#: modules/custom-post-types/nova.php:284
+#: modules/custom-post-types/testimonial.php:356
+#: modules/custom-post-types/portfolios.php:387
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: modules/custom-css/custom-css.php:1050
+msgid "Media Width:"
+msgstr "Μήκος:"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:209
+msgid "Menu Item"
+msgstr "Στοιχείο μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:130
+msgid "Menu Item Label"
+msgstr "Ετικέτα στοιχείου μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:128
+msgid "Menu Item Labels"
+msgstr "Ετικέτες στοιχείων μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:207
+#: modules/custom-post-types/nova.php:213
+msgid "Menu Items"
+msgstr "Στοιχεία μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:484
+msgid "Menu Items re-ordered."
+msgstr "Τα στοιχεία μενού αναδιοργανώθηκαν."
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:163
+msgid "Menu Section"
+msgstr "Τμήμα μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:161
+msgid "Menu Sections"
+msgstr "Τμήματα μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:286
+msgid "Menu item draft updated. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr "Το πρόχειρο στοιχείο μενού ενημερώθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπιση στοιχείου</a>"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:276
+msgid "Menu item published. <a href=\"%s\">View item</a>"
+msgstr "Το στοιχείο μενού δημοσιεύτηκε. <a href=\"%s\">Προβολή</a>"
+
+#. translators: %s: date and time of the revision
+#: modules/custom-post-types/nova.php:274
+msgid "Menu item restored to revision from %s"
+msgstr "Επιτυχής ανάκληση στοιχείου από την παλαιότερη έκδοση %s"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:278
+msgid "Menu item saved."
+msgstr "Το στοιχείο μενού αποθηκεύτηκε."
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:282
+msgid "Menu item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview item</a>"
+msgstr "Το στοιχείο μενού προγραμματίστηκε για δημοσίευση στις: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Προεπισκόπηση</a>"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:280
+msgid "Menu item submitted. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr "Το στοιχείο μενού υποβλήθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπηση</a>"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:272
+msgid "Menu item updated."
+msgstr "Το στοιχείο μενού ενημερώθηκε."
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:268
+msgid "Menu item updated. <a href=\"%s\">View item</a>"
+msgstr "Το στοιχείο μενού ενημερώθηκε. <a href=\"%s\">Προβολή στοιχείου</a>"
+
+#: modules/custom-css/custom-css.php:1195
+msgid "Mode:"
+msgstr "Κατάσταση:"
+
+#: modules/custom-post-types/nova.php:847
+msgid "Move menu section down"
+msgstr "Μετακίνηση τμήματος μενού προς τα κάτω"
+
+#: modules/custom-post-types/nova.php:845
+msgid "Move menu section up"
+msgstr "Μετακίνηση τμήματος μενού προς τα πάνω"
+
+#: modules/custom-post-types/comics.php:227
+msgid "New Comic"
+msgstr "Νέο κόμικ"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:221
+msgid "New Menu Item"
+msgstr "Νέο στοιχείο μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:145
+msgid "New Menu Item Label Name"
+msgstr "Νέο μενού ετικέτας"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:181
+msgid "New Menu Sections Name"
+msgstr "Όνομα νέου τμήματος μενού "
+
+#: modules/custom-post-types/portfolios.php:272
+msgid "New Project"
+msgstr "Νέα δουλειά"
+
+#: modules/custom-post-types/portfolios.php:348
+msgid "New Project Tag Name"
+msgstr "Όνομα νέας ετικέτας σχεδίου"
+
+#: modules/custom-post-types/portfolios.php:321
+msgid "New Project Type Name"
+msgstr "Νέο όνομα τύπου δουλειάς"
+
+#: modules/custom-post-types/nova.php:977
+msgid "New Row"
+msgstr "Νέα γραμμή"
+
+#: modules/custom-post-types/testimonial.php:302
+msgid "New Testimonial"
+msgstr "Νέο σχόλιο"
+
+#: modules/custom-post-types/comics.php:230
+msgid "No Comics found"
+msgstr "Δεν βρέθηκαν κόμικ"
+
+#: modules/custom-post-types/comics.php:231
+msgid "No Comics found in Trash"
+msgstr "Δεν βρέθηκαν κόμικ στα διαγραμμένα"
+
+#: modules/custom-post-types/nova.php:1094
+msgid "No Labels"
+msgstr "Χωρίς ετικέτες"
+
+#: modules/custom-post-types/nova.php:152
+msgid "No Labels found"
+msgstr "Δεν βρέθηκαν ετικέτες"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:227
+msgid "No Menu Items found"
+msgstr "Δεν βρέθηκαν στοιχεία μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:229
+msgid "No Menu Items found in Trash"
+msgstr "Δεν βρέθηκαν στοιχεία μενού στα διαγραμένα"
+
+#: modules/custom-post-types/portfolios.php:275
+msgid "No Projects found"
+msgstr "Δεν βρέθηκαν δουλειές"
+
+#: modules/custom-post-types/portfolios.php:276
+msgid "No Projects found in Trash"
+msgstr "Δεν βρέθηκαν δουλειές στα διαγεγραμμένα "
+
+#: modules/custom-post-types/testimonial.php:305
+msgid "No Testimonials found"
+msgstr "Δεν βρέθηκαν σχόλια"
+
+#: modules/custom-post-types/testimonial.php:306
+msgid "No Testimonials found in Trash"
+msgstr "Δεν βρέθηκαν σχόλια στα διαγεγραμμένα"
+
+#: modules/custom-post-types/portfolios.php:354
+msgid "No tags found."
+msgstr "Δεν βρέθηκαν ετικέτες."
+
+#: modules/custom-css/custom-css.php:1166
+#: modules/custom-css/custom-css.php:1171
+#: modules/custom-css/custom-css-4.7.php:757
+#: modules/widgets/image-widget.php:243 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "None"
+msgstr "Κανένα"
+
+#: modules/custom-css/custom-css.php:1013
+msgid "Note: Custom CSS will be reset when changing themes."
+msgstr "Σημείωση: Οι αλλαγές σε CSS θα χαθούν με την αλλαγή Θέματος."
+
+#: modules/custom-post-types/nova.php:1073
+#: modules/custom-post-types/nova.php:1092
+msgctxt "Nova label separator"
+msgid ", "
+msgstr ", "
+
+#: modules/publicize/ui.php:625 modules/publicize/ui.php:653
+#: modules/publicize/publicize-jetpack.php:530
+#: modules/publicize/publicize-jetpack.php:633
+#: modules/custom-css/custom-css.php:1091
+#: modules/custom-css/custom-css.php:1182
+#: modules/custom-css/custom-css.php:1223
+msgid "OK"
+msgstr "OK"
+
+#: modules/custom-post-types/comics.php:192
+msgid "Only images can be uploaded here."
+msgstr "Μπορείτε να φορτώσετε μόνο φωτογραφίες."
+
+#: modules/custom-post-types/nova.php:506
+msgid "Order"
+msgstr "Σειρά"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:169
+msgid "Parent Menu Section"
+msgstr "Γονικό τμήμα μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:171
+msgid "Parent Menu Section:"
+msgstr "Γονικό τμήμα μενού:"
+
+#: modules/custom-post-types/portfolios.php:322
+msgid "Parent Project Type"
+msgstr "Τύπος γονέα δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:323
+msgid "Parent Project Type:"
+msgstr "Τύπος γονέα δουλειάς:"
+
+#: modules/custom-post-types/nova.php:133
+msgid "Popular Labels"
+msgstr "Δημοφιλείς ετικέτες"
+
+#: modules/custom-post-types/portfolios.php:350
+msgid "Popular Project Tags"
+msgstr "Δημοφιλείς ετικέτες σχεδίων"
+
+#: modules/masterbar/masterbar.php:1098 modules/masterbar/masterbar.php:1111
+#: modules/custom-post-types/portfolios.php:267
+#: modules/custom-post-types/portfolios.php:443
+msgid "Portfolio"
+msgstr "Πορτφόλιο"
+
+#: modules/custom-post-types/portfolios.php:106
+msgid "Portfolio Projects"
+msgstr "Δουλειές"
+
+#. translators: %1$s is replaced with an input field for numbers
+#: modules/custom-post-types/portfolios.php:147
+msgid "Portfolio pages display at most %1$s projects"
+msgstr "Προβολή μέχρι και %1$s δουλειών ανά σελίδα"
+
+#: modules/custom-post-types/comics.php:167
+msgid "Post converted."
+msgid_plural "%s posts converted"
+msgstr[0] "Το άρθρο μετατράπηκε."
+msgstr[1] "%s άρθρα μετατράπηκαν"
+
+#: modules/custom-css/custom-css.php:1165
+msgid "Preprocessor:"
+msgstr "Προεπεξεργασία:"
+
+#: modules/custom-css/custom-css.php:1242
+#: modules/custom-post-types/comics.php:266 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: modules/custom-css/custom-css.php:848
+msgid "Preview: changes must be saved or they will be lost"
+msgstr "Προεπισκόπηση: πρέπει να αποθηκεύσετε τις αλλαγές αλλιώς θα χαθούν"
+
+#: modules/widgets/simple-payments/form.php:113
+#: modules/custom-post-types/nova.php:505
+#: modules/custom-post-types/nova.php:954
+#: modules/custom-post-types/nova.php:999
+#: modules/custom-post-types/nova.php:1005 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Price"
+msgstr "Τιμή"
+
+#: modules/custom-post-types/comics.php:190
+msgid "Processing..."
+msgstr "Επεξεργασία..."
+
+#: modules/custom-post-types/portfolios.php:266
+#: modules/custom-post-types/portfolios.php:400
+msgid "Project"
+msgstr "Δουλειά"
+
+#: modules/custom-post-types/portfolios.php:341
+msgid "Project Tag"
+msgstr "Ετικέτα δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:340
+#: modules/custom-post-types/portfolios.php:342
+msgid "Project Tags"
+msgstr "Ετικέτες δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:314
+msgid "Project Type"
+msgstr "Τύπος δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:313
+#: modules/custom-post-types/portfolios.php:315
+msgid "Project Types"
+msgstr "Τύποι δουλειάς"
+
+#. translators: Publish box date format, see https://php.net/date
+#: modules/custom-post-types/portfolios.php:388
+msgid "Project item draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr "Το πρόχειρο σχέδιο της δουλειάς σας ενημερώθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/portfolios.php:382
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr "Η δουλειά δημοσιεύτηκε. <a href=\"%s\">Δείτε τη</a>"
+
+#. translators: %s: date and time of the revision
+#: modules/custom-post-types/portfolios.php:381
+msgid "Project restored to revision from %s"
+msgstr "Η δουλειά ανακτήθηκε από παλαιότερη έκδοση %s"
+
+#: modules/custom-post-types/portfolios.php:383
+msgid "Project saved."
+msgstr "Η δουλειά αποθηκεύτηκε"
+
+#: modules/custom-post-types/portfolios.php:385
+msgid "Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview project</a>"
+msgstr "Η δουλειά προγραμματίστηκε για δημοσίευση στις: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/portfolios.php:384
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr "Η δουλειά δημιουργήθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/portfolios.php:379
+msgid "Project updated."
+msgstr "Η δουλειά ενημερώθηκε."
+
+#: modules/custom-post-types/portfolios.php:376
+msgid "Project updated. <a href=\"%s\">View item</a>"
+msgstr "Η δουλειά ενημερώθηκε. <a href=\"%s\">Προβολή</a>"
+
+#: modules/custom-post-types/portfolios.php:265
+#: modules/custom-post-types/portfolios.php:450
+msgid "Projects"
+msgstr "Δουλειές"
+
+#: modules/custom-css/custom-css.php:971
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+#: modules/custom-css/custom-css.php:1209
+msgid "Replace <a href=\"%s\">theme's CSS</a> <b>(Advanced)</b>"
+msgstr "Αντικατάσταση <a href=\"%s\">του αρχείου CSS στο Θέμα</a> <b>(Για προχωρημένους)</b>"
+
+#: modules/custom-css/custom-css.php:1196
+msgid "Replacement"
+msgstr "Αντικατάσταση"
+
+#: modules/custom-css/custom-css.php:1244
+msgid "Save &amp; Buy Upgrade"
+msgstr "Αποθήκευση &amp; αγορά"
+
+#: modules/custom-post-types/nova.php:572
+#: modules/custom-post-types/nova.php:633
+msgid "Save New Order"
+msgstr "Αποθήκευση νέας σειράς"
+
+#: modules/custom-css/custom-css.php:1244
+msgid "Save Stylesheet"
+msgstr "Αποθήκευση stylesheet"
+
+#: modules/contact-form/grunion-form-view.php:265
+msgid "Save and go back to form builder"
+msgstr "Αποθήκευση και επιστροφή στην δημιουργία φόρμας"
+
+#: modules/custom-post-types/comics.php:229
+msgid "Search Comics"
+msgstr "Αναζήτηση κόμικ"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:132
+msgid "Search Menu Item Labels"
+msgstr "Αναζήτηση ετικέτας"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:225
+msgid "Search Menu Items"
+msgstr "Αναζήτηση στοιχείων μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:165
+msgid "Search Menu Sections"
+msgstr "Αναζήτηση τμημάτων μενού"
+
+#: modules/custom-post-types/portfolios.php:349
+msgid "Search Project Tags"
+msgstr "Αναζήτηση ετικετών σχεδίου"
+
+#: modules/custom-post-types/portfolios.php:324
+msgid "Search Project Types"
+msgstr "Αναζήτηση τύπων δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:274
+msgid "Search Projects"
+msgstr "Αναζήτηση δουλειάς"
+
+#: modules/custom-post-types/testimonial.php:304
+msgid "Search Testimonials"
+msgstr "Αναζήτηση σχόλιων και απόψεων"
+
+#: modules/custom-post-types/portfolios.php:351
+msgid "Separate tags with commas"
+msgstr "Χωρίστε πολλαπλές ετικέτες με κόμμα."
+
+#: modules/custom-post-types/comics.php:191
+msgid "Sorry, your browser isn't supported. Upgrade at browsehappy.com."
+msgstr "Δυστυχώς το πρόγραμμα περιήγησης δεν υποστηρίζεται. Αναβαθμιστείτε στο browsehappy.com."
+
+#: modules/custom-css/custom-css.php:967
+msgid "Stylesheet saved."
+msgstr "Το stylesheet αποθηκεύτηκε"
+
+#: modules/custom-post-types/portfolios.php:869
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: modules/custom-post-types/testimonial.php:296
+msgid "Testimonial"
+msgstr "Σχόλιο"
+
+#. translators: Publish box date format, see https://php.net/date
+#: modules/custom-post-types/testimonial.php:357
+msgid "Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview testimonial</a>"
+msgstr "Το πρόχειρο σχέδιο του σχόλιου σας ενημερώθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπηση</a>"
+
+#. translators: %1$s is replaced with an input field for numbers
+#: modules/custom-post-types/testimonial.php:163
+msgid "Testimonial pages display at most %1$s testimonials"
+msgstr "Προβολή μέχρι και %1$s απόψεων χρηστών ανά σελίδα"
+
+#: modules/custom-post-types/testimonial.php:351
+msgid "Testimonial published. <a href=\"%s\">View testimonial</a>"
+msgstr "Το σχόλιο σας δημοσιεύθηκε. <a href=\"%s\">Δείτε το</a>"
+
+#. translators: %s: date and time of the revision
+#: modules/custom-post-types/testimonial.php:350
+msgid "Testimonial restored to revision from %s"
+msgstr "Επιτυχής ανάκληση από την παλαιότερη έκδοση %s"
+
+#: modules/custom-post-types/testimonial.php:352
+msgid "Testimonial saved."
+msgstr "Το σχόλιο σας αποθηκεύτηκε."
+
+#: modules/custom-post-types/testimonial.php:354
+msgid "Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview testimonial</a>"
+msgstr "Το σχόλιο σας θα δημοσιευθεί στις: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/testimonial.php:353
+msgid "Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview testimonial</a>"
+msgstr "Το σχόλιο σας δημιουργήθηκε. <a target=\"_blank\" href=\"%s\">Προεπισκόπηση</a>"
+
+#: modules/custom-post-types/testimonial.php:348
+msgid "Testimonial updated."
+msgstr "Οι αλλαγές αποθηκεύθηκαν."
+
+#: modules/custom-post-types/testimonial.php:345
+msgid "Testimonial updated. <a href=\"%s\">View testimonial</a>"
+msgstr "Οι αλλαγές αποθηκεύθηκαν. <a href=\"%s\">Προβολή</a>"
+
+#: modules/masterbar/masterbar.php:1062 modules/masterbar/masterbar.php:1075
+#: modules/custom-post-types/testimonial.php:120
+#: modules/custom-post-types/testimonial.php:295
+#: modules/custom-post-types/testimonial.php:297
+#: modules/custom-post-types/testimonial.php:461
+#: modules/custom-post-types/testimonial.php:467 _inc/jetpack-strings.php:620
+msgid "Testimonials"
+msgstr "Σχόλια"
+
+#: modules/sitemaps/sitemap-stylist.php:306
+#: modules/sitemaps/sitemap-stylist.php:446 modules/widgets/flickr/form.php:77
+#: modules/custom-post-types/nova.php:503
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+#: modules/custom-post-types/portfolios.php:838
+msgid "Types"
+msgstr "Τύποι"
+
+#: modules/custom-post-types/nova.php:845
+msgid "UP"
+msgstr "ΠΑΝΩ"
+
+#: modules/custom-post-types/nova.php:839
+msgid "Uncategorized"
+msgstr "Αταξινόμητα"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:141
+msgid "Update Menu Item Label"
+msgstr "Ανανέωση ετικέτας"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:177
+msgid "Update Menu Section"
+msgstr "Ενημέρωση τμήματος μενού"
+
+#: modules/custom-post-types/portfolios.php:346
+msgid "Update Project Tag"
+msgstr "Ενημέρωση ετικέτας σχέδιου"
+
+#: modules/custom-post-types/portfolios.php:319
+msgid "Update Project Type"
+msgstr "Ενημέρωση τύπου δουλειάς"
+
+#: modules/custom-post-types/comics.php:189
+msgid "Uploading..."
+msgstr "Φόρτωση..."
+
+#: modules/custom-post-types/nova.php:939
+msgid "Use the <kbd>TAB</kbd> key on your keyboard to move between colums and the <kbd>ENTER</kbd> or <kbd>RETURN</kbd> key to save each row and move on to the next."
+msgstr "Χρησιμοποιήστε το κουμπί <kbd>TAB</kbd> για να μετακινηθείτε μεταξύ στηλών. Αντίστοιχα με κουμπί <kbd>ENTER</kbd> ή <kbd>RETURN</kbd> μετακινήστε μεταξύ γραμμών."
+
+#: modules/custom-content-types.php:43
+msgid "Use these settings to display different types of content on your site."
+msgstr "Χρησιμοποιήστε αυτές τις ρυθμίσεις για να εμφανίσετε διαφορετικούς τύπους περιεχομένου στον ιστότοπό σας."
+
+#: modules/custom-post-types/comics.php:228
+msgid "View Comic"
+msgstr "Προβολή κόμικ"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:223
+msgid "View Menu Item"
+msgstr "﻿﻿Προβολή στοιχείου μενού"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:139
+msgid "View Menu Item Label"
+msgstr "Προβολή ετικέτας"
+
+#. translators: this is about a food menu
+#: modules/custom-post-types/nova.php:175
+msgid "View Menu Section"
+msgstr "Προβολή τμήματος μενού"
+
+#: modules/custom-post-types/portfolios.php:273
+msgid "View Project"
+msgstr "Προβολή δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:345
+msgid "View Project Tag"
+msgstr "Προβολή ετικέτας δουλειάς"
+
+#: modules/custom-post-types/portfolios.php:318
+msgid "View Project Type"
+msgstr "Προβολή τύπου δουλειάς"
+
+#: modules/custom-post-types/testimonial.php:303
+msgid "View Testimonial"
+msgstr "Προβολή σχόλιου"
+
+#: modules/contact-form/grunion-form-view.php:262
+msgid "What should the subject line be?"
+msgstr "Ποιό είναι το θέμα;"
+
+#: modules/custom-post-types/comics.php:120
+msgid "You are not allowed to make this change."
+msgstr "Δεν μπορείτε να κάνετε αλλαγές."
+
+#: modules/custom-content-types.php:30
+msgid "Your Custom Content Types"
+msgstr "Οι Προσαρμοσμένοι Τύποι Περιεχομένου σας"
+
+#: modules/custom-post-types/portfolios.php:766
+msgid "Your Portfolio Archive currently has no entries. You can start creating them on your dashboard."
+msgstr "Το αρχείο του πορτφόλιο σας είναι άδειο. Προσθέστε νέο περιεχόμενο από τον πίνακα ελέγχου."
+
+#. translators: %s is the name of a custom post type such as
+#. "jetpack-portfolio"
+#: modules/custom-post-types/portfolios.php:135
+msgid "Your theme supports <strong>%s</strong>"
+msgstr "Το Θέμα σας υποστηρίζει <strong>%s</strong>"
+
+#: modules/custom-post-types/testimonial.php:150
+msgid "Your theme supports Testimonials"
+msgstr "Το Θέμα σας υποστηρίζει απόψεις χρηστών"
+
+#: modules/custom-post-types/comics.php:193
+msgid "Your upload didn't complete; try again later or cross your fingers and try again right now."
+msgstr "Η φόρτωση δεν ολοκληρώθηκε. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/custom-post-types/nova.php:836
+msgid "edit"
+msgstr "Επεξεργασία"
+
+#: modules/contact-form/grunion-form-view.php:181
+msgctxt "%1$s = \"Click here\" in an HTML link"
+msgid "Sure thing. %1$s to add a new text box, textarea, radio, checkbox, or dropdown field."
+msgstr "%1$s για να προσθέσετε νέο πλαίσιο κειμένο, κουμπί ή μενού."
+
+#: modules/contact-form/grunion-form-view.php:190
+msgctxt "%1$s = \"Feedback\" in an HTML link"
+msgid "Yep, you can read your feedback at any time by clicking the \"%1$s\" link in the admin menu."
+msgstr "Διαβάστε τα σχόλια και τις παρατηρήσεις κάνοντας κλικ στην επιλογή \"%1$s\" στον μενού διαχείρισης."
+
+#: modules/contact-form/grunion-contact-form.php:1834
+msgctxt "%1$s = blog name"
+msgid "%1$s Sidebar"
+msgstr "Πλευρική στήλη %1$s"
+
+#: modules/contact-form/grunion-contact-form.php:1837
+msgctxt "%1$s = blog name, %2$s = post title"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: modules/carousel/jetpack-carousel.php:293
+msgid "%s (Required)"
+msgstr "%s (υποχρεωτικό)"
+
+#. translators: %s is the name of a form field
+#: modules/contact-form/grunion-contact-form.php:3211
+msgid "%s is required"
+msgstr "το %s είναι υποχρεωτικό"
+
+#. translators: %s is the name of a form field
+#: modules/contact-form/grunion-contact-form.php:3197
+msgid "%s requires a valid email address"
+msgstr "το %s απαιτεί έγκυρη διεύθυνση email"
+
+#: extensions/blocks/revue/revue.php:71
+#: modules/contact-form/grunion-editor-view.php:94
+#: modules/contact-form/grunion-contact-form.php:3496 _inc/blocks/editor.js:6
+#: _inc/blocks/editor-experimental.js:6 _inc/blocks/editor-no-post-editor.js:6
+#: _inc/blocks/editor-beta.js:6
+msgid "(required)"
+msgstr "(υποχρεωτικό)"
+
+#: modules/comments/admin.php:135
+msgid "A few catchy words to motivate your readers to comment"
+msgstr "Κάτι έξυπνο για να παρακινήσετε τους επισκέπτες σας να σχολιάσουν"
+
+#: modules/widget-visibility/widget-conditions.php:342
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: modules/contact-form/grunion-editor-view.php:32
+#: modules/contact-form/admin.php:17
+msgid "Add Contact Form"
+msgstr "Προσθήκη φόρμας επικοινωνίας"
+
+#: modules/contact-form/grunion-form-view.php:252
+msgid "Add a new field"
+msgstr "Προσθήκη πεδίου"
+
+#: modules/contact-form/grunion-form-view.php:230
+msgid "Add another option"
+msgstr "Προσθήκη επιλογής"
+
+#: modules/contact-form/grunion-form-view.php:254
+msgid "Add this form to my post"
+msgstr "Προσθήκη φόρμας στο άρθρο"
+
+#: modules/contact-form/grunion-contact-form.php:811
+msgid "All posts"
+msgstr "Όλα τα άρθρα"
+
+#: modules/contact-form/grunion-contact-form.php:517
+#: _inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-instagram-gallery.php:112
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "An error occurred. Please try again later."
+msgstr "Σφάλμα. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/carousel/jetpack-carousel.php:272
+msgid "Aperture"
+msgstr "Διάφραγμα"
+
+#: modules/contact-form/grunion-form-view.php:46
+msgid "Are you sure you want to exit the form editor without saving?  Any changes you have made will be lost."
+msgstr "Είστε σίγουρος/η ότι θέλετε να κλείσετε χωρίς να αποθηκεύσετε τις αλλαγές; Η δουλειά σας θα χαθεί."
+
+#: modules/carousel/jetpack-carousel.php:770
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+#: modules/carousel/jetpack-carousel.php:874
+#: _inc/lib/class.core-rest-api-endpoints.php:1965
+msgid "Black"
+msgstr "Μαύρο"
+
+#: modules/contact-form/grunion-form-view.php:176
+msgid "By adding a contact form, your readers will be able to submit feedback to you. All feedback is automatically scanned for spam, and the legitimate feedback will be emailed to you."
+msgstr "Με την προσθήκη φόρμας επικοινωνίας οι επισκέπτες θα μπορούν να σας στείλουν σχόλια και παρατηρήσεις. Κάθε μήνυμα ελέγχεται αυτόματα για ανεπιθύμητο περιεχόμενο."
+
+#: modules/carousel/jetpack-carousel.php:271
+msgid "Camera"
+msgstr "Κάμερα"
+
+#: modules/contact-form/grunion-form-view.php:177
+msgid "Can I add more fields?"
+msgstr "Μπορώ να προσθέσω επιπλέον πεδία;"
+
+#: modules/contact-form/grunion-form-view.php:200
+msgid "Can I send a notification to more than one person?"
+msgstr "Μπορώ να στείλω ειδοποιήσεις σε περισσότερα από ένα άτομα;"
+
+#: modules/contact-form/grunion-form-view.php:186
+msgid "Can I view my feedback within WordPress?"
+msgstr "Μπορώ να δω τα σχόλια και τις παρατηρήσεις στο WordPress; "
+
+#: modules/comments/comments.php:333
+msgid "Cancel reply"
+msgstr "Ακύρωση απάντησης"
+
+#: modules/contact-form/admin.php:831
+msgid "Check for Spam"
+msgstr "Έλεγχος για ανεπιθύμητα"
+
+#: modules/contact-form/grunion-form-view.php:212
+#: modules/contact-form/grunion-editor-view.php:223
+#: modules/contact-form/grunion-contact-form.php:2339 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Checkbox"
+msgstr "Πεδίο επιλογής"
+
+#: modules/contact-form/grunion-form-view.php:182
+msgid "Click here"
+msgstr "κλικ εδώ"
+
+#: modules/comments/admin.php:97 modules/comments/admin.php:170
+msgid "Color Scheme"
+msgstr "Χρωματικός συνδυασμός"
+
+#: modules/carousel/jetpack-carousel.php:260
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: modules/carousel/jetpack-carousel.php:288
+msgid "Commenting as %s"
+msgstr "Σχολιασμός ως %s"
+
+#: modules/carousel/jetpack-carousel.php:776
+#: modules/masterbar/masterbar.php:1047 modules/comments/admin.php:72
+#: modules/widgets/rsslinks-widget.php:102
+#: modules/widgets/rsslinks-widget.php:180 _inc/jetpack-strings.php:72
+#: _inc/jetpack-strings.php:280
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: modules/carousel/jetpack-carousel.php:687
+msgid "Comments on this post are closed."
+msgstr "Τα σχόλια έχουν απενεργοποιηθεί."
+
+#: modules/contact-form/grunion-form-view.php:56
+#: modules/contact-form/grunion-contact-form.php:894
+#: modules/contact-form/grunion-contact-form.php:1578
+#: _inc/jetpack-strings.php:74 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Contact Form"
+msgstr "Φόρμα επικοινωνίας"
+
+#: modules/contact-form/grunion-contact-form.php:2766
+msgid "Contact Form URL:"
+msgstr "Διεύθυνση URL για την φόρμα επικοινωνίας:"
+
+#: modules/comments/admin.php:55
+#: modules/search/class-jetpack-search-customize.php:70
+#: modules/widgets/eu-cookie-law/form.php:237
+#: modules/widgets/twitter-timeline.php:494
+#: _inc/lib/class.core-rest-api-endpoints.php:2005
+msgid "Dark"
+msgstr "Σκούρο"
+
+#: modules/contact-form/grunion-editor-view.php:227
+#: modules/contact-form/admin.php:272
+#: modules/contact-form/grunion-contact-form.php:2333
+#: modules/widgets/milestone/milestone.php:614 modules/widgets/search.php:877
+#: modules/widgets/search.php:915 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: modules/contact-form/grunion-form-view.php:36
+msgctxt "Default label for new HTML form field in contact form builder"
+msgid "New Field"
+msgstr "Νέο πεδίο"
+
+#: modules/contact-form/grunion-form-view.php:39
+msgctxt "Default label for the first option to be included in a user-created dropdown in contact form builder"
+msgid "First option"
+msgstr "Πρώτη επιλογή"
+
+#: modules/contact-form/admin.php:112 modules/contact-form/admin.php:361
+#: modules/contact-form/admin.php:460
+msgid "Delete Permanently"
+msgstr "Οριστική διαγραφή"
+
+#: modules/contact-form/admin.php:359 modules/contact-form/admin.php:458
+msgid "Delete this item permanently"
+msgstr "Οριστική διαγραφή αντικειμένου"
+
+#: modules/carousel/jetpack-carousel.php:885
+msgid "Display images in full-size carousel slideshow."
+msgstr "Προβολή φωτογραφιών καρουζέλ σε πλήρες μέγεθος."
+
+#: modules/contact-form/grunion-form-view.php:198
+msgid "Do I need to fill this out?"
+msgstr "Πρέπει να το συμπληρώσω;"
+
+#: modules/contact-form/grunion-contact-form.php:816
+msgid "Download"
+msgstr "Download"
+
+#: modules/contact-form/grunion-form-view.php:41
+msgid ""
+"Drag up or down\n"
+"to re-arrange"
+msgstr ""
+"Σύρετε πάνω ή κάτω\n"
+"για να αλλάξετε την θέση"
+
+#: modules/contact-form/grunion-form-view.php:214
+#: modules/contact-form/grunion-editor-view.php:225
+msgid "Drop down"
+msgstr "Aναπτυσσόμενο"
+
+#: modules/contact-form/grunion-form-view.php:205
+msgid "Edit this new field"
+msgstr "Επεξεργασία νέου πεδίου"
+
+#: modules/contact-form/grunion-form-view.php:215
+#: modules/contact-form/grunion-editor-view.php:88
+#: modules/contact-form/grunion-editor-view.php:220
+#: modules/contact-form/grunion-contact-form.php:1870
+#: modules/contact-form/grunion-contact-form.php:2329
+#: modules/carousel/jetpack-carousel.php:295
+#: modules/widgets/social-icons.php:565
+#: modules/widgets/simple-payments/form.php:147
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:1068
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Email"
+msgstr "Email"
+
+#: modules/contact-form/grunion-form-view.php:170
+msgid "Email notifications"
+msgstr "Ειδοποιήσεις email"
+
+#: modules/contact-form/grunion-form-view.php:257
+msgid "Email settings"
+msgstr "Ρυθμίσεις email"
+
+#: modules/contact-form/admin.php:153
+msgid "Empty Spam"
+msgstr "Άδειασμα ανεπιθύμητων"
+
+#: modules/carousel/jetpack-carousel.php:766
+msgid "Enable carousel"
+msgstr "Ενεργοποίηση καρουζέλ"
+
+#: extensions/blocks/revue/revue.php:150
+#: modules/contact-form/grunion-form-view.php:259
+#: modules/subscriptions/views.php:382 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Enter your email address"
+msgstr "Παρακαλώ γράψτε το email σας"
+
+#: modules/contact-form/admin.php:731
+msgid "Error in moving to Trash."
+msgstr "Σφάλμα κατά την διαγραφή."
+
+#: modules/contact-form/admin.php:723
+msgid "Error in restoring from Trash."
+msgstr "Σφάλμα επαναφοράς από τα διαγραμμένα."
+
+#: modules/contact-form/grunion-contact-form.php:1982
+msgid "Error!"
+msgstr "Σφάλμα!"
+
+#: modules/comments/base.php:241
+msgid "Error: please enter a valid email address."
+msgstr "Σφάλμα: Συμπληρώστε έγκυρο email."
+
+#: modules/comments/base.php:239
+msgid "Error: please fill the required fields (name, email)."
+msgstr "Σφάλμα: Παρακαλούμε συμπληρώστε τα υποχρεωτικά πεδία (όνομα, ηλ. διεύθυνση)."
+
+#: modules/contact-form/grunion-contact-form.php:367
+#: modules/contact-form/grunion-contact-form.php:803
+msgid "Export feedback as CSV"
+msgstr "Αποθήκευση σχολίων και παρατηρήσεων σε αρχείο CSV"
+
+#: modules/contact-form/grunion-contact-form.php:739
+msgid "Feedback discarded."
+msgstr "Τα σχόλια και οι παρατηρήσεις απορρίφθηκαν."
+
+#: modules/contact-form/admin.php:228
+msgid "Feedback(s) marked as spam"
+msgstr "Σχόλια και παρατηρήσεις χαρακτηρισμένα ως ανεπιθύμητα"
+
+#: modules/contact-form/grunion-form-view.php:210
+msgid "Field type"
+msgstr "Είδος πεδίου"
+
+#: modules/contact-form/grunion-form-view.php:227
+msgid "First option"
+msgstr "Πρώτη επιλογή"
+
+#: modules/carousel/jetpack-carousel.php:274
+msgid "Focal Length"
+msgstr "Εστιακή απόσταση"
+
+#: modules/contact-form/grunion-form-view.php:169
+msgid "Form builder"
+msgstr "Εργαλείο δημιουργίας φόρμας"
+
+#: modules/contact-form/admin.php:270
+msgid "From"
+msgstr "Από "
+
+#: modules/comments/admin.php:81
+#: _inc/lib/class.core-rest-api-endpoints.php:1988
+msgid "Greeting Text"
+msgstr "Κείμενο καλωσόρισματος"
+
+#: modules/contact-form/grunion-form-view.php:247
+msgid "Here&#8217;s what your form will look like"
+msgstr "Έτσι θα είναι η νέα σας φόρμα"
+
+#: modules/contact-form/grunion-form-view.php:175
+msgid "How does this work?"
+msgstr "Πώς δουλεύει;"
+
+#: modules/contact-form/grunion-contact-form.php:2765
+msgid "IP Address:"
+msgstr "Διεύθυνση IP:"
+
+#: modules/carousel/jetpack-carousel.php:763
+msgid "Image Gallery Carousel"
+msgstr "Καρουζέλ φωτογραφιών"
+
+#: modules/comments/base.php:83
+msgid "Invalid request"
+msgstr "Σφάλμα"
+
+#: modules/comments/comments.php:499
+msgid "Invalid security token."
+msgstr "Σφάλμα."
+
+#: modules/sharedaddy/sharing-sources.php:1287
+#: modules/contact-form/grunion-form-view.php:207
+#: modules/contact-form/grunion-editor-view.php:213
+msgid "Label"
+msgstr "Ετικέτα"
+
+#: modules/contact-form/grunion-form-view.php:33
+msgctxt "Label for HTML form \"Email\" field in contact form builder"
+msgid "Email"
+msgstr "Email"
+
+#: modules/contact-form/grunion-form-view.php:32
+msgctxt "Label for HTML form \"Name\" field in contact form builder"
+msgid "Name"
+msgstr "Όνομα"
+
+#: modules/contact-form/grunion-form-view.php:34
+msgctxt "Label for HTML form \"URL/Website\" field in contact form builder"
+msgid "Website"
+msgstr "Ιστότοπος"
+
+#: modules/contact-form/grunion-form-view.php:38
+msgctxt "Label for an option to be included in a user-created dropdown in contact form builder"
+msgid "Option"
+msgstr "Επιλογή"
+
+#: modules/contact-form/grunion-form-view.php:37
+msgctxt "Label for the set of options to be included in a user-created dropdown in contact form builder"
+msgid "Options"
+msgstr "Επιλογές"
+
+#: modules/contact-form/grunion-form-view.php:42
+msgctxt "Label to drag HTML form fields around to change their order in contact form builder"
+msgid "move"
+msgstr "μετακίνηση"
+
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: modules/comments/admin.php:50 modules/comments/comments.php:247
+#: _inc/lib/class.core-rest-api-endpoints.php:1990
+msgid "Leave a Reply"
+msgstr "Απάντηση"
+
+#: modules/comments/comments.php:257
+msgid "Leave a Reply to %s"
+msgstr "Απάντηση σε %s"
+
+#: modules/comments/admin.php:54
+#: modules/search/class-jetpack-search-customize.php:69
+#: modules/widgets/eu-cookie-law/form.php:226
+#: modules/widgets/twitter-timeline.php:491
+#: _inc/lib/class.core-rest-api-endpoints.php:2004
+msgid "Light"
+msgstr "Απαλό"
+
+#: modules/contact-form/grunion-form-view.php:43
+msgctxt "Link to edit an HTML form field in contact form builder"
+msgid "edit"
+msgstr "αλλαγή"
+
+#: modules/carousel/jetpack-carousel.php:263
+msgid "Loading Comments..."
+msgstr "Φόρτωση σχόλιων..."
+
+#: modules/contact-form/admin.php:118
+msgid "Mark as Spam"
+msgstr "Ανεπιθύμητο"
+
+#: modules/contact-form/admin.php:452
+msgid "Mark this message as NOT spam"
+msgstr "Χαρακτηρισμός ως ΜΗ ανεπιθύμητο"
+
+#: modules/contact-form/admin.php:392
+msgid "Mark this message as spam"
+msgstr "Χαρακτηρισμός ως ανεπιθύμητο"
+
+#: modules/contact-form/grunion-editor-view.php:90
+#: modules/contact-form/admin.php:271
+#: modules/contact-form/grunion-contact-form.php:1879
+#: modules/contact-form/grunion-contact-form.php:2337
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:1068
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: modules/contact-form/grunion-contact-form.php:525
+#: modules/contact-form/grunion-contact-form.php:1999
+msgid "Message Sent"
+msgstr "Το μήνυμα εστάλη."
+
+#: modules/contact-form/admin.php:260 modules/contact-form/admin.php:756
+msgid "Messages"
+msgstr "Μηνύματα"
+
+#: modules/carousel/jetpack-carousel.php:773
+msgid "Metadata"
+msgstr "Μεταδεδομένα"
+
+#: modules/carousel/jetpack-carousel.php:612
+msgid "Missing attachment ID."
+msgstr "Χωρίς αναγνωριστικό επισυναπτόμενου αρχείου."
+
+#: modules/carousel/jetpack-carousel.php:665
+msgid "Missing target blog ID."
+msgstr "Χωρίς αναγνωριστικό ιστολόγιου."
+
+#: modules/carousel/jetpack-carousel.php:669
+msgid "Missing target post ID."
+msgstr "Χωρίς αναγνωριστικό άρθρου."
+
+#: modules/contact-form/grunion-form-view.php:208
+msgid "New field"
+msgstr "Νέο πεδίο"
+
+#: modules/carousel/jetpack-carousel.php:673
+msgid "No comment text was submitted."
+msgstr "Κενό σχόλιο."
+
+#: modules/contact-form/grunion-contact-form.php:175
+#: modules/contact-form/grunion-contact-form.php:176
+msgid "No feedback found"
+msgstr "Δεν βρέθηκαν σχόλια ή παρατηρήσεις"
+
+#: modules/carousel/jetpack-carousel.php:657
+msgid "Nonce verification failed."
+msgstr "Αποτυχία πιστοποίησης Nonce."
+
+#: modules/contact-form/grunion-form-view.php:199
+msgid "Nope.  However, if you&#8217;d like to modify where your feedback is sent, or the subject line you can.  If you don&#8217;t make any changes here, feedback will be sent to the author of the page/post and the subject will be the name of this page/post."
+msgstr "Δυστυχώς όχι. Μπορείτε όμως να επιλέξετε την διεύθυνση αποστολής ή το θέμα. Ας δεν κάνετε αλλαγές, τα σχόλια και οι παρατηρήσεις θα σταλούν στον συντάκτη του άρθρου ή της σελίδας με θέμα το όνομα του άρθρου ή της σελίδας."
+
+#: modules/contact-form/grunion-form-view.php:226
+#: modules/contact-form/grunion-editor-view.php:249
+msgid "Options"
+msgstr "Ρυθμίσεις"
+
+#: modules/carousel/jetpack-carousel.php:716
+msgid "Please provide a valid email address."
+msgstr "Εισάγετε έγκυρη διεύθυνση email."
+
+#: modules/carousel/jetpack-carousel.php:266
+msgid "Please provide an email address to comment."
+msgstr "Εισάγετε έγκυρη διεύθυνση email για να σχολιάσετε."
+
+#: modules/carousel/jetpack-carousel.php:712
+msgid "Please provide an email address."
+msgstr "Εισάγετε το email σας."
+
+#: modules/carousel/jetpack-carousel.php:267
+msgid "Please provide your name to comment."
+msgstr "Εισάγετε το όνομα σας για να σχολιάσετε."
+
+#: modules/carousel/jetpack-carousel.php:708
+msgid "Please provide your name."
+msgstr "Εισάγετε το όνομα σας."
+
+#: modules/carousel/jetpack-carousel.php:261
+msgid "Post Comment"
+msgstr "Δημοσίευση Σχολίου"
+
+#: modules/contact-form/grunion-form-view.php:217
+#: modules/contact-form/grunion-editor-view.php:226 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Radio"
+msgstr "Κουμπί"
+
+#: modules/contact-form/grunion-form-view.php:237
+#: modules/contact-form/grunion-editor-view.php:244
+msgid "Required?"
+msgstr "Απαιτείται;"
+
+#: modules/contact-form/admin.php:356
+msgid "Restore"
+msgstr "Επαναφορά"
+
+#: modules/contact-form/admin.php:354
+msgid "Restore this item from the Trash"
+msgstr "Επαναφορά από τα διαγραμμένα"
+
+#: modules/contact-form/grunion-form-view.php:242
+msgid "Save this field"
+msgstr "Αποθήκευση πεδίου"
+
+#: modules/contact-form/grunion-form-view.php:44
+msgid "Saved successfully"
+msgstr "Αποθηκεύτηκε με επιτυχία"
+
+#: modules/contact-form/grunion-contact-form.php:174
+msgid "Search Feedback"
+msgstr "Αναζήτηση σχολίων και παρατηρήσεων"
+
+#: modules/contact-form/grunion-contact-form.php:809
+msgid "Select feedback to download"
+msgstr "Επιλογή σχολίων και παρατηρήσεων για αποθήκευση"
+
+#: modules/contact-form/grunion-contact-form.php:2773
+msgid "Sent by a verified %s user."
+msgstr "Στάλθηκε από πιστοποιημένο χρήστη %s."
+
+#: modules/contact-form/grunion-contact-form.php:2779
+msgid "Sent by an unverified visitor to your site."
+msgstr "Στάλθηκε από μη πιστοποιημένο επισκέπτη."
+
+#: modules/carousel/jetpack-carousel.php:864
+msgid "Show map of photo location in carousel, when available."
+msgstr "Προβολή χάρτη με τοποθεσίας φωτογραφιών στο καρουζέλ, όταν είναι διαθέσιμος."
+
+#: modules/carousel/jetpack-carousel.php:273
+msgid "Shutter Speed"
+msgstr "Ταχύτητα κλείστρου"
+
+#: modules/carousel/jetpack-carousel.php:268
+msgid "Sorry, but there was an error posting your comment. Please try again later."
+msgstr "Παρουσιάστηκε σφάλμα κατά την δημοσίευση του σχόλιου σας. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/carousel/jetpack-carousel.php:698
+msgid "Sorry, but we could not authenticate your request."
+msgstr "Σφάλμα κατά την πιστοποίηση του αιτήματος σας."
+
+#: modules/contact-form/admin.php:782
+msgid "Spam"
+msgstr "Ανεπιθύμητα"
+
+#: modules/contact-form/grunion-contact-form.php:214
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Ανεπιθύμητο <span class=\"count\">(%s)</span>"
+msgstr[1] "Ανεπιθύμητα <span class=\"count\">(%s)</span>"
+
+#: modules/contact-form/grunion-contact-form.php:1875
+msgid "Subject"
+msgstr "Θέμα"
+
+#: modules/contact-form/grunion-form-view.php:218
+#: modules/contact-form/grunion-editor-view.php:218
+#: modules/contact-form/grunion-contact-form.php:2325 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Text"
+msgstr "Κείμενο"
+
+#: modules/contact-form/grunion-form-view.php:219
+#: modules/contact-form/grunion-editor-view.php:222 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Textarea"
+msgstr "Περιοχή κειμένου"
+
+#: modules/contact-form/grunion-form-view.php:45
+msgctxt "This HTML form field is marked as required by the user in contact form builder"
+msgid "(required)"
+msgstr "(απαραίτητο)"
+
+#: modules/contact-form/grunion-contact-form.php:2764
+msgid "Time:"
+msgstr "Χρόνος:"
+
+#: modules/comments/admin.php:56
+#: _inc/lib/class.core-rest-api-endpoints.php:2006
+msgid "Transparent"
+msgstr "Διάφανο"
+
+#: modules/contact-form/admin.php:399 modules/contact-form/admin.php:401
+#: modules/contact-form/admin.php:767
+msgid "Trash"
+msgstr "Διαγραμμένα"
+
+#: modules/carousel/jetpack-carousel.php:264
+msgid "View full size <span class=\"photo-size\">%1$s<span class=\"photo-size-times\">&times;</span>%2$s</span>"
+msgstr "Προβολή πλήρους μεγέθους <span class=\"photo-size\">%1$s<span class=\"photo-size-times\">&times;</span>%2$s</span>"
+
+#: modules/carousel/jetpack-carousel.php:875
+#: _inc/lib/class.core-rest-api-endpoints.php:1966
+msgid "White"
+msgstr "Λευκό"
+
+#: modules/carousel/jetpack-carousel.php:262
+msgid "Write a Comment..."
+msgstr "Γράψτε ένα σχόλιο"
+
+#: modules/contact-form/grunion-form-view.php:201
+msgid "Yep. You can enter multiple email addresses in the Email address field, and separate them with commas. A notification email will then be sent to each email address."
+msgstr "Μπορείτε να προσθέσετε πολλαπλές διευθύνσεις email και να τις διαχωρίσετε με κόμμα. Η αποστολή των ειδοποιήσεων θα γίνει σε κάθε μία ξεχωριστά."
+
+#: modules/contact-form/grunion-editor-view.php:156
+#: modules/contact-form/grunion-contact-form.php:3404
+#: _inc/jetpack-strings.php:893 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Yes"
+msgstr "Ναι"
+
+#: modules/contact-form/admin.php:197 modules/contact-form/admin.php:631
+msgid "You are not allowed to manage this item."
+msgstr "Δεν έχετε δικαιώματα διαχείρισης."
+
+#: modules/contact-form/admin.php:719
+msgid "You are not allowed to move this item out of the Trash."
+msgstr "Δεν έχετε δικαίωμα επαναφοράς αυτού του αντικειμένου."
+
+#: modules/contact-form/admin.php:727
+msgid "You are not allowed to move this item to the Trash."
+msgstr "Δεν έχετε δικαίωμα διαγραφής αυτού του αντικειμένου."
+
+#: modules/comments/comments.php:222
+msgid "You must <a href=\"%s\">log in</a> to post a comment."
+msgstr "Πρέπει να <a href=\"%s\">συνδεθείτε</a> για να σχολιάσετε."
+
+#: modules/carousel/jetpack-carousel.php:291
+msgid "You must be <a href=\"#\" class=\"jp-carousel-comment-login\">logged in</a> to post a comment."
+msgstr "Πρέπει να <a href=\"#\" class=\"jp-carousel-comment-login\">έχετε συνδεθεί</a> για να σχολιάσετε."
+
+#: modules/contact-form/grunion-form-view.php:167
+msgid "Your new field was saved successfully"
+msgstr "Το νέο πεδίο αποθηκεύτηκε."
+
+#: modules/contact-form/grunion-form-view.php:40
+msgctxt "error message in contact form builder"
+msgid "Oops, there was a problem generating your form.  You'll likely need to try again."
+msgstr "Σφάλμα κατά την δημιουργία της φόρμας. Παρακαλώ προσπαθήστε ξανά."
+
+#: modules/contact-form/grunion-contact-form.php:2000
+msgid "go back"
+msgstr "επιστροφή"
+
+#. translators: combined name for locales: 1: name in English, 2: native name
+#: locales.php:60
+msgctxt "locales"
+msgid "%1$s/%2$s"
+msgstr "%1$s/%2$s"
+
+#: modules/contact-form/grunion-form-view.php:35
+msgctxt "noun"
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: modules/contact-form/admin.php:491
+#: modules/contact-form/grunion-contact-form.php:2687
+msgctxt "{$date_format} \\a\\t {$time_format}"
+msgid "%1$s \\a\\t %2$s"
+msgstr "%1$s \\a\\t %2$s"
+
+#: modules/comments/admin.php:118
+msgid "Adjust your Comments form with a clever greeting and color-scheme."
+msgstr "Προσαρμόστε την φόρμα για τα Σχόλια με ένα έξυπνο μήνυμα και χρωματικό συνδυασμό."
+
+#: modules/carousel/jetpack-carousel.php:269
+msgid "Your comment was approved."
+msgstr "Το σχόλιό σας εγκρίθηκε"
+
+#: modules/carousel/jetpack-carousel.php:270
+msgid "Your comment is in moderation."
+msgstr "Το σχόλιό σας είναι υπό έλεγχο."
+
+#: modules/carousel/jetpack-carousel.php:265
+msgid "Please be sure to submit some text with your comment."
+msgstr "Πρέπει να γράψετε κάτι στο σχόλιο σας."
+
+#: modules/comments/comments.php:575 modules/comments/comments.php:626
+msgid "Submitting Comment%s"
+msgstr "Υποβολή Σχολίου%s"
+
+#: modules/contact-form/grunion-form-view.php:220
+#: modules/contact-form/grunion-editor-view.php:89
+#: modules/contact-form/grunion-editor-view.php:221
+#: modules/contact-form/grunion-contact-form.php:1871
+#: modules/contact-form/grunion-contact-form.php:2331
+#: modules/carousel/jetpack-carousel.php:299
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:1068
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Website"
+msgstr "Ιστότοπος"
+
+#: class.jetpack.php:4577
+msgctxt "%1$s = deactivation URL, %2$s = \"Deactivate {list of Jetpack module/feature names}"
+msgid "If your site is not publicly accessible, consider <a href=\"%1$s\" title=\"%2$s\">deactivating this feature</a>."
+msgid_plural "If your site is not publicly accessible, consider <a href=\"%1$s\" title=\"%2$s\">deactivating these features</a>."
+msgstr[0] "Αν ο ιστότοπος σας δεν είναι δημόσια προσβάσιμος, σκεφτείτε να <a href=\"%1$s\" title=\"%2$s\">απενεργοποιήσετε αυτό το χαρακτηριστικό</a>."
+msgstr[1] "Αν ο ιστότοπος σας δεν είναι δημόσια προσβάσιμος, σκεφτείτε να <a href=\"%1$s\" title=\"%2$s\">απενεργοποιήσετε αυτά τα χαρακτηριστικά</a>."
+
+#: class.jetpack.php:4594
+msgctxt "%l = list of Jetpack module/feature names"
+msgid "Deactivate %l"
+msgstr "Απενεργοποίηση %l"
+
+#: class.jetpack.php:4560
+msgctxt "%l = list of Jetpack module/feature names"
+msgid "Like your site's RSS feeds, %l allows access to your posts and other content to third parties."
+msgid_plural "Like your site's RSS feeds, %l allow access to your posts and other content to third parties."
+msgstr[0] "Όπως συμβαίνει με τις ροές RSS του ιστότοπου σας, το %l επιτρέπει την πρόσβαση τρίτων υπηρεσιών στα άρθρα και το περιεχόμενο σας."
+msgstr[1] "Όπως συμβαίνει με τις ροές RSS του ιστότοπου σας, τα %l επιτρέπουν την πρόσβαση τρίτων υπηρεσιών στα άρθρα και το περιεχόμενο σας."
+
+#: class.jetpack.php:6218
+msgid "%s wants to access your site&#8217;s data.  Log in to authorize that access."
+msgstr "Το %s χρειάζεται πρόσβαση στις δημοσιεύσεις σας. Συνδεθείτε για να το επιτρέψετε."
+
+#: functions.opengraph.php:218 _inc/lib/class-jetpack-podcast-helper.php:159
+msgid "(no title)"
+msgstr "(χωρίς τίτλο)"
+
+#: class.jetpack-connection-banner.php:436
+msgid "<strong>Jetpack is activated!</strong> Each site on your network must be connected individually by an admin on that site."
+msgstr "<strong>Το Jetpack ενεργοποιήθηκε!</strong> Κάθε ένας από τους ιστότοπους του δικτύου σας πρέπει να συνδεθεί ξεχωριστά από τον διαχειριστή αυτού του ιστότοπου."
+
+#: json-endpoints/class.wpcom-json-api-update-media-v1-1-endpoint.php:113
+msgid "Album"
+msgstr "Άλμπουμ"
+
+#: json-endpoints/class.wpcom-json-api-get-post-counts-v1-1-endpoint.php:102
+msgid "An active access token must be used to retrieve post counts."
+msgstr "Απαραίτητη η χρήση ενεργού token για την εμφάνιση δημοσιεύσεων."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-install-endpoint.php:61
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-new-endpoint.php:114
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-new-endpoint.php:61
+#: _inc/lib/plugins.php:83
+msgid "An unknown error occurred during installation"
+msgstr "Σφάλμα κατά την εγκατάσταση"
+
+#: json-endpoints/class.wpcom-json-api-update-media-v1-1-endpoint.php:112
+msgid "Artist"
+msgstr "Καλιτέχνης"
+
+#: json-endpoints/class.wpcom-json-api-autosave-post-v1-1-endpoint.php:112
+msgid "Autosave encountered an unexpected error"
+msgstr "Σφάλμα κατά την αυτόματη αποθήκευση"
+
+#: json-endpoints/class.wpcom-json-api-update-comment-endpoint.php:272
+msgid "Comment cache problem?"
+msgstr "Πρόβλημα με την προσωρινή μνήμη στα σχόλια;"
+
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Connect to WordPress.com"
+msgstr "Σύνδεση με WordPress.com "
+
+#: class.jetpack.php:3976
+msgid "Each module has an Activate or Deactivate link so you can toggle one individually."
+msgstr "Κάθε λειτουργία προσφέρει την επιλογή Ενεργοποίησης ή Απενεργοποίησης ξεχωριστά."
+
+#: class.jetpack.php:3988
+msgid "For more information:"
+msgstr "Για περισσότερες πληροφορίες:"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-endpoint.php:85
+msgid "Full management mode is off for this site."
+msgstr "Η δυνατότητα για πλήρη διαχείριση του ιστότοπου είναι απενεργοποιημένη."
+
+#: modules/theme-tools/site-breadcrumbs.php:57 class.jetpack.php:3958
+msgid "Home"
+msgstr "Αρχική"
+
+#: class.jetpack.php:4554
+msgid "Is this site private?"
+msgstr "Ο ιστότοπος αυτός είναι προσωπικός;"
+
+#: class.jetpack.php:3989
+msgid "Jetpack FAQ"
+msgstr "Συχνές Ερωτήσεις για το Jetpack"
+
+#: class.jetpack.php:3990
+msgid "Jetpack Support"
+msgstr "Υποστήριξη Jetpack"
+
+#. Plugin Name of the plugin
+#: class.jetpack.php:3960 class.jetpack.php:3973
+msgid "Jetpack by WordPress.com"
+msgstr "Jetpack από το WordPress.com"
+
+#: class.jetpack.php:4456
+msgid "Jetpack contains the most recent version of the old %l plugin."
+msgid_plural "Jetpack contains the most recent versions of the old %l plugins."
+msgstr[0] "Το Jetpack συμπεριλαμβάνει την τελευταία έκδοση του πρόσθετου %l"
+msgstr[1] "Το Jetpack συμπεριλαμβάνει τις τελευταίες εκδόσεις των πρόσθετων %l"
+
+#: class.jetpack.php:3702 class.jetpack.php:3718
+msgid "Jetpack contains the most recent version of the old &#8220;%1$s&#8221; plugin."
+msgstr "Το Jetpack περιέχει την πιο πρόσφατη έκδοση του &#8220;%1$s&#8221; πρόσθετου."
+
+#: class.jetpack.php:3228
+msgid "Jetpack requires WordPress version %s or later."
+msgstr "Το Jetpack χρειάζεται την έκδοση WordPress %s ή νεότερη."
+
+#: class.jetpack.php:3961
+msgid "Jetpack supercharges your self-hosted WordPress site with the awesome cloud power of WordPress.com."
+msgstr "Το Jetpack προσφέρει προηγμένα και καινοτόμα χαρακτηριστικά του WordPress.com στο WordPress ιστολόγιο και ιστότοπο σας."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-endpoint.php:153
+msgid "Limit must be greater than or equal to 0."
+msgstr "Το όριο πρέπει να είναι μεγαλύτερο ή ίσο με 0."
+
+#: class.jetpack.php:4431
+msgid "Manage has been activated for you!"
+msgstr "Η Διαχείριση ενεργοποίηθηκε!"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-modules-endpoint.php:75
+msgid "Module not found: `%s`."
+msgstr "Δεν ήταν δυνατή η εύρεση του αρθρώματος (module): `%s`."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-install-endpoint.php:82
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-endpoint.php:109
+msgid "No plugins found."
+msgstr "Δεν βρέθηκαν πρόσθετα."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-install-endpoint.php:82
+msgid "No themes found."
+msgstr "Δεν βρέθηκαν Θέματα."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-modify-endpoint.php:101
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:326
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:387
+msgid "No update needed"
+msgstr "Δεν χρειάζεται ενημέρωση"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-endpoint.php:151
+msgid "Offset must be greater than or equal to 0."
+msgstr "Το περιθώριο πρέπει να είναι μεγαλύτερο ή ίσο με 0."
+
+#: class.jetpack.php:3962
+msgid "On this page, you are able to view the modules available within Jetpack, learn more about them, and activate or deactivate them as needed."
+msgstr "Σε αυτή την σελίδα βλέπετε όλες τις διαθέσιμες λειτουργίες του Jetpack, πληροφορίες σχετικά με αυτές και δυνατότητα ενεργοποίησης ή απενεργοποίησης αυτών."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-v1-2-endpoint.php:120
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:214
+msgid "Plugin can only be Network Activated"
+msgstr "Το plugin μπορεί να ενεργοποιηθεί μόνο μέσω δικτύου"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-v1-2-endpoint.php:181
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:283
+msgid "Plugin deactivated."
+msgstr "Το πρόσθετο απενεργοποιήθηκε"
+
+#. translators: %s is the post author
+#: class.jetpack-twitter-cards.php:159
+msgid "Post by %s."
+msgstr "Δημοσιεύθηκε από %s."
+
+#: class.jetpack.php:6105
+msgid "Someone may be trying to trick you into giving them access to your site.  Or it could be you just encountered a bug :).  Either way, please close this window."
+msgstr "Σφάλμα ή κακόβουλη προσπάθεια. Κλείστε το παράθυρο."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-modules-modify-endpoint.php:27
+msgid "The Jetpack Module is already activated."
+msgstr "Το Jetpack είναι ήδη ενεργοποιημένο"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-modules-modify-endpoint.php:46
+msgid "The Jetpack Module is already deactivated."
+msgstr "Το Jetpack είναι ήδη απενεργοποιημένο."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:208
+msgid "The Plugin is already active."
+msgstr "Το Πρόσθετο είναι ήδη ενεργοποιημένο."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:268
+msgid "The Plugin is already deactivated."
+msgstr "Το Πρόσθετο είναι ήδη απενεργοποιημένο."
+
+#: class.jetpack-twitter-cards.php:261
+#: _inc/lib/class.core-rest-api-endpoints.php:2220
+msgid "The Twitter username of the owner of this site's domain."
+msgstr "Όνομα χρήστη Twitter του ιδιοκτήτη αυτού του ονόματος domain. "
+
+#: class.jetpack.php:6178
+msgid "The authorization process expired.  Please go back and try again."
+msgstr "Η διαδικασία πιστοποίησης ξεπέρασε το προβλεπόμενο χρονικό όριο. Παρακαλώ προσπαθήστε ξανά."
+
+#: class.jetpack.php:4467
+msgid "The old version has been deactivated and can be removed from your site."
+msgid_plural "The old versions have been deactivated and can be removed from your site."
+msgstr[0] "Η παλαιότερη έκδοση απενεργοποιήθηκε και μπορεί να αφαιρεθεί από τον ιστότοπο."
+msgstr[1] "Οι παλαιότερες έκδοσεις απενεργοποιήθηκαν και μπορούν να αφαιρεθούν από τον ιστότοπο."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-install-endpoint.php:89
+msgid "The plugin is already installed"
+msgstr "Αυτό το πρόσθετο είναι ήδη εγκατεστημένο"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-active-endpoint.php:35
+msgid "The specified theme was not found."
+msgstr "Το Θέμα που επιλέξατε δεν βρέθηκε."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-install-endpoint.php:87
+msgid "The theme is already installed"
+msgstr "Αυτό το Θέμα είναι ήδη εγκατεστημένο"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-active-endpoint.php:29
+msgid "Theme is empty."
+msgstr "Το Θέμα είναι κενό."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-v1-2-endpoint.php:178
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:280
+msgid "There was an error deactivating your plugin"
+msgstr "Παρουσιάστηκε σφάλμα κατά την απενεργοποίηση του plugin σας"
+
+#: _inc/lib/plugins.php:77
+msgid "There was an error installing your plugin"
+msgstr "Σφάλμα κατά την εγκατάσταση του πρόσθετου"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-install-endpoint.php:65
+msgid "There was an error installing your theme"
+msgstr "Σφάλμα κατά την εγκατάσταση του Θέματος"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:360
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:414
+msgid "There was an error updating your plugin"
+msgstr "Σφάλμα κατά την ενημέρωση του πρόσθετου"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-modify-endpoint.php:80
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-modify-endpoint.php:124
+msgid "There was an error updating your theme"
+msgstr "Σφάλμα κατά την ενημέρωση του Θέματος"
+
+#: json-endpoints/jetpack/class.jetpack-json-api-modules-modify-endpoint.php:32
+msgid "There was an error while activating the module."
+msgstr "Σφάλμα κατά την ενεργοποίηση του module."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-modules-modify-endpoint.php:51
+msgid "There was an error while deactivating the module."
+msgstr "Σφάλμα κατά την απενεργοποίηση του module."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-updates-status-endpoint.php:14
+msgid "There was an error while getting the update data for this site."
+msgstr "Σφάλμα κατά την μεταφορά δεδομένων."
+
+#: json-endpoints/class.wpcom-json-api-post-endpoint.php:69
+#: sal/class.json-api-post-base.php:400
+msgid "This post is password protected."
+msgstr "Αυτό το άρθρο προστατεύεται με κωδικό πρόσβασης."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-endpoint.php:116
+#: json-endpoints/jetpack/class.jetpack-json-api-endpoint.php:121
+msgid "This user is not authorized to %s on this blog."
+msgstr "Ο χρήστης δεν έχει δικαιώματα πρόσβασης για %s σε αυτό το ιστολόγιο."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-endpoint.php:276
+msgid "This user is not authorized to manage plugins network wide."
+msgstr "Ο παρών χρήστης δεν έχει δικαιώματα διαχείρισης πρόσθετων στο δίκτυο."
+
+#: functions.gallery.php:24
+msgid "Thumbnail Grid"
+msgstr "Προβολή μικρογραφιών"
+
+#: class.jetpack-twitter-cards.php:232
+msgid "Twitter Site Tag"
+msgstr "Twitter Site Tag"
+
+#: functions.gallery.php:92
+msgid "Type"
+msgstr "Τύπος"
+
+#: json-endpoints/class.wpcom-json-api-get-post-counts-v1-1-endpoint.php:116
+msgid "Unknown post type requested."
+msgstr "Άγνωστο είδος δημοσίευσης."
+
+#: class.jetpack.php:3977
+msgid "Using the checkboxes next to each module, you can select multiple modules to toggle via the Bulk Actions menu at the top of the list."
+msgstr "Χρησιμοποιώντας τα κουμπιά δίπλα από κάθε module μπορείτε να επιλέξετε πολλά μαζί για μαζικές κινήσεις από το μενού στην αρχή της λίστας."
+
+#: class.jetpack.php:3979
+msgid "Using the tools on the right, you can search for specific modules, filter by module categories or which are active, or change the sorting order."
+msgstr "Χρησιμοποιώντας τα εργαλεία στην δεξιά στήλη μπορείτε να αναζητήσετε για συγκεκριμένα modules, να φιλτράρετε να αποτελέσματα και να αλλάξετε την σειρά εμφάνισης."
+
+#: _inc/jetpack-strings.php:751
+msgid "WordPress.com is currently having problems and is unable to fuel up your Jetpack.  Please try again later."
+msgstr "Αυτή την στιγμή το WordPress.com αντιμετωπίζει προβλήματα και δεν μπορεί να επικοινωνήσει με το Jetpack. Παρακαλώ προσπαθείστε ξανά."
+
+#. translators: %s is the URL to the "Sites" panel on wordpress.com.
+#: class.jetpack.php:4429
+msgid "You are all set! Your site can now be managed from <a href=\"%s\" target=\"_blank\">wordpress.com/sites</a>."
+msgstr "Όλα είναι έτοιμα! Για να διαχειριστείτε τον ιστότοπο σας επισκευθείτε την σελίδα <a href=\"%s\" target=\"_blank\">wordpress.com/sites</a>."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-active-endpoint.php:39
+msgid "You are not allowed to switch to this theme"
+msgstr "Δεν μπορείτε να επιλέξετε αυτό το Θέμα "
+
+#: json-endpoints/jetpack/class.jetpack-json-api-check-capabilities-endpoint.php:15
+msgid "You are required to specify a capability to check."
+msgstr "Είναι απαραίτητη η επιλογή δυνατότητας προς έλεγχο."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-modules-endpoint.php:49
+msgid "You are required to specify a module."
+msgstr "Είναι απαραίτητη η επιλογή αρθρώματος (module)."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-endpoint.php:285
+msgid "You are required to specify a plugin to activate."
+msgstr "Είναι απαραίτητη η επιλογή πρόσθετου προς ενεργοποίηση."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-endpoint.php:84
+msgid "You are required to specify a plugin."
+msgstr "Η επιλογή Πρόσθετου είναι απαραίτητη."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-active-endpoint.php:23
+msgid "You are required to specify a theme to switch to."
+msgstr "Πρέπει να επιλέξετε Θέμα."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-themes-endpoint.php:55
+msgid "You are required to specify a theme to update."
+msgstr "Πρέπει να επιλέξετε Θέμα για την αναβάθμιση του."
+
+#: class.jetpack.php:3974
+msgid "You can activate or deactivate individual Jetpack modules to suit your needs."
+msgstr "Μπορείτε να ενεργοποίησετε και να απενεργοποιήσετε λειτουργίες του Jetpack ανάλογα τις ανάγκες σας."
+
+#: class.jetpack.php:6102
+msgid "You must connect your Jetpack plugin to WordPress.com to use this feature."
+msgstr "Είναι απαραίτητη η σύνδεση του πρόσθετου Jetpack στο WordPress.com για την χρήση αυτού του χαρακτηριστικού."
+
+#: json-endpoints/jetpack/class.jetpack-json-api-endpoint.php:50
+msgid "You must specify a valid action"
+msgstr "Μπορείτε να ορίσετε μια έγκυρη ενέργεια"
+
+#: class.jetpack.php:7053
+msgctxt "{#} Blocked malicious login attempts -- number is on a prior line, text is a caption."
+msgid "Blocked malicious login attempts"
+msgstr "Αποκλείστηκαν κακόβουλες προσπάθειες σύνδεσης στον λογαριασμό σας"
+
+#: class.jetpack.php:4107
+msgid "Deactivate Jetpack"
+msgstr "Απενεργοποίηση Jetpack"
+
+#: class.jetpack.php:7069
+msgid "Protect helps to keep you secure from brute-force login attacks."
+msgstr "Η υπηρεσία Protect προστατεύει το site απο επιθέσεις τύπου brute-force login."
+
+#: class.jetpack.php:3517
+msgid "First param must be string or empty"
+msgstr "Η πρώτη παράμετρος πρέπει να είναι λεκτικό ή κενή"
+
+#: class.jetpack.php:3521
+msgid "Second param must be numeric or empty"
+msgstr "Η δεύτερη παράμετρος πρέπει να είναι αριθμός ή κενή"
+
+#. translators: %s is a URL
+#: class.jetpack.php:1746
+msgid "You are currently running a development version of Jetpack. <a href=\"%s\" target=\"_blank\">Submit your feedback</a>"
+msgstr "Χρησιμοποιείτε έκδοση του Jetpack σε κατάσταση συνεχής ανάπτυξης. <a href=\"%s\" target=\"_blank\">Πείτε μας τα σχόλια και τις ιδέες σας</a>"
+
+#: _inc/jetpack-strings.php:750
+msgid "{{s}}Your Jetpack has a glitch.{{/s}} Connecting this site with WordPress.com is not possible. This usually means your site is not publicly accessible (localhost)."
+msgstr "<strong>Σφάλμα στην λειτουργία του Jetpack.</strong> Η σύνδεση αυτού του ιστότοπου με το WordPress.com δεν είναι εφικτή. Αυτό συνήθως σημαίνει ότι ο ιστότοπος δεν είναι δημόσια προσβάσιμος. "
+
+#: _inc/jetpack-strings.php:752
+msgid "Jetpack could not contact WordPress.com: %(error_key)s.  This usually means something is incorrectly configured on your web host."
+msgstr "Το Jetpack δεν μπόρεσει να συνδεθεί στο WordPress.com: %s. Αυτό συνήθως σημαίνει λάθος ρυθμίσεις στο πακέτο φιλοξενίας του ιστότοπου σας. "
+
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-v1-2-endpoint.php:143
+#: json-endpoints/jetpack/class.jetpack-json-api-plugins-modify-endpoint.php:237
+msgid "Plugin activated."
+msgstr "Το πρόσθετο ενεργοποιήθηκε."
+
+#: class.jetpack-cli.php:114
+msgctxt "\"wp jetpack status full\" is a command - do not translate"
+msgid "View full status with 'wp jetpack status full'"
+msgstr "Δείτε την πλήρη κατάσταση με 'wp jetpack status full'"
+
+#. translators: %s is an IP address
+#: class.jetpack-cli.php:612 class.jetpack-cli.php:622
+msgid "%s has already been whitelisted"
+msgstr "Το %s έχει ήδη προστεθεί στη λευκή λίστα"
+
+#. translators: %s is the name of a Jetpack module
+#: class.jetpack-cli.php:533
+msgid "%s has been activated."
+msgstr "Το %s ενεργοποιήθηκε."
+
+#. translators: %s is the name of a Jetpack module
+#: class.jetpack-cli.php:549
+msgid "%s has been deactivated."
+msgstr "Το %s απενεργοποιήθηκε."
+
+#: class.jetpack-cli.php:234
+msgid "User has been successfully disconnected."
+msgstr "Το %s αποσυνδέθηκε επιτυχώς."
+
+#. translators: %s is an IP address
+#: class.jetpack-cli.php:670
+msgid "%s has been whitelisted."
+msgstr "Το %s προστέθηκε στην λίστα εγκεκριμένων διευθύνσεων IP."
+
+#. translators: %s is a command like "prompt"
+#: class.jetpack-cli.php:46 class.jetpack-cli.php:195 class.jetpack-cli.php:272
+#: class.jetpack-cli.php:581 class.jetpack-cli.php:713
+msgid "%s is not a valid command."
+msgstr "Το %s δεν αποτελεί έγκυρη εντολή."
+
+#. translators: %s is a module slug like "stats"
+#: class.jetpack-cli.php:493
+msgid "%s is not a valid module."
+msgstr "Το %s δεν αποτελεί έγκυρο άρθρωμα."
+
+#. translators: This is the result of an action. The option named %s was reset
+#: class.jetpack-cli.php:307 class.jetpack-cli.php:319
+msgid "%s option reset"
+msgstr "Επαναφορά ρυθμίσεων %s"
+
+#: class.jetpack-cli.php:791
+msgctxt "'get', 'delete', and 'update' are commands - do not translate."
+msgid "Above are your options. You may 'get', 'delete', and 'update' them."
+msgstr "Παραπάνω είναι οι επιλογές σας. Μπορείτε να τις κάνετε 'get', 'delete', ή 'update'."
+
+#: class.jetpack-cli.php:677
+msgctxt "'list' and 'clear' are commands and should not be translated"
+msgid "You can also 'list' or 'clear' the whitelist."
+msgstr "Μπορείτε επίσης να κάνετε 'list' ή 'clear' τη λευκή λίστα."
+
+#: class.jetpack-cli.php:795
+msgctxt "'wp jetpack options' is a command - do not translate."
+msgid "Type 'wp jetpack options' for more info."
+msgstr "Εισάγετε 'wp jetpack options' για περισσότερες πληροφορίες."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:99
+msgid "A known issue."
+msgstr "Γνωστό πρόβλημα."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:136
+msgid "A problem with your XMLRPC file."
+msgstr "Πρόβλημα με το αρχείο XMLRPC."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:123
+msgid "A theme conflict."
+msgstr "Διένεξη Θεμάτων"
+
+#: class.jetpack-modules-list-table.php:115
+#: class.jetpack-modules-list-table.php:214
+#: class.jetpack-modules-list-table.php:283 _inc/jetpack-strings.php:518
+#: _inc/lib/admin-pages/class-jetpack-about-page.php:352
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: class.jetpack-cli.php:522 modules/vaultpress.php:27
+#: _inc/jetpack-strings.php:465 _inc/jetpack-strings.php:492
+#: _inc/jetpack-strings.php:704
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:96
+msgid "Active"
+msgstr "Ενεργό"
+
+#: class.jetpack-cli.php:84
+msgid "Additional data: "
+msgstr "Επιπλέον δεδομένα:"
+
+#: class.jetpack-modules-list-table.php:142
+#: modules/widgets/upcoming-events.php:60
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:95
+msgid "All"
+msgstr "Όλα"
+
+#: class.jetpack-cli.php:542
+msgid "All modules activated!"
+msgstr "Όλα τα modules ενεργοποιήθηκαν!"
+
+#: class.jetpack-cli.php:553
+msgid "All modules deactivated!"
+msgstr "Όλα τα modules απενεργοποιήθηκαν!"
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:101
+msgid "Alphabetical"
+msgstr "Αλφαβητικά"
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:121
+msgid "An incompatible plugin."
+msgstr "Μη συμβατό Πρόσθετο."
+
+#: class.jetpack-cli.php:653
+msgid "Cleared all whitelisted IPs"
+msgstr "Όλες οι εγκεκριμένες διευθύνσεις IP διαγράφηκαν"
+
+#: class.jetpack-admin.php:168 modules/plugin-search.php:216
+#: modules/plugin-search.php:509 modules/stats.php:577 modules/stats.php:1100
+#: _inc/jetpack-strings.php:883
+msgid "Configure"
+msgstr "Ρύθμιση"
+
+#: class.jetpack-network-sites-list-table.php:16 _inc/jetpack-strings.php:438
+msgid "Connected"
+msgstr "Συνδεδεμένο"
+
+#: class.jetpack-modules-list-table.php:113
+#: class.jetpack-modules-list-table.php:215
+#: class.jetpack-modules-list-table.php:295
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#. translators: %s is the option name
+#: class.jetpack-cli.php:747
+msgid "Deleted option: %s"
+msgstr "Διαγραμμένη επιλογή: %s"
+
+#: _inc/jetpack-strings.php:763
+msgid "Disconnect Jetpack"
+msgstr "Αποσύνδεση Jetpack"
+
+#: class.jetpack-network-sites-list-table.php:62 modules/publicize/ui.php:517
+#: modules/publicize/ui.php:525 modules/custom-css/custom-css.php:1052
+#: modules/custom-css/custom-css.php:1167
+#: modules/custom-css/custom-css.php:1197 _inc/jetpack-strings.php:924
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: modules/contact-form/grunion-form-view.php:191
+#: modules/contact-form/grunion-contact-form.php:172
+#: modules/contact-form/grunion-contact-form.php:173
+#: modules/contact-form/grunion-contact-form.php:925
+#: modules/contact-form/grunion-contact-form.php:943
+#: modules/contact-form/grunion-contact-form.php:1013
+#: modules/calypsoify/class.jetpack-calypsoify.php:239
+#: modules/calypsoify/class.jetpack-calypsoify.php:294
+msgid "Feedback"
+msgstr "Προτάσεις και σχόλια"
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:121
+msgid "Find out by disabling all plugins except Jetpack. If the problem persists, it's not a plugin issue. If the problem is solved, turn your plugins on one by one until the problem pops up again – there's the culprit! Let us know, and we'll try to help."
+msgstr "Απενεργοποιήστε όλα τα Πρόσθετα εκτός του Jetpack. Αν το πρόβλημα συνεχίζει τότε δεν προέρχεται από κάποιο Πρόσθετο. Αν το πρόβλημα επιλύθηκε, ενεργοποιήστε ένα-ένα τα Πρόσθετα για να εντοπίσετε πιο δημιουργεί το πρόβλημα."
+
+#: class.jetpack-cli.php:636
+msgid "Here are your whitelisted IPs:"
+msgstr "Εγκεκριμένες Διευθύνσεις IP:"
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:148
+msgid "If it's not by itself, a theme or plugin is displaying extra characters. Try steps 2 and 3."
+msgstr "Αν δεν συμβαίνει αυτόματα, κάποιο Θέμα ή Πρόσθετο χρησιμοποιούν επιπλέον χαρακτήρες. Δοκιμάστε τα βήματα 2 και 3."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:149
+msgid "If you get a 404 message, contact your web host. Their security may block XMLRPC."
+msgstr "Αν λαμβάνετε το Σφάλμα 404 επικοινωνήστε με τον διαχειριστή του πακέτου φιλοξενίας του ιστότοπου σας. Οι ρυθμίσεις ασφαλείας είναι πιθανό να αποκλείουν το XMLRPC."
+
+#: class.jetpack-cli.php:523
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:97
+msgid "Inactive"
+msgstr "Ανενεργό"
+
+#: class.jetpack-cli.php:676
+msgctxt "Instructions on how to whitelist IP ranges - low_range/high_range should be translated."
+msgid "You can save a range of IPs {low_range}-{high_range}. No spaces allowed.  (example: 1.1.1.1-2.2.2.2)"
+msgstr "Μπορείτε να αποθηκεύσετε μια σειρά από διευθύνσεις IP {κατώτατο_όριο}-{ανώτατο_όριο}. Δεν επιτρέπονται κενά. (παράδειγμα: 1.1.1.1-2.2.2.2)"
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:95
+msgid "It may be caused by one of these issues, which you can diagnose yourself:"
+msgstr "Είναι πιθανό να συμβαίνει εξαιτίας των παρακάτω λόγων:"
+
+#: _inc/lib/debugger/class-jetpack-debug-data.php:104
+#: _inc/lib/debugger/class-jetpack-cxn-test-base.php:427
+#: _inc/lib/debugger/debug-functions.php:88
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:21
+msgid "Jetpack Settings"
+msgstr "Ρυθμίσεις Jetpack"
+
+#: class.jetpack-network.php:297
+msgid "Jetpack Sites"
+msgstr "Ιστότοποι Jetpack"
+
+#: class.jetpack-cli.php:56
+msgid "Jetpack is currently connected to WordPress.com"
+msgstr "Το Jetpack είναι συνδεδεμένο με το WordPress.com"
+
+#: class.jetpack-cli.php:135 class.jetpack-cli.php:1235
+#: class.jetpack-cli.php:1331 class.jetpack-cli.php:1430
+#: class.jetpack-cli.php:1610
+msgid "Jetpack is not currently connected to WordPress.com"
+msgstr "Το Jetpack δεν είναι συνδεδεμένο με το WordPress.com"
+
+#: modules/custom-content-types.php:44 modules/sso.php:1187
+#: modules/custom-post-types/testimonial.php:155
+#: modules/custom-post-types/portfolios.php:140 modules/protect.php:189
+#: class.jetpack.php:7469 class.jetpack.php:7490 _inc/jetpack-strings.php:736
+#: _inc/jetpack-strings.php:759
+msgid "Learn More"
+msgstr "Μάθετε περισσότερα"
+
+#. translators: The URL to the site's xmlrpc.php file.
+#: _inc/lib/debugger/class-jetpack-debugger.php:141
+msgid "Load your <a href=\"%s\">XMLRPC file</a>. It should say “XML-RPC server accepts POST requests only.” on a line by itself."
+msgstr "Φορτώστε το <a href=\"%s\">αρχείο XMLRPC</a>. Θα πρέπει να αναφέρει \"Ο διακομιστής XML-RPC δέχεται μόνο συνδέσεις POST\"."
+
+#: class.jetpack-cli.php:329 class.jetpack-cli.php:337
+#: _inc/lib/class.core-rest-api-endpoints.php:1906
+msgid "Modules reset to default."
+msgstr "Έγινε επαναφορά στις αρχικές ρυθμίσεις σε όλα τα modules."
+
+#: class.jetpack-modules-list-table.php:207
+#: modules/contact-form/grunion-form-view.php:216
+#: modules/contact-form/grunion-editor-view.php:87
+#: modules/contact-form/grunion-editor-view.php:219
+#: modules/contact-form/grunion-contact-form.php:1869
+#: modules/contact-form/grunion-contact-form.php:2327
+#: modules/carousel/jetpack-carousel.php:297
+#: modules/custom-post-types/nova.php:953
+#: _inc/lib/core-api/class.jetpack-core-api-module-endpoints.php:1068
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Name"
+msgstr "Όνομα"
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:102
+msgid "Newest"
+msgstr "Νεότερο"
+
+#: class.jetpack-modules-list-table.php:125
+msgid "No Modules Found"
+msgstr "Δεν βρέθηκαν αρθρώματα (modules)"
+
+#: class.jetpack-cli.php:674
+msgid "No command found."
+msgstr "Η εντολή δεν βρέθηκε."
+
+#: class.jetpack-cli.php:769 _inc/blocks/editor.js:18
+#: _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Option"
+msgstr "Ρύθμιση"
+
+#: class.jetpack-cli.php:731
+msgid "Option not found or is empty.  Use \"list\" to list option names"
+msgstr "Η επιλογή δεν βρέθηκε ή είναι κενή. Επιλέξτε \"λίστα\" για εμφάνιση όλων των ονομάτων"
+
+#: class.jetpack-network-sites-list-table.php:15
+msgid "Path"
+msgstr "Διαδρομή"
+
+#: class.jetpack-cli.php:675
+msgid "Please enter the IP address you want to whitelist."
+msgstr "Παρακαλώ εισάγετε τη διεύθυνση IP που θέλετε να προσθέσετε στη λευκή λίστα."
+
+#: class.jetpack-cli.php:215
+msgid "Please specify a user by either ID, username, or email."
+msgstr "Προσδιορίστε τον χρήστη με το ID, όνομα χρήστη ή email."
+
+#: class.jetpack-cli.php:506
+msgid "Please specify a valid module."
+msgstr "Προσδιορίστε ένα έγκυρο άρθρωμα."
+
+#: class.jetpack-cli.php:212
+msgid "Please specify a valid user."
+msgstr "Παρακαλώ προσδιορίστε έναν έγκυρο χρήστη."
+
+#: class.jetpack-cli.php:241
+msgid "Please specify if you would like to disconnect a blog or user."
+msgstr "Παρακαλώ προσδιορίστε αν θέλετε να αποσυνδέσετε ιστολόγιο ή χρήστη."
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:103
+msgid "Popular"
+msgstr "Δημοφιλή"
+
+#: class.jetpack-cli.php:323
+msgid "Resetting default modules...\n"
+msgstr "Επαναφορά προεπιλεγμένων modules...\n"
+
+#: class.jetpack-cli.php:311
+msgid "Resetting the jetpack options stored in wp_options...\n"
+msgstr "Επαναφορά ρυθμίσεων Jetpack στο wp_options...\n"
+
+#: modules/masterbar/masterbar.php:501 modules/widgets/search.php:70
+#: class.jetpack.php:7498 _inc/jetpack-strings.php:114
+#: _inc/jetpack-strings.php:272 _inc/jetpack-strings.php:276
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:92
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: class.jetpack-modules-list-table.php:72
+msgid "Search Modules…"
+msgstr "Αναζήτηση αρθρωμάτων..."
+
+#: class.jetpack-network.php:298 modules/sharedaddy/sharedaddy.php:217
+#: modules/sharedaddy/sharedaddy.php:224 modules/publicize/ui.php:517
+#: modules/masterbar/masterbar.php:1312 class.jetpack.php:3971
+#: class.jetpack.php:4048 _inc/jetpack-strings.php:789
+#: _inc/lib/admin-pages/class.jetpack-react-page.php:84
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:22
+#: _inc/lib/admin-pages/class.jetpack-admin-page.php:332
+#: _inc/blocks/editor.js:18 _inc/blocks/editor-experimental.js:18
+#: _inc/blocks/editor-no-post-editor.js:18 _inc/blocks/editor-beta.js:18
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:105
+msgid "Show:"
+msgstr "Προβολή:"
+
+#: class.jetpack-network-sites-list-table.php:14
+msgid "Site Name"
+msgstr "Όνομα ιστότοπου"
+
+#: class.jetpack-network.php:297 class.jetpack-network.php:573
+msgid "Sites"
+msgstr "Ιστότοποι"
+
+#: class.jetpack-cli.php:755
+msgid "Sorry, no updating arrays at this time"
+msgstr "Σφάλμα. Δεν είναι δυνατή η ενημέρωση του πίνακα."
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:99
+msgid "Sort by:"
+msgstr "Ταξινόμηση κατά:"
+
+#: modules/sharedaddy/sharedaddy.php:225 class.jetpack.php:4049
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:67
+msgid "Testing your site's compatibility with Jetpack..."
+msgstr "Έλεγχος συμβατότης του ιστότοπου σας με το Jetpack..."
+
+#. translators: %s is current version of Jetpack, for example 7.3
+#: class.jetpack-cli.php:70
+msgid "The Jetpack Version is %s"
+msgstr "Η έκδοση του Jetpack είναι %s"
+
+#. translators: %d is WP.com ID of this blog
+#: class.jetpack-cli.php:72
+msgid "The WordPress.com blog_id is %d"
+msgstr "Το αναγνωριστικό WordPress.com blog_id είναι %d"
+
+#. translators: %s is an e-mail address
+#: _inc/lib/debugger/class-jetpack-debugger.php:210
+msgid "The primary connection is owned by <strong>%s</strong>'s WordPress.com account."
+msgstr "Η κύρια σύνδεση ανήκει στον λογαριασμό WordPress.com του/της <strong>%s</strong>."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:94
+msgid "Trouble with Jetpack?"
+msgstr "Πρόβλημα με το Jetpack;"
+
+#: class.jetpack-cli.php:769
+msgid "Value"
+msgstr "Τιμή"
+
+#. translators: %s is the post author
+#: class.jetpack-twitter-cards.php:156
+msgid "Video post by %s."
+msgstr "Το βίντεο δημοσιεύθηκε από %s."
+
+#. translators: %s is the post author
+#: class.jetpack-twitter-cards.php:156
+msgid "Video post."
+msgstr "Βίντεο δημοσίευση"
+
+#: _inc/lib/admin-pages/class.jetpack-settings-page.php:93
+msgid "View:"
+msgstr "Προβολή:"
+
+#. translators: %s is the post author
+#: class.jetpack-twitter-cards.php:152 class.jetpack-twitter-cards.php:159
+#: functions.opengraph.php:149
+msgid "Visit the post for more."
+msgstr "Διαβάστε το άρθρο για λεπτομέρειες."
+
+#: class.jetpack-cli.php:641 class.jetpack-cli.php:655
+msgid "Whitelist is empty."
+msgstr "Η λίστα εγκεκριμένων διευθύνσεων IP είναι κενή."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:56
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Δεν έχετε δικαιώματα πρόσβασης σε αυτή τη σελίδα."
+
+#: _inc/lib/debugger/class-jetpack-debugger.php:71
+msgid "Your Jetpack setup looks a-okay!"
+msgstr "Η εγκατάσταση του Jetpack είναι μια χαρά."
+
+#: class.jetpack-cli.php:787
+msgctxt "a variable command that a user can write, provided in the printed instructions"
+msgid "option"
+msgstr "ρύθμιση"
+
+#: class.jetpack-cli.php:788
+msgctxt "the value that they want to update the option to"
+msgid "value"
+msgstr " τιμή"
+
+#: class.jetpack-cli.php:2047
+msgid "Action cancelled. Have a question?"
+msgstr "Η ενέργεια ακυρώθηκε. Έχετε ερωτήσεις;"
+
+#: class.jetpack.php:3991
+msgid "Jetpack Debugging Center"
+msgstr "Κέντρο Αποσφαλμάτωσης Jetpack "
