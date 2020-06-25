@@ -29,7 +29,7 @@ $ripple_feat_right_query = new WP_Query(array('post_type' => 'post', 'cat' => $r
                         <div class="hm-feat-post-content">
                             <span class="feat-button"><a href="<?php the_permalink(); ?>"><span class="hm-feat-post-title"><?php the_title(); ?></span></a></span>
                             <div class="hm-feat-post-describe">
-                                <?php the_content(); ?>
+                                <?php echo (wp_trim_words(get_the_content(),'12','...')); ?>
                             </div>
                         </div>
                         <div class="hm-feat-post-icon">
@@ -52,7 +52,7 @@ $ripple_feat_right_query = new WP_Query(array('post_type' => 'post', 'cat' => $r
                         <div class="hm-feat-post-content">
                              <span class="feat-button"><a href="<?php the_permalink(); ?>"><span class="hm-feat-post-title"><?php the_title(); ?></span></a></span>
                             <div class="hm-feat-post-describe">
-                                <?php the_content(); ?>
+                                <?php echo (wp_trim_words(get_the_content(),'12','...')); ?>
                             </div>
                         </div>
                         <div class="hm-feat-post-icon">
