@@ -1,0 +1,2 @@
+# Ripple template theme edited
+
