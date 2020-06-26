@@ -15,6 +15,17 @@
         <?php if ( is_singular() && pings_open( get_queried_object() ) ) : ?>
         <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
         <?php endif; ?>
+        
+        <meta name="description" content="WordPress page, for customizable actions" />
+        <meta name="author" content="Esteban Camargo" />
+        <meta name="keywords" content="WordPress" />
+        <!-- WhatsApp Description -->
+        <meta property="og:title" content="WordPress template" />
+        <meta property="og:description" content="WordPress Ripple theme edited by Estebmaister" />
+        <meta property="og:image" content="https://estebmaister.com.ve/assets/images/profile.png" />
+        <meta property="og:url" content="http://estebmaister.com.ve/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="wp ripple" />
 
         <?php wp_head(); ?>
     </head>
@@ -23,7 +34,7 @@
         <?php  
             $ripple_disp_parallax_menu = absint(get_theme_mod('ripple_disp_parallax_menu', 0));
         ?> 
-        <?php // echo do_shortcode('[prisna-google-website-translator]'); ?>
+        <?php echo do_shortcode('[prisna-google-website-translator]'); ?>
         <div id="page" class="hfeed site">
             <header id="masthead" class="site-header" role="banner">
 
@@ -67,6 +78,7 @@
                                                 <?php
                                             endforeach;
                                             ?>
+                                            <li><?php // echo do_shortcode('[prisna-google-website-translator]'); ?></li>
                                         </ul>
                                     <?php else : ?>
                                         <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e('Primary Menu', 'ripple'); ?></button>
